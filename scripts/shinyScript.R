@@ -2,6 +2,7 @@ library(rvest)
 library(magrittr)
 library(stringr)
 
+## function scraps question and answer from yahoo
 getQAFromYahoo <- function(URL){
     page <- read_html(URL)
     
@@ -19,6 +20,7 @@ getQAFromYahoo <- function(URL){
     return(c(question, answers))
 }
 
+## function scraps question and answer from Answers.com
 getQAFromAnswers <- function(URL){
     page <- read_html(URL)
     
@@ -37,9 +39,11 @@ getQAFromAnswers <- function(URL){
 }
 
 getQAFromURL <- function(URL){
+    ## checks if url is yahoo
     if(grepl("answers.yahoo.com", URL)){
         return(getQAFromYahoo(URL))
     }
+    ## checks if url is answers.com
     else if(grepl("answers.com", URL)){
         return(getQAFromAnswers(URL))
     }

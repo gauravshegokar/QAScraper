@@ -1,3 +1,5 @@
+library(stringr)
+library(rvest)
 
 URL <- "http://www.etihadguest.com/en/faqs/"
 page <- read_html(URL)

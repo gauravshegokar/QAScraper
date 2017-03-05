@@ -1,0 +1,606 @@
+meUrl: 'https://login.live.com/me.srf?wa=wsignin1.0',
+isSupported: true
+},
+aadInfo:
+},
+preferredIdp: 'msa',
+},
+signInStr: 'Sign in',
+signOutStr: 'Sign out'
+};
+$(function( ) {
+// on Ready...
+$('div.video_box').fadeIn();
+});
+
+
+
+So, you have questions?
+Well, you've come to the right place! From Rewards Credits to MyVIP, we've covered pretty much every topic in the FAQ. But if your question hasn't been answered below, simply create a post in our Support Forum and we'll get back to you within three business days. You can also follow us on Twitter at @XboxLiveRewards for the latest news!
+FAQ
+Use the hot links to jump to specific topics, or simply scroll down to read through each of our FAQs.
+About
+MyMissions
+VIP
+More Questions
+Before you join
+
+
+
++ What is Xbox Live Rewards?
+Xbox Live Rewards is a loyalty programme designed for people who love Xbox. In addition to getting access to special offers and promotions that are exclusive to our members, you'll also be able to earn Rewards Credits that will be converted into your local currency and can be used to purchase the things you want in the Xbox Store.In addition to our special events and offers, there are two easy ways to earn Rewards Credits each month. The first way is by completing ongoing 'missions', which are specific tasks that need to be completed within a set time-period. The second is by earning a MyVIP Star Rank, which gives you a percentage back on your monthly purchases in the Xbox Store.
+In addition to our missions, which are updated frequently on the MyMissions page, we also have special offers and exclusive perks just for our members. You can read more about those here.
+Once you rack up 5,000 Rewards Credits or more, they'll be converted into your country's local currency and deposited directly into your Microsoft account. Then it's off to the Xbox Store, where you can spend your money however you like – whether on a game, add-on, film, TV programme or avatar item.
+
+
+
++ Is this an Xbox sponsored programme?
+Yes. Xbox Live Rewards is sponsored by Microsoft Corporation.
+
+
+
++ Who is eligible to participate in Xbox Live Rewards?
+Xbox Live Rewards is open to users who have an Xbox Live account, reside in Australia, Belgium, Brazil, Canada, France, Germany, Hong Kong, Ireland, Italy, Japan, Mexico, the Netherlands, New Zealand, Singapore, Spain, Sweden, Taiwan, the United Kingdom or the 50 United States (including District of Columbia), and are 13 years of age or older. Users with an Xbox Live account who reside in Norway must be 18 years of age or older to be eligible. Please see the Terms and Conditions for full eligibility details.If your country of residence is not currently eligible, please check again soon—we're always looking into adding new countries to the programme!
+
+
+
++ What type of Rewards can I earn?
+In addition to our special events and offers, there are two easy ways to earn Rewards Credits each month; by completing missions or special offers, or with a MyVIP Star Rank. To see current missions, visit the MyMissions page. For more details, please see the Terms and Conditions. Don't forget to check again soon to see what's new, as missions are updated frequently!To learn more about your MyVIP Star Rank, which gives you a percentage back on what you buy in the Xbox Store, visit the MyRewards page. Once you have earned at least 1 Star, you'll start earning each month based on your qualifying purchases from the previous month.
+Please note: Xbox Live Rewards members may not earn Rewards Credits for multiple offers based on performing the same action. For example, your purchases made to complete a monthly mission won't also be eligible for MyVIP.
+
+
+
++ I've had an Xbox Live account for years. Can I earn Rewards Credits for transactions made prior to signing up for Xbox Live Rewards?
+You can only earn Rewards Credits once you're an Xbox Live Rewards member. Once your membership is complete, we'll begin tracking your activity and rewarding you for things like completing missions or tracking your MyVIP progress by making purchases in the Xbox Store. For full details on the Rewards available, please see the Terms and Conditions.
+
+
+
++ How do I earn even more Rewards Credits?
+While an Xbox Live Gold membership isn't required to earn Rewards, you'll get access to exclusive earning opportunities if you go Gold. However, all members can still earn Rewards Credits for completing missions, actions like taking surveys, completing Punchcards, or making purchases in the Xbox Store with their MyVIP Star Rank. To get the most out of Xbox Live Rewards, click here to become an Xbox Live Gold member.
+
+
+
++ Can I get rewarded for my Gamerscore and achievements?
+We don't currently Reward based solely on Gamerscore or achievements, though some missions do offer Rewards Credits for completing achievements with a particular game and time-period.
++ I still have questions!
+Please create a post in our Support Forum and we'll get back to you within three working days. You can also follow us on Twitter at @XboxLiveRewards to keep up on the latest news!
+Getting started
+
+
+
++ How do I sign up for Xbox Live Rewards?
+Go to the Xbox Live Rewards website and enroll by clicking the 'Join Xbox Live Rewards' button. You will need a Microsoft Xbox Live account to participate. Please use the Microsoft account associated with your Xbox Live Gamertag. If you do not already have a Microsoft account, you can create one for free. It will take up to 96 hours to confirm your eligibility and set up your account with Xbox Live Rewards. Head back to rewards.xbox.com in a couple of days to view your newly created account.
+
+
+
++ My Xbox Live Rewards account is not recognising my Xbox Live Gold membership. What should I do?
+Xbox Live Rewards can only recognise paid monthly or yearly standard, non-promotional Xbox Live Gold memberships. If you have a different type of membership, we may not be able to recognise you as an Xbox Live Rewards Gold member.
+
+
+
++ How do I make sure that my Microsoft account is properly set up to receive Xbox Live Rewards deposits?
+In order to receive deposits in the form of your country's local currency, your Microsoft account must be transitioned to currency. As long as you have a billing address on file in your account, you simply need to redeem an Xbox gift card, a Microsoft Points card or a Microsoft Points code with your Microsoft account to begin your account transition.
+
+
+
++ Why can't I access my account information immediately after registration?
+While most users receive confirmation within 2 days, in some rare circumstances it may take up to 96 hours for your account set up to complete.
+
+
+
++ I'm having trouble logging in with my Microsoft account. What should I do?
+If you've forgotten your password, simply go here, click the 'forgotten password' link and follow the instructions provided. Once this process is complete, go back to the Xbox Live Rewards home page to log in. For further assistance with your account, visit the Microsoft Account Sign-In Help Center.
+
+
+
++ What types of communications will I receive from Xbox Live Rewards?
+As an Xbox Live Rewards member, you will receive a variety of e-mails, including registration confirmation notifications, monthly rewards programme updates, special offers and more. In general, you shouldn't receive more than two e-mails per month unless you have been selected for VIP Rewards or exclusive offers. Please note that you may receive an e-mail from XboxLiveRewards@helloworld.com on behalf of Xbox for updates. If you have not already done so, make sure that your junk mail filters are set to receive e-mails from XboxLiveRewards@helloworld.com.
+
+
+
++ What if I want to participate in Xbox Live Rewards but I do not want to receive email communications?
+Unfortunately, it's necessary to use e-mail communications to inform members of the latest programme updates and offers, as well as to provide status updates of their accounts. All VIP Exclusives and many prizes are sent via e-mail as well. To stop receiving e-mails, you will need to opt-out of the programme. You can do that by clicking here.
+Getting and using Rewards Credits
+
+
+
++ What are Rewards Credits and how can I use them?
+Rewards Credits are a way of keeping track of the funds that you earn through Xbox Live Rewards. Once you accumulate 5,000 Credits or more, they will be converted into your country's local currency and deposited into your Microsoft account. Then, you can head over to the Xbox Store to purchase your favourite games, TV programmes, films, and much more!
+
+
+
++ What is the monetary value of Rewards Credits?
+5,000 Rewards Credits are equal to £3.
+
+
+
++ What happened to Microsoft Points?
+Microsoft Points officially retired several years ago. Instead, you can use money to purchase content on Xbox (see Xbox.com Points FAQ for more information). With this change, it became necessary for us to evolve the way we reward you. Instead of Microsoft Points, Xbox Live Rewards members can now earn Rewards Credits, which are converted into your country's local currency and deposited as funds directly into your Microsoft account.
+
+
+
++ When will I get my Rewards Credits?
+Rewards Credits will be converted into your country's local currency and deposited into your Microsoft account by the 15th and 30th of each month, once you hit 5,000 Credits. If you have less than 5,000 Credits, they will be held as Pending until a quantity of 5,000 is reached.
+
+
+
++ How do I know how many Rewards Credits I've earned and how will I know when they have been converted to my local currency and deposited into my Microsoft account?
+First, log in to Xbox Live Rewards and head over to the MyRewards page. Once you are on the MyRewards page, click on 'View MyStatement.' MyStatement is a summary of all your rewards activity. You can view:Pending Rewards Credits: Credits you've earned that have not yet been converted to your local currency and deposited into your Microsoft account
+Rewards Credits Deposits: Credits that have already been converted to your country's local currency and deposited in your Microsoft account.
+Previous Month: Activity over the last month
+Last 6 Months: Activity over the last 6 months
+Lifetime: All your activity for the entire duration of your Xbox Live Rewards membership.
+You'll also receive a MyStatement email each month that shows your Rewards Credits activity summary.
+
+
+
++ My Rewards Credits balance seems wrong. What should I do?
+Please contact us via the Support Forum so we can take a look at your account.
+
+
+
++ What if I want my Rewards Credits, but I don't have 5,000 accumulated?
+If you reach 1,000 Rewards Credits or more but don't have the 5,000 Credits needed to automatically trigger a deposit, a 'Request Deposit' button will appear on your MyRewards page. Click the button to request your credits, which will be deposited into your Microsoft account by the next scheduled deposit date. Check out the progress bar at the top of your MyRewards page to see your Credits progress.
++ I was expecting a deposit by a certain date, but MyRewards suddenly is showing a later date.
+Once it is within three days of a scheduled deposit, our system shows the next scheduled deposit date on MyRewards. If you have enough Credits accumulated and are expecting a deposit on a certain date but don’t see it in your account, please post on our support forum.
+
+
+
++ Can I get a Rewards deposit in another currency?
+No. Rewards Credits will not be converted into currency not associated with the countries eligible to participate in the programme. Your Xbox Live profile must be set to an eligible locale.
+
+
+
++ Will my Rewards Credits expire?
+While Rewards Credits do not expire, the funds that we deposit do, so be sure to use them within a year! Once Rewards Credits have been converted to your country’s local currency and deposited into your Microsoft account, the cash value will expire within 365 days upon deposit. To view expiring deposits in your Microsoft account, go to the Billing and Account Management page. See the Terms and Conditions for full details.
+
+
+
++ How long will it take for rewards activity to appear on the MyRewards page?
+Some activities will be displayed in the MyCredits progress bar and in MyStatement within two to four working days. Others, like special offers, won't appear up until the offer is over. When in doubt, check the offer FAQ or the offer Terms and Conditions found in the footer of the webpage that references the offer.
+Updating your account
+
+
+
++ How do I change the email address where I receive Xbox Live Rewards communications?
+In order to change your Microsoft account, please click here and follow the instructions. Please make sure that the Microsoft account associated with your Gamertag is current to ensure that you receive your Xbox Live Rewards e-mail offers and updates. To see which e-mail address we have on file for you, go to http://commerce.microsoft.com, log in with the Microsoft account tied to your Gamertag, click on 'Billing Info' and select the 'Edit Profile' link at the top.
+
+
+
++ Will I still receive Xbox Live Rewards Credits if I change my Microsoft account (e-mail)?
+Yes. Updating your Microsoft account (e-mail) associated with your Gamertag will not impact your Xbox Live Rewards Credits deposits. However, if you do make this change, you won't be able to sign in to the Xbox Live Rewards site with your old Microsoft account (e-mail) until you take an extra step. After 72 hours, you will need to re-register for the programme with the new Microsoft account (e-mail). After 4 days you should be able to sign in with your new Microsoft account and view your information on the MyRewards page.
+
+
+
++ How do I remove myself from the Xbox Live Rewards programme?
+We love rewarding our members for doing what they love. However, if you would like to leave the programme, you can opt-out at any time by clicking here.
+
+
+
++ How do I update my Gamertag, Avatar, and Xbox Live Rewards account information?
+To update your account information, simply follow the links and instructions provided under the My Account section of Xbox.com. Xbox Live Rewards uses your existing information so you don't need to update in two places. Since changes in profile information can take up to 2 weeks to finalise, please continue to participate while our systems are updating.
+
+
+
++ What if I move to another country or change my region?
+Rewards Credits are converted to the currency associated with your original country of enrolment. Any Rewards Credits already deposited are yours to keep, but changing your region will result in us being unable to deposit any Pending Credits that convert to your new region's currency.Not to worry, though! If you would like to continue participating in Xbox Live Rewards, simply opt out of the programme and then sign back up again. Your account will start afresh and you'll start earning Rewards Credits that will convert to your new currency. So, if you're planning on moving, be sure to request your Rewards Credits deposit early before you change your region.
+
+
+
++ Who do I contact if I have further questions about Xbox Live Rewards?
+If you have additional questions that have not been answered here, please see our Terms and Conditions for full information. After reading our terms, if you still have questions, please create a new post in our Support Forum and the Xbox Live Rewards Team will look into your enquiry and get back to you within three working days.
+MyMissions
+Warrior Rewards Offer
+
+
+
++How do I earn Rewards with the Warrior Rewards Offer?
+This is a multi-tiered offer worth up to 10,000 Rewards Credits overall. In order to earn the entire amount, you must complete all of the levels of the offer. Please see Question 2 for eligible content. All actions must be completed between 1 March 2017 00:00 UTC and 31 March 2017 23:59 UTC. Please visit http://www.worldtimeserver.com or another world time database to determine local time.
+Level 1: SHARPEN YOUR BLADE (UNLOCKS LEVEL 3) — Earn 5,000 Rewards Credits for spending at least £36 including VAT on eligible Games on Demand titles like For Honor, Lords of the Fallen, and Dragon Age Inquisition in the Xbox Store, and battle-worthy films* and TV programmes* like The Hobbit: Battle of the Five Armies, Last of the Mohicans, and Vikings from Microsoft Movies & TV.
+Level 2: PAY HOMAGE TO ODIN — Earn 2,000 Rewards Credits for spending at least £3 including VAT on warrior avatar items from the Xbox Store. Eligible avatar items will come up when you search the word ‘warrior’.
+Level 3: PILLAGE AND PLUNDER (UNLOCKED BY LEVEL 1) — Earn 1,000 Rewards Credits for completing five achievements in the game(s) you purchased as part of Level 1.
+Level 4: ENTER THE GATES OF VALHALLA (UNLOCKED BY COMPLETING LEVELS 1-3) — Earn 2,000 Rewards Credits for completing the entire Warrior’s Tale.
+
+
+
++ Which content is eligible for this offer?
+Level 1: SHARPEN YOUR BLADE
+You must spend at least £36 including VAT on eligible games for Xbox One and Xbox 360, and eligible films and TV programmes from Microsoft Movies & TV.Games must be purchased in the Xbox Store and be from this list of approved titles: For Honor, Lords of the Fallen, DARK SOULS™ III, DARK SOULS™ II: Scholar of the First Sin, DARK SOULS™ II, The Technomancer, Shadow Warrior, Warhammer: End Times – Vermintide, Warhammer® 40,000®: Space Marine®, Middle-earth™: Shadow of Mordor™ - Game of the Year Edition, Dragon Age™: Inquisition, Dragon Age™: Origins, Dragon Age™ 2, Game of Thrones - The Complete First Season (Episodes 1-6), The Witcher 3: Wild Hunt, The Witcher 2: Assassins of Kings, Divinity: Original Sin - Enhanced Edition, Divinity II – DKS, The Banner Saga, The Banner Saga 2, The Elder Scrolls Online: Tamriel Unlimited, The Elder Scrolls V: Skyrim Special Edition, Oblivion, Skyrim, Sword Coast Legends™, Sacred 3, Dynasty Warriors 8 Empires, BLADESTORM: Nightmare, Chivalry: Medieval WarfareFilms and TV programmes must be purchased from Microsoft Movies & TV and be from this list of approved titles:
+Films: 300, 300: Rise of an Empire, Last of the Mohicans, 47 Ronin, Lord of the Rings: Fellowship of the Ring, Lord of the Rings: Two Towers, Lord of the Rings: Return of the King, Valhalla Rising, Thor, Thor: The Dark World, Troy, Red Cliff, Musa: The Warrior, Gladiator, Robin Hood, Spartacus, Conan the Barbarian (2011), Conan the Barbarian (1982), Centurion, Immortals, Clash of the Titans, Wrath of the Titans, John Carter, Kingdom of Heaven, Snow White and the Huntsman, The Huntsman: Winter's War, Ong Bak - The Thai Warrior, Ong Bak 2: The Beginning, Ong Bak 3, The Messenger: The Story of Joan of Arc, The 13th Warrior, Braveheart, Beowulf, The Hobbit: An Unexpected Journey, The Hobbit: The Desolation of Smaug, The Hobbit: The Battle of the Five Armies, Jack The Giant Slayer, Chronicles of Narnia: The Lion, Witch & Wardrobe, Chronicles of Narnia: Prince Caspian, The Chronicles of Narnia: The Voyage of the Dawn Treader
+TV programmes: Into the Badlands, Vikings, The Last Kingdom, Spartacus: Vengeance, Spartacus: Blood and Sand, Spartacus: War of the Damned, Spartacus: Gods of the Arena, Thor & Loki: Blood Brothers, Highlander, Deadliest Warrior, Rome, Camelot, The Pillars of the Earth: Part 1, The Pillars of the Earth: Part 2, Legend of the Seeker, Reign, Of Kings and Prophets, Marco Polo, The Bastard Executioner, Galavant, Ken Follett's World Without End (Part 1), Ken Follett's World Without End (Part 2)
+Level 2: PAY HOMAGE TO ODIN
+You must spend least £3 including VAT on eligible warrior avatar items from the Xbox Store. Eligible avatar items will come up when you search the word ‘warrior’.
+
+
+
++ Who is eligible for this offer?
+This offer is open to Xbox Live Rewards members who are legal residents of Australia, Belgium, Brazil, Canada, France, Germany, Hong Kong, Ireland, Italy, Japan, Mexico, the Netherlands, New Zealand, Singapore, Spain, Sweden, Taiwan, the United Kingdom or the 50 United States (including District of Columbia) who are 13 years of age or older, and residents of Norway who are 18 or older.
+
+
+
++ When will I receive my Rewards Credits?
+After you have completed an action on the list, your Rewards Credits will appear as pending within 96 hours.
+Simply Rewarding Offer:
+
+
+
++ How do I earn with this offer?
+Earn 6,000 Rewards Credits when you spend £36 including VAT on content from the Xbox Store and/or Microsoft Movies & TV. In order to participate in this offer, you must FIRST opt in by clicking the “Activate this offer" button at the bottom of the email you were sent or on MyMissions. If you do not see this button on MyMissions, make sure you are signed in. All actions must be completed between 1 March 2017 00:00 UTC and 31 March 2017 23:59 UTC. Please visit http://www.worldtimeserver.com or another world time database to determine local time.
+
+
+
++ Which content is eligible for this offer?
+You must spend at least £36 including VAT on any content from the Xbox Store and Microsoft Movies & TV during the offer period. Most purchases for Xbox 360 and Xbox One from the Xbox Store qualify, including full Games on Demand titles, game pre-orders, arcade games, indie games, game add-ons, game season passes, themes, in-game consumables, and avatar items. From Microsoft Movies & TV, qualifying content includes films, TV programmes, and TV seasons passes. However, Xbox Live Gold memberships, Groove Music Passes and the purchase or redemption of Microsoft Points or Xbox Gift Cards do not qualify.
+
+
+
++ Who is eligible for this offer?
+This offer is open to Xbox Live Rewards members who are legal residents of Australia, Belgium, Brazil, Canada, France, Germany, Hong Kong, Ireland, Italy, Japan, Mexico, the Netherlands, New Zealand, Singapore, Spain, Sweden, Taiwan, the United Kingdom or the 50 United States (including District of Columbia) who are 13 years of age or older, and residents of Norway who are 18 or older.
+
+
+
++ When will I receive my Rewards Credits?
+After you have completed the offer, your Rewards Credits will appear as pending within 96 hours.
+Action-Packed Anime Rewards:
+
+
+
++ How do I earn with Action-Packed Anime Rewards?
+Earn 4,000 Rewards Credits when you spend £24 including VAT on featured anime games from the Xbox Store and/or anime films, TV programmes, and TV season passes from Microsoft Movies & TV. All actions must be completed between 7 February 2017 00:00 UTC and 6 March 2017 23:59 UTC. Please visit http://www.worldtimeserver.com or another world time database to determine local time.
+
+
+
++ Which content is eligible for this offer?
+Games must be purchased in the Xbox Store and be from this list of approved titles: ARSLAN: THE WARRIORS OF LEGEND, ARSLAN: THE WARRIORS OF LEGEND with Bonus, Attack on Titan, Bayonetta, BLAZBLUE CHRONOPHANTASMA EXTEND, Blue Dragon, DEAD OR ALIVE 5 Last Round (Full Game), DRAGON BALL XENOVERSE, DRAGON BALL XENOVERSE + Season Pass, DRAGON BALL XENOVERSE Super Bundle, DRAGON BALL XENOVERSE 2, DRAGON BALL XENOVERSE 2 Deluxe Edition, DRAGON BALL XENOVERSE 2 - Season Pass, Dragon Ball Z Ultimate Tenkaichi, Dragon Ball Z: Battle of Z, DBZ Budokai HD Collection, DYNASTY WARRIORS 8 Empires, NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4, NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4 - Deluxe Edition, NARUTO STORM 4 - Season Pass, NARUTO STORM R, One Piece: Burning Blood, ONE PIECE BURNING BLOOD - Gold Edition, ONE PIECE BURNING BLOOD - Gold Pack, One Piece: Burning Blood - Deluxe Edition, WARRIORS OROCHI 3 Ultimate, Yu-Gi-Oh! Legacy of the Duelist, DmC, DMC HD Collection, Devil May Cry 4 Special Edition, DmC Devil May Cry: Definitive Edition, DMC4SE Demon Hunter Bundle, Catherine, DEAD OR ALIVE 5 Last Round, Magnacarta2, Persona 4 Area Ultimax, Super Night Riders, Trials of the Blood Dragon. Films, TV programmes, and TV season passes must be purchased from Microsoft Movies & TV and be part of the Anime Category.
+
+
+
++ Who is eligible for this offer?
+This offer is open to Xbox Live Rewards members who are legal residents of Australia, Belgium, Brazil, Canada, France, Germany, Hong Kong, Ireland, Italy, Japan, Mexico, the Netherlands, New Zealand, Singapore, Spain, Sweden, Taiwan, the United Kingdom or the 50 United States (including District of Columbia) who are 13 years of age or older, and residents of Norway who are 18 or older.
+
+
+
++ When will I receive my Rewards Credits?
+After you have completed the offer, your Rewards Credits will appear as pending within 96 hours.
+Games on Demand Pre-Order Punchcard:
+
+
+
++ How do I earn Rewards with the Games on Demand Pre-Order Punchcard?
+Earn 15,000 Rewards Credits when you pre-order three eligible (see description in the next question) Games on Demand titles in the Xbox Store between 1 January 2017 00:00 UTC and 31 March 2017 23:59 UTC. Please visit http://www.worldtimeserver.com or another world time database to determine local time.
+
+
+
++ Which Xbox Store content is eligible for this offer?
+This offer is only open to featured Xbox One digital titles in the Xbox Store. In order to qualify for the punchcard, games must be from our approved list of eligible titles, be pre-ordered during the offer period and be pre-ordered BEFORE their release date. Please note that as these are digital titles, many become available for download the night BEFORE the release date, so your order must be received before the release time shown on the individual product pages. Title availability is subject to region. Featured games include:
+Resident Evil 7: Biohazard, Release Date: 23 January
+Sniper Elite 4, Release Date: 13 February
+For Honor, Release Date: 13 February
+Halo Wars 2  Standard Edition Release Date: 20 February  Ultimate Edition Release Date: 16 February
+Tom Clancy’s Ghost Recon Wildlands, Release Date: 5 March
+Injustice 2, Release Date: 16 May. As this title doesn’t release until after the offer is over, it must be pre-ordered before 31 March 2017 to qualify for the punchcard.
+South Park: The Fractured But Whole, Release Date: 30 March
+Mass Effect: Andromeda, Release Date: 23 March
+Sniper Ghost Warrior 3, Release Date: 4 April. As this title doesn’t release until after the offer is over, it must be pre-ordered before 31 March 2017 to qualify for the punchcard.
+Also, due to the many factors that go into a game launch, from time to time release dates do shift beyond their originally published dates. If a featured game’s release date does move, or if a game titled ‘Coming soon’ suddenly is not going to be available for pre-order, we will make sure that the page is updated accordingly and, if necessary, may substitute a different game in its place.
+
+
+
++ Who is eligible for this offer?
+This offer is open to members of Xbox Live Rewards who are legal residents of Australia, Belgium, Brazil, Canada, France, Germany, Hong Kong, Ireland, Italy, Japan, Mexico, the Netherlands, New Zealand, Singapore, Spain, Sweden, Taiwan, the United Kingdom or the 50 United States (including District of Columbia) who are 13 years of age or older, or residents of Norway who are 18 years of age or older.
+
+
+
++ When will I receive my Rewards Credits?
+Your punchcard should be updated within 96 hours of your pre-order. However, you will not receive your Rewards Credits until 96 hours after ALL of the games you have pre-ordered have been released. If Sniper Ghost Warrior 3 is one of your chosen titles, you will not receive your Reward until 96 hours after the game’s release date on 4 April 2017.
+FREEdom Rewards: Other Ways to Earn
+
+
+
++ How do I earn Rewards with FREEdom Rewards?
+Earn up to 17,000 Rewards Credits every three months by completing a variety of missions that include downloading and purchasing add-on content for Free to Play game titles from the Xbox Store. Currently FREEdom Rewards consists of three ongoing offers, which will run concurrently. These offers include: Free Pass:Earn 2,000 Rewards Credits per month by spending at least £18 including VAT on add-on content for ONE Free to Play title in the Xbox Store. For more information on what qualifies as add-on content, please see Question 2. This offer resets on a monthly basis, with the offer period starting at 00:00 UTC on the first day of the month and ending at 23:59 UTC on the last day of the month.FREEquent Player:Earn 2,000 Rewards Credits every three months by spending at least £3 including VAT on add-on content for Free to Play title(s) in the Xbox Store for THREE consecutive months. The three required purchases can be made for ONE title, or for MULTIPLE titles, but EACH purchase must be a minimum of £3 including VAT and be for one title. For more information on what qualifies as add-on content, please see Question 2. This offer runs for three months, and is currently running from 1 January 2017 at 00:00 UTC until 31 March 2017 at 23:59 UTC. If you made a qualifying purchase in January but missed February, you are unfortunately not eligible to collect the Reward.One-Two-FREE Punch:Earn 3,000 Rewards Credits per month by spending at least £3 including VAT on add-on content for THREE DIFFERENT Free to Play titles in the Xbox Store. For more information on what qualifies as add-on content, please see Question 2. This offer resets on a monthly basis, with the offer period starting at 00:00 UTC on the first day of the month and ending at 23:59 UTC on the last day of the month.
+Please visit http://www.worldtimeserver.com or another world time database to determine local time.
+
+
+
++ Which Xbox Store content is eligible for this offer?
+This offer is only open to add-on content for Free to Play titles purchased from the Xbox Store. Add-on content includes, but is not limited, to gem/coin packages, additional skins, starter packs etc. This does not include purchases made within the game, as well as purchases made using premium or earned currency.
+Per our programme Terms & Conditions, if your purchase qualifies for another offer currently running at the same time, such as a limited-time promotion for another Free to Play title, your purchase will instead be counted towards that offer and you will NOT earn a Reward for both. You can read more about this here
+
+
+
++ Who is eligible for this offer?
+This offer is open to members of Xbox Live Rewards who are legal residents of Australia, Belgium, Brazil, Canada, France, Germany, Hong Kong, Ireland, Italy, Japan, Mexico, the Netherlands, New Zealand, Singapore, Spain, Sweden, Taiwan, the United Kingdom or the 50 United States (including District of Columbia) who are 13 years of age or older, or residents of Norway who are 18 years of age or older.
+
+
+
++ When will I receive my Rewards Credits?
+Your Rewards Credits will appear as pending within 96 hours of completion of each specific offer.
+MyPunchcard:
+
+
+
++ What is MyPunchcard?
+A. MyPunchcard is part of the Xbox Live Rewards programme and is open to all members. Through MyPunchcard, Xbox Live Rewards members can get rewarded for performing a specific set of actions.  Every Punchcard is linked to a specific Reward. Once a member completes all the criteria associated with an offer, they will get the Reward.
+
+
+
++ Who is eligible for MyPunchcard?
+A. All Xbox Live Rewards members are eligible to participate in MyPunchcard. To start earning punches for completing specific actions, join Xbox Live Rewards now for free if you haven't already: http://rewards.xbox.com.
+
+
+
++ How does MyPunchcard work?
+A. Each Punchcard has a set amount of punches required to complete it. Once a specific action is completed and a punch is earned, it can take up to 2 days for it to appear on the MyRewards page. Xbox Live Rewards members are only eligible to receive a Reward once all punches have been earned and the entire Punchcard is complete. There is a limit of one Reward per completed Punchcard, unless otherwise noted.
+
+
+
++ When will I receive MyPunchcard Reward?
+A. Depending on the Punchcard offer, you will receive your Reward for completing the Punchcard after the end of the offer period or within 96 hours. Please reference the FAQ for that particular Punchcard offer for more details.
+
+
+
++ Where can I find the available Punchcards?
+A. To check out the available Punchcards, log into the Xbox Live Rewards site and visit the MyMissions page. The amount of available Punchcards each month will vary. New offers could pop up at any time, so be sure to check back occasionally!
+
+
+
++ Do specific Punchcards expire?
+A. Yes. Once a Punchcard expires, no further punches will be provided for actions completed after the expiration date. Expiration dates for each Punchcard vary and are listed on the MyPunchcard page found here.
+
+
+
++ How do I know if I have met the minimum purchase requirement to get a punch for a Punchcard?
+A. The pre-tax amount of the item must meet the minimum purchase requirement for each punch for that particular Punchcard. Visit MyMissions page for more details.
+Refer-a-Friend:
+
+
+
++ What is Refer-a-Friend?
+A. Refer-a-Friend is an Xbox Live Rewards offer open to Xbox Live Rewards Gold members who reside in the United States, United Kingdom, Mexico, France, Australia, New Zealand, Ireland, Singapore, Hong Kong, Japan, Spain, Taiwan, Sweden, Brazil, the Netherlands or Belgium who are 13 years of age or older, and Xbox Live Rewards Gold Members who reside in Norway and are 18 years of age or older. Participating members can earn Rewards Credits for themselves and their friends when they refer friends to both sign up for Xbox Live Rewards and upgrade to Xbox Live Rewards Gold.
+
+
+
++ Do I need to have an Xbox Live Gold membership to refer friends?
+A. Yes, you must be an Xbox Live Rewards Gold member to refer friends.
+
+
+
++ How many Rewards Credits can I earn for referring friends?
+A. While you can only refer up to 5 friends a day, there is no limit to the number of Rewards Credits you can earn for successfully referring friends. A successful referral hinges on a referred friend(s) upgrading to an Xbox Live Online Gold membership within 14 days of receiving the referral email and signing up for Xbox Live Rewards (if they weren't already a member). Credits will be awarded once your referred friend(s) has been Gold for at least 30 days.
+
+
+
++ A friend referred me. How many Rewards Credits can I earn for upgrading to an Xbox Live Gold membership?
+A. You can only receive the Refer-a-Friend Reward for personally upgrading to an Xbox Live Gold membership one time. However, Xbox Live Rewards Gold members can earn unlimited rewards for referring new members.
+
+
+
++ I was referred by an Xbox Live Rewards Gold member and purchased an Xbox Live Online Gold membership. I'm also an Xbox Live Rewards member. When can I expect to receive my 5,000 Rewards Credits?
+A. To receive your 5,000 Rewards Credits, you must join Xbox Live Rewards and upgrade your Xbox Live account to Gold Online Membership within 14 days of receiving the referral and retain your Gold membership for at least 30 days. If you meet all these requirements, Credits may take up to 45 days to be deposited into your Microsoft account.
+
+
+
++ Why can't I refer some of my friends?
+A. There are multiple reasons a friend may not be eligible for the Refer-a-Friend Reward. Your friend may already be an Xbox Live Gold member, or have recently acted on a referral and upgraded to Gold. Also, the Refer-a-Friend Reward may not be available in your friend's region. Please see the Terms and Conditions for full details.
+Share the Digital Rewards:
+
+
+
++ How do I earn Rewards with this offer?
+Share the Digital Rewards lets you earn Rewards Credits by referring your friends to make their first digital purchase of Xbox One or Xbox 360 content. You will receive 5,000 Rewards Credits for each friend you refer who spends at least £15 including VAT on Xbox One or Xbox 360 content in the Xbox Store or Microsoft Movies & TV, and we will give your friend 5,000 Rewards Credits, too. To get your Reward, they just have to make their first purchase within 30 days of your referral.
+
+
+
++ Which content is eligible for this offer?
+Any Xbox One and Xbox 360 digital content purchased in the Xbox Store or Microsoft Movies & TV will qualify for this offer, including games, films, TV programmes, avatar items, and more. The total amount purchased just needs to total at least £15 including VAT, and be purchased within 30 days of the referral.
+
+
+
++ Who is eligible for this offer?
+This offer is open to select Xbox Live Members who are residents of Australia, Belgium, Brazil, France, Germany, Hong Kong, Ireland, Japan, Mexico, the Netherlands, New Zealand, Singapore, Spain, Sweden, Taiwan, the United Kingdom, or the 50 United States (including District of Columbia) who are 13 years of age or older, and residents of Norway who are 18 or older.  There are several eligibility requirements you must meet in order to earn Rewards Credits for this offer. You are your friend will only receive the Reward if it's their first time purchasing Xbox One or Xbox 360 digital content in the Xbox Store or Microsoft Movies & TV. You both must also meet other eligibility requirements, like being older than 13 years of age and living in an eligible region.  While members can refer and receive Rewards Credits for referring any of their eligible Xbox Live friends, if you are not a member and want to receive your Reward, you must join Xbox Live Rewards FIRST. Once you have joined the programme and your account is active, you can start referring your friends.
+
+
+
++ Are there any rules or restrictions for referrals that I should know about?
+You can only receive one referral email within a 24-hour period, and you may be sent referral emails even if you have previously opted out of Xbox Live communications. Members can refer up to five Xbox Live friends per day, based on UTC time.
+
+
+
++ Why don’t all my friends appear in the referral section?
+If your friends don't show up in the referral section, they either don't meet all the eligibility requirements, have already been referred by another member, or have reached the number of allowed referrals for the offer period. Please see the Terms and Conditions for full eligibility details.
+
+
+
++I referred a friend, and they made their purchase, but it is not showing up. Why?
+If it has been 96 hours since they made their purchase(s) and the referral still has not shown up yet in the Successful Referrals section, make sure that your friend spent the required £15 including VAT and made their purchase within the 30-day referral window, and that they were not referred by someone else first. If not, you can post in our forum here.
+
+
+
++ Once I get referred by my friend and make my first digital purchase, can I refer my own friends?
+Yes! Just log in to the site and your eligible friends will appear into the referral box. If you don't see any eligible friends, start adding new ones to your friend list!
+
+
+
++ When will I receive my Rewards Credits?
+Your Rewards Credits will appear as pending within 96 hours of your friend(s) successfully making their first purchase.
+Xbox Live Rewards VIPs
+MyVIP Star Rank:
+
+
+
++ What is MyVIP?
+MyVIP is an exclusive feature of Xbox Live Rewards that gives members a certain percentage back in Rewards Credits for monthly purchases made in the Xbox Store. In order to start earning MyVIP, you have to unlock your first star by spending at least £200 on eligible content. While eligible purchases you make track towards your year-to-date Star Rank, your MyVIP Star Rank is recalibrated each year based on your previous year's spend. As your MyVIP Star Rank grows, so will the percentage you get back each month. Plus, if you're an Xbox Live Gold member, your percentage doubles, and you can earn up to 10% back each month in Rewards Credits.Please note: Purchase minimums refer to pre-tax totals.
+
+
+
++ Who is eligible for MyVIP?
+MyVIP is open to Xbox Live Rewards members who reside in the Australia, Belgium, Brazil, Canada, France, Germany, Hong Kong, Ireland, Italy, Japan, Mexico, the Netherlands, New Zealand, Singapore, Spain, Sweden, Taiwan, the United Kingdom or the 50 United States (including District of Columbia), and are 13 years of age or older, and Xbox Live Rewards members who reside in Norway and are 18 years of age or older. Please see Terms and Conditions for full eligibility details.
+
+
+
++ How does MyVIP work?
+For every £6 you spend during the month on eligible items in the Xbox Store, you'll earn Reward Credits based on your current MyVIP Star Rank. Any outstanding funds will be rolled over into the next calendar month (i.e. if you spent £52.20 in July, you would earn xx% of £48, with the existing £4.20 rolling over into August's balance).Your MyVIP Credits will be converted to your local currency and deposited into your Microsoft account by the 15th of each month. Please note that MyVIP Credits are calculated and deposited based on the currency of the region you listed when you first enrolled in the program, and that any purchases must be made in that same currency to count towards MyVIP.
+You can see your current rank and progress towards your next star on your MyRewards page. Keep in mind that to earn with MyVIP, you need to unlock the first star by spending at least £6, and spend at least £200 in eligible items in the month. For more information, please see our Terms and Conditions.
+
+
+
++ Is MyVIP open only to Gold members?
+No. MyVIP is open to all Xbox Live Rewards members. However, Xbox Live Rewards Gold members do get double Rewards for MyVIP, and can earn up to 10% back on their qualifying purchases.
+
+
+
++ How is my MyVIP Star Rank determined?
+Your MyVIP Star Rank is determined by your pre-tax spend amount made on eligible content in the Xbox Store. Your 2017 MyVIP Star Rank is determined by the total amount that you spent in the previous year from 1 September 2015 to 31 December 2016, or starting from the time that you enrolled in Xbox Live Rewards.
+Moving forward, we will recalibrate your Star Rank annually based on your spending in the previous calendar year, from 1 January to 31 December. Here are the current spend thresholds for each level, which can also be viewed in our Terms and Conditions.Tier
+Minimum Spend Threshold (pre-tax spending)
+Xbox Live Rewards Free Member % of Rewards Credits Earned
+Xbox Live Rewards Gold Member % of Rewards Credits Earned
+One star
+£200
+1%
+2%
+Two stars
+£400
+2%
+4%
+Three stars
+£600
+3%
+6%
+Four stars
+£900
+4%
+8%
+Five stars
+£1,200
+5%
+10%
+Purchase more eligible items and track your progress towards your next MyVIP Star on the MyRewards page.
+
+
+
++ Will my Star Rank change from year to year?
+In September 2015, a year after we first launched MyVIP, we re-evaluated the program and made adjustments where necessary. In order to respond to our growing membership numbers and expanded regions, we adjusted the levels of MyVIP to better focus on offering additional monthly missions and other ways to earn for more members around the globe.
+Based on community feedback from our members, there was some confusion about when and how MyVIP would be recalibrated on a yearly basis. In order to simplify and streamline the process, and to let you know exactly how much time you have to build your rank, moving forward we will recalibrate your Star Rank progress based on the calendar year. This means that you currently have until 31 December 2017 to boost your starting 2018 MyVIP Star Rank, which will be based on your overall spend between 1 January to 31 December 2017.
+In the future, we will consistently recalibrate your MyVIP Star Rank based on your calendar year spend from 1 January to 31 December. We are also focused on adding even more ways to Reward our most loyal VIP members with additional special offers and VIP Exclusives events. Check out MyMissions for all of the most current ways to earn!
+
+
+
++ Does my Star Rank change daily?
+MyVIP Star Ranks are unlocked when you meet the spend threshold for each level. It may take the website three to five days to reflect any changes in your MyVIP Star Rank. Please see our Terms and Conditions for full eligibility details.
+
+
+
++ What content on the Xbox Store is eligible for MyVIP?
+Normally, most purchases for Xbox 360 and Xbox One from the Xbox Store qualify, including full Games on Demand titles (excluding game pre-orders), arcade games, indie games, game add-ons, game Season Passes, movies, TV shows, TV seasons, themes and avatar items. In-game consumables, Xbox Live Gold memberships, Groove Music Passes, Microsoft Movies & TV Season Passes, and the purchase or redemption of Microsoft Points or Xbox Gift Cards, still do not qualify.
+
+
+
++ How do I earn the Gold rebate for my eligible purchases?
+Just stay Gold through the entire month to earn the Gold rebate on eligible Xbox Store purchases.
+
+
+
++ How do I sign up for MyVIP?
+If you're an Xbox Live Rewards member, all you need to do is purchase content in the Xbox Store to get started. Keep raising your MyVIP Star Rank to earn a higher percentage back on your purchases.
+
+
+
++ When will my MyVIP Rewards Credits be deposited into my Microsoft account?
+The total Rewards earned will be calculated at the end of each month. Typically you'll receive your MyVIP earnings in your account by the 15th of the following month, though this is subject to the program's current deposit terms. Be sure to keep an eye on MyStatement on the MyRewards page to track your progress and watch your Rewards Credits total grow!
+
+
+
++ I should have earned a higher MyVIP Star Rank, but I haven't yet. Why?
+It may take the website three to five days to reflect any changes in your Star Rank.
+
+
+
++ I just bought something. When will my rank update?
+It may take up to 96 hours for your purchases to be counted towards your MyVIP status.
+MyAchievements:
+
+
+
++ What is the difference between Gamerscore and Achievement Points?
+Your Gamerscore is a sum of your Achievements across all of your Xbox and Windows games and devices. Achievements are earned by completing specific tasks within a game. To view details on your Achievements and your overall Gamerscore, visit your MyDashboard page,  Xbox.com, or check your Xbox Live dashboard.
+
+
+
++ What are the different MyAchievements tiers, and why are they important?
+There are six different MyAchievements tiers, which are all based on your Gamerscore. These tiers are important because they give you instant gamer cred and something to work towards. The tiers represent not only the gamer you are today, but the one you aspire to be in the future. Keep completing achievements, and who knows how far you'll climb!
+Here are the six MyAchievements tiers and the Gamerscore needed for each:Overlord: 100,000+
+Master: 50,000 – 99,999
+Legend: 25,000 – 49,999
+Champion: 10,000 – 24,999
+Contender: 3,000 – 9,999
+Recruit: 0 – 2,999
+
+
+
++ Do I have to get new Achievements and build up a new Gamerscore to be placed in a tier? How is my tier calculated?
+No, you don't have to start from zero. Your current Gamerscore will be used to determine your tier. Your tier is calculated based on your Gamerscore by the first of the month in which you qualify.
+
+
+
++ Can I get rewarded for my Gamerscore and achievements?
+We don't currently Reward based solely on Gamerscore or achievements, though some missions do offer Rewards Credits for completing achievements within a particular game and time-period.
+VIP Exclusives:
+
+
+
++ What are VIP Exclusives and how do I earn VIP Rewards?
+VIP Exclusives are special offers and rewards that are part of the Xbox Live Rewards programme. To be eligible, all you have to do is become an Xbox Live Rewards Gold member and stay active on Xbox Live.
+
+
+
++ What are VIP Badges and how can I earn them?
+VIP Badges are exclusive badges that can be earned by participating in a VIP Exclusives event, or special offer or promotion. You can view your VIP Badges on your MyCommunity page.
+MyCommunity
+
+
+
++ What is MyCommunity?
+MyCommunity brings together the best of the Xbox Live Rewards community all in one page! It's the place to go to see what our members are playing, watching, sharing, and talking about. With special sections for top recommendations, game highlights, and conversation starters, there's always something new to discover, so make sure to check often!
+
+
+
++ What is the VIP Spotlight, and how can I be featured?
+The VIP Spotlight section features the best of the best… members who are making waves in the Xbox community with stellar Gamerscore increases, impressive hours of playtime, and record-setting achievements. To be considered, follow @XboxLiveRewards on Twitter and stay active on your Xbox!
+
+
+
++ How can I appear in the Tweets of the Week section?
+To be featured as a Tweet of the Week, follow @XboxLiveRewards on Twitter and tweet us about what’s on your mind using #XboxLiveRewards. Be creative to up your chances!
+
+
+
++ What if I want to be a Featured Follower?
+If you’ve got a solid following in the Twittersphere, you're a perfect fit to be an Xbox Live Rewards Featured Follower. Make sure to follow @XboxLiveRewards and shoot us a tweet every now and then to let us know you're interested!
+
+
+
++ What is Top Our Tip?
+Think you've got the skills to beat us at our own games? Every few weeks we'll post a game tip in the Top Our Tip section. Follow @XboxLiveRewards and tweet us your own in-game tricks using #TopOurTip, and you could be featured on the site!
+More Questions
++ I still have a question about my specific account.
+A. Please make a new post in our official Support Forum and we'll get back to you within 3 business days. Our hours of operation are Monday through Friday, from 9 AM to 5 PM Pacific Standard time.
+$(document).ready(function(){
+$(".module_content > dl > dt").click(function() {
+$self = $(this);
+category = $self.parents('#about, #missions, #vip, #more').attr('id') || "other";
+$self.next("dd").slideToggle({ duration: 240, complete: function() { $self.next('dd').css('overflow', 'visible'); } });
+var plustoggle = $self.find("span:first-child").text();
+if (plustoggle == "+") {
+$self.find("span:first-child").replaceWith('<span>&mdash;</span>');
+try { XLRTrack( "Click", "FAQ Expand " + category ); } catch( Ignore ) {};
+} else {
+$self.find("span:first-child").replaceWith('<span>+</span>');
+try { XLRTrack( "Click", "FAQ Collapse " + category ); } catch( Ignore ) {};
+});
+$('.module_content > dl > dd a').on('click', function( Ev ) {
+category = $(this).parents('#about, #missions, #vip, #more').attr('id') || "other";
+try { XLRTrack( "Click", "FAQ Link " + category ); } catch( Ignore ) {};
+});
+});

@@ -1,0 +1,95 @@
+Q: What kinds of operating system does
+
+
+
+PowerISO support?A: PowerISO can run on Windows 98 / Me / 2000 / XP / 2003 / Vista /
+Windows 7 / Windows 8 / Windows 8.1 / Windows 10 or
+above.
+
+
+
+Q: Does PowerISO support 64-bit Windows?A: Yes, PowerISO supports 64-bit editions of Windows XP / 2003 / Vista /
+Windows 7 / Windows 8 / Windows 8.1 / Windows 10.
+Q: Do you offer free software upgrades for
+
+
+
+registered users?A: Yes. We provide free lifetime software upgrades for registered users.
+Q: What's the difference between the
+
+
+
+unregistered version and the registered version?A: The unregistered version will display a dialog prompts you to
+register, and you can not create or edit image files greater than 300MB with
+the unregistered version. Except these, all other functions or features are
+the same.
+
+
+
+Q: Does PowerISO support unicode file names?A: Yes, PowerISO fully supports unicode, so you shouldn't run in to any
+problems if you're using an international character set.
+Q: How to open ISO file and extract files
+
+
+
+from it?A: Because of its file associations, you can open an ISO file by simply
+double click on it. After open the ISO file, click "Extract"
+button to extract files from it. You can also use shell context menu to
+extract ISO file.
+Q: Can PowerISO burn iso file to CD,  DVD
+
+
+
+or Bluray disc?A: Yes, PowerISO can burn iso file to CD, DVD or Bluray disc. PowerISO is also a
+burning application, you can use it to burn CD / DVD / BD Discs.
+
+
+
+Q: Can PowerISO make bootable CD / DVD disc?A: Yes.
+Q: Can PowerISO copy CD, DVD, or Blu-ray
+disc to image
+
+
+
+file?A: Yes. All information, including boot information, will be copied.
+Q: Can PowerISO convert image files between
+
+
+
+ISO and BIN?A: Yes.
+Q: Can PowerISO compress ISO or BIN
+
+
+
+image files?A: Yes. PowerISO can compress ISO / BIN and other formats image file,
+and use the compressed file directly without decompressing.
+Q: Can I open the files in the image file
+
+
+
+without extracting?A: Yes. You can use the PowerISO virtual Drive manager to mount the
+image file, and then you can open the file without extracting.
+
+
+
+Q: Can I add password to my image file?A: Yes. If you save the image file to a DAA format, you can protect your
+file with a password.
+Q: Can I Split the image file to multiple
+
+
+
+volumes?A: Yes. If you save the image file to a DAA format, you can split the
+image file to multiple volumes. PowerISO will automatically read the
+sub-volumes while extracting or mounting.
+Q: Do I need to decompress the DAA file
+
+
+
+before using a DAA image file?A: No. You can extract, edit and mount a DAA image file  without
+decompressing.
+
+
+
+Q: Does PowerISO support Apple DMG files?A: Yes. PowerISO can extract and burn Apple DMG files.
+Q: What is the maximum image file size that
+PowerISO can process? A: 8192GB (8TB).

@@ -1,0 +1,153 @@
+Frequently Asked Questions
+About Primary Source Verification
+
+
+
+What is Primary Source Verification (PSV)?
+Primary Source Verification (PSV) is acompulsory verification process for all those seeking employment in both the Middle East and other countries. It is a mandate of the regulatory authorities in these countries for you to be eligible to work.
+
+
+
+How do I apply for DataFlow Primary Source Verification (PSV)?
+Please follow these steps to apply for a DataFlow PSV :
+a)	Visit https://corp.dataflowgroup.com/applicant-gateway
+b)	Select the Regulatory Authority you want to apply for (click on it)
+c)	Click on‘Apply Now’
+Important Note : Before applying and to ensure a smooth process, please go through the ‘How to Apply’ link with respect to the Regulatory Authority you want to apply for.
+
+
+
+What happens after my Dataflow Primary Source Verification report is completed ?
+Once the Dataflow Primary Source Verification of your application is completed, a final report will be shared with the Regulatory Authority you have applied for.
+However, per the specific requirements of the Regulatory Authority, you may still need to complete other steps in order to obtain your license. Please contact the Regulatory Authority directly to finalise the processing of your application
+
+
+
+How long does the DataFlow PSV process take?
+The standard time frame for completing an application is 30-35 working days.
+In some instances verifications may get delayed due to circumstances out of DataFlow’s control including strikes, civil strife, holidays orincomplete / unclear documents submitted by the Applicant.
+Important Note : It is important that the Applicant provides his / her contact information accurately (email and phone number) to enable DataFlow to get in touchand avoid delays in verification. It is highly recommended that the Applicant applies through the online portal providing complete and accurate information.
+
+
+
+What are the methods of payment for a DataFlow Primary Source Verification ?
+We accept credit cards for all online applications. Please visit our website https://corp.dataflowgroup.com/applicant-gateway and refer to the “How to Apply” document specific to each Regulatory Authority to check the fee details and payment methods.
+
+
+
+How long is the Dataflow PSV report valid for ?
+Report validity varies from one regulatory authority to another and is subject to change without any prior notice. Please check with your designated officer for more details.
+Application Status
+
+
+
+How do I check the status of my DataFlow Primary Source Verification application ?
+To check your DataFlow Primary Source Verification status, please visit : http://dataflowstatus.com/applicationstatus
+Input either of the following to check the progress of your application :
+a) Search by Barcode : Enter your Barcode and Passport Number
+b)	Search by Client Reference Number : Enter Client Reference Number and DataFlow Number
+
+
+
+What is a Client Reference Number ?
+It is the unique identification number generated at the time of application submission. This reference number is available in the auto-confirmation email sent to the Applicant and also on the payment receipt issued by the DataFlow Customer Service Executives for cash payment applications.
+Applicant / PRO may also view this number in the DataFlow online application form and the PSV report released by DataFlow.
+To Note : The Client Reference Number is also provided to the Client for their use in cases of Application search / transfer or report checking.
+
+
+
+What is a DataFlow Number ?
+It is the unique identification number generated following the successful payment by the applicant for a PSV application. This number is available in the auto-confirmation email sent to the applicant and also on the payment receipt issued by the DataFlow Customer Service Executives for cash payment applications along with the Client Reference Number.
+
+
+
+What is a Barcode ?
+It is the unique system reference number generated once the initial examination of the application is complete. In the case of any missing information DataFlow will reach out to the Applicant via the contact information provided (applicant email) to complete the process. To avoid application delays please ensure the information submitted is complete and accurate.
+
+
+
+What is the difference between a Client Reference Number, Dataflow Number and a Barcode ?
+By default an application will generate both a Client Reference Number and a Dataflow Number; it will not generate a Barcode until the application has passed an initial quality check.
+To process the application without delay please ensure that all the information asked for is provided and that the contact detail is accurate if DataFlow needs to reach out for any clarifications.
+Refund
+
+
+
+What is the process to cancel my Primary Source Verification application ?
+You can cancel your Primary Source Verification application anytime however this may impact your licensing process with the Regulatory Authority. Please note, Payment refund will be made only for cancellation request received within 48 hours of successful payment.
+Please Click Here to submit a cancellation request including your Client Reference Number / Barcode mentioning the reason for cancellation, along with a duly filled Refund Request Form. Click Here to download the form
+Note: For reimbursement of a credit card payment, once your request has been accepted, the process usually takes 45-60 days for the refund amount to be credited back to your account.
+
+
+
+How much time does the refund process take ?
+The refund process takes approximately 45-60 days to complete. Once DataFlow has completed the refund process, we will inform the Applicant who can then follow up with their bank or credit card company.
+Please Note :  Individual bank or payment gateway policies may impact this timeline to complete the refund.
+Report Related
+
+
+
+How do I get a copy of my DataFlow Primary Source Verification report ?
+Once the Primary Source Verification has been completed, DataFlow will issue a credential report in PDF format.
+HAAD, OMSB and SCHS (only credit card payment cases) :
+Reports can be downloaded through your DataFlow online login account
+DHA, QCHP :
+We will share your PSV report via email.
+Please ensure that you provide accurate contact information including email and phone number.
+For all other Regulatory Authorities and payment mechanisms you can submit your report request  Click here to submit request
+
+
+
+What is the process for transferring my report from one GCC (Gulf Cooperation Council) Regulatory Authority to another ?
+Transferring your PSV report from one Regulatory Authority to another will be subject to Report Transfer Charges and any additional fees for verifying the additional components as per the requirement of the new Regulatory Authority.
+Select the Regulatory Authority that you wish to transfer your report to by visiting   https://corp.dataflowgroup.com/applicant-gateway
+Confirm the licensing requirements of the Authority you wish to transfer your report to.
+Send a Report Transfer Request along with the existing DataFlow report.  Click here to submit request
+Pay the fees for the report transfer and any additional verification on the payment link that we send you.
+If there is no additional component to be verified then the report will be transferred in 48-72 hours.
+If there are additional components to be verified it will be considered as a fresh application and can take upto 30-35 days to be transferred post verification.
+Other
+
+
+
+How do I update the contact information on my application form ?
+It is very important that you fill in your contact information correctly on the Dataflow PSV application - you cannot update or modify details once your application has been submitted for processing.
+
+
+
+My application was rejected. Do I have to pay for resubmission again ?
+If the Regulatory Authority has rejected your application, payment will be required if you re-apply with additional documents for verification.
+To check on the fees required for additional document verification, visit our website https://corp.dataflowgroup.com/applicant-gateway and refer to the “How to Apply” document specific to each Regulatory Authority.
+
+
+
+The Regulatory Authority rejected my application. What should I do ?
+Application rejection is controlled by the Regulatory authority, not DataFlow. Please contact the Regulatory Authority to obtain the reason(s) for rejection. Based on the reason for rejection, you may need to apply for your Primary Source Verification again.
+Click here to submit request for assistance to submit your details for re-application.
+
+
+
+I’m not able to log in to my DataFlow account ?
+Please visit the login page, click on the “Forgot Password” option to reset your password. This is an immediate process and once successfully reset, you will be able login to your DataFlow account.
+
+
+
+Can I add an additional certificate to my existing DataFlow report ?
+Please note that you cannot make any changes to your existing DataFlow report. Any additional documents will be verified as a fresh application along with the submission of additional processing fees.
+
+
+
+I have made a mistake in the application. How can I make changes to it ?
+You cannot make any changes to your application once it has been submitted. However, if the data or documents you have provided are in-complete, we will contact you to solve.
+Please Note : It is important that you provide accurate contact information including email and phone number when filling in the Dataflow verification form.
+
+
+
+I want to apply for re-verification. What is the process ?
+In order to submit the request, a re-verification form needs to be filled. Click here to download the form. Please ensure:
+The form is filled completely and the Letter of Authorization provided at the end of the re-verification form is signed.
+For the component that you wish to re-verify please provide any additional details and documents you would have, to help us complete the process.
+Click on the 'Contact Us' link at the bottom of this page and submit the completed re-verification form and any additional documents.
+Once the form is submitted we will revert within 48 hours post reviewing the re-verification submission.
+Important Note: The re-verification application will be processed as a new application and might take upto 30-35 days for completion. Once the re-verification is complete the report will be automatically shared with the client.
+Still have a Question ?

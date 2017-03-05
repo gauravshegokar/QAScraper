@@ -1,0 +1,89 @@
+How can I withdraw Perfect Money funds into my bank card? Is there any fee?
+Unfortunately at this time this operation cannot be processed directly. However, you can contact one of our Certified Exchange Service providers and they might be able to help you. The commission for this service will be set by the exchange service provider of your choice.
+
+
+
+Can I go through only one of the three verification procedures?
+To verify your account, you need to complete all three steps."Address Verification" and "Phone Number Verification" become available only after you verify your name.
+Read more Q & A »
+Frequently Asked Questions1. Perfect Money and its features
+
+
+
+What are some ways I can use Perfect MoneyPerfect Money is a universal system that was created as a perfect tool for online payments. Here is what you can do using Perfect Money:make money transfers between users;accept payments in on behalf of various business projects on the Internet;make regular payments on the Internet;store funds in a secure electronic account and receive interest;pay for goods and services in various online stores;store your assets in cryptocurrency with no risks and no need to set up an additional wallet;buy Bitcoin, gold, USD and EUR currencies online;borrow and lend funds on your own termsWhat are Perfect Money supported currencies?
+Each user account is a multicurrency one. It is subdivided into 4 different currency accounts: USD (PM units, the equivalent of United States dollar)EUR (PM units, the equivalent of Euro)GOLD (PM units, the equivalent of the precious metal, expressed in troy ounces) Bitcoin (property rights for the publication of entries in the global public database of bitcoin.org network on behalf of Perfect Money are reserved by Startup Research & Investments LLC);How do I become a customer of Perfect Money?
+To become a customer of Perfect Money, you need to register in the system.2. Registration and login
+
+
+
+Sometimes transfers take longer than 5 days. Please contact the Certified Exchange Service provider your have chosen to process your order and notify of the delay. Check whether the bank’s name matches the one you specified in your transfer order. Can I transfer money in parts through several transactions?
+No, you cannot. You need to transfer the exact amount you specified when your order was placed. Otherwise, there might be problems with identification of your deposit.
+
+
+
+Where can I view my applications for deposit by a bank wire?
+You can see the status of your application in the “History” section. If your application was created recently and no other activity occurred in your account, you can find it in the “Deposit” section. You will also receive regular status updates to your internal mail at your account and e-mail address.How is my application processed and how long does it take?
+
+
+
+The system receives your application and redirects it for further processing to the selected Certified Exchange Service provider within 24 hours. Once your request is received and processed, all the payment details will be sent to you, if there are no concerns with your transaction. When the primary Certified Exchange Service provider fails to process your application for any reason, it is automatically forwarded to the secondary Certified Exchange Service provider selected by you. If it is able to process the application, you will receive the bank details to use for the money transfer. If it is not able to process the application, you will receive a rejection letter. The standard application processing time is 24 hours for each of the Certified Exchange Service providers.Where can I see the status of my application?
+You can monitor the status in the "Deposit" section, or check your internal mail and e-mail frequently.
+
+
+
+How and where can I receive bank details to make a transfer?
+If the status of your deposit application changes to "confirmed", you should send your funds to the bank account provided. Bank details are sent to the internal mailbox and the email address specified during registration. These details can also be found in your confirmed application.
+
+
+
+Why should I specify a Certified Exchange Service provider when making a deposit by a bank wire?
+Our payment system processes only internal transfers from accounts within Perfect Money. All deposits and withdrawals made through bank wires are processed by our Certified Exchange Service providers.Why should I specify an secondary Certified Exchange Service provider?
+
+
+
+Sometimes the primary Certified Exchange Service provider fails to process a user’s application for various reasons. Selecting a secondary Certified Exchange Service provider in advance will minimize the risk of a possible delay. If I select two Certified Exchange Services providers, do I have to pay a commission to both?
+No, you will only be charged by the provider who processes your application.
+
+
+
+Can I send a bank wire directly to the Perfect Money system?
+No, it is currently impossible. This transaction is carried out through Certified Exchange Services only.FAQ on deposits by e-VoucherWhat is an e-Voucher and where can I buy it?
+An e-Voucher is a special code that can be used to make a deposit your Perfect Money account. You can give or sell it to other Perfect Money users who can activate it to at their Perfect Money accounts. E-Vouchers can be created instantly in the “Withdrawal” or “Statement” sections.
+
+
+
+The list of our certified partners is always available here: https://www.perfectmoney.is/business-partners.html. We strongly recommend that you use exchange services from this list. What is the fee for deposits made through exchange services?
+Each exchange service provider sets its own fees. You can learn more about them on their websites.I made a transfer to Perfect Money through an exchange service not listed as a certified partner. Now I don’t see the money at my account…
+Nowadays a lot of scammers create fake exchange services. We strongly recommend using only those providers certified by our system and whose integrity we are confident about.
+
+
+
+I found an exchange service provider who offers very low fees and a good choice of exchange options. Can you please check it out quickly and add it to your list of the Certified Exchange Service Partners?No, we cannot. Verifying an exchange service provider to include it into our certified list is a very slow process. It will take a significant amount of time to make sure that an exchange service provider can be trusted.FAQ on deposits by BitcoinHow do I make a deposit via Bitcoin?Please create a deposit order. To do that, please go to the "Deposit" section, select "Bitcoin", and when the page opens, click "Create a new deposit". Select an account you want to make a deposit to and enter deposit amount. Click "Preview". Make sure that all information is correct and submit your application.After your application is submitted, please send the amount exactly as specified to the account provided.
+Where can I get the address for my transfer?
+The address can be found in the deposit order you have submitted. You can copy it immediately upon submission or find it later in your order form. To view your form, go to “Deposit” and choose from the list of your deposit orders at the bottom of the page. Select the one you need and click “View” to view the deposit details. Here you can find the Bitcoin address to send your money to.
+
+
+
+No, there is none.Can I send the amount specified in my application in parts?
+Yes, you can. However, all the payments should be made within 24 hours after the creation of your application and the sum of your payments should equal the amount specified at your order.
+
+
+
+Create a new order for the amount you can transfer.I have transferred only a part of the amount specified. Is it going to be deposited into my account?
+Most likely, this operation will be carried out manually. If the money is not deposited within 24 hours, please contact our customer support.
+
+
+
+I have paid the full amount but I dont see it deposited into my account. Why?
+Your deposit will be processed only after the entire amount is received by Bitcoin. Each payment requires at least 3 confirmations from the Bitcoin system.
+
+
+
+What is the “History” section used for?It helps you to analyze all the operations performed within your account. You can find a specific transaction by filtering actions, time period or other parameters. You also can import your history into a text format and save it. The affiliate program statistics is also available in the “History” section.Is it possible to view only certain actions in my account?Yes, it is. You can use filters to arrange information.What are filters and how do I use them?History section filters is a special tool used to display only relevant information. If you want to use filters when viewing your history, go to the "History" section and select the filter required. Once you set the filter, click "Search".Can I combine filters?Yes, you can. Moreover, the system recommends combining filters to optimize search. For example, you can choose your object, "Account", and your action, "Create", and the system will display all information related to the creation of anything within your account, e.g., creation of invoices, orders, etc.Can I sort by date?Yes, you can. Our system offers an option to sort by dates, thus significantly reducing your search scope to a specific time interval.I choose a wrong filter, what shall I do?To reset a filter, click on the "Clear Filter" button and the system will reset all search options selected previously.I clicked something and now my history is displayed in a strange way.You might have accidentally clicked on a filter. There are some other filters in addition to the Object and Action ones including: Created, Subject, Action and Amount. By selecting one of those filters you can change sorting priorities. Use the "Clear filter" button to reset. Can I delete something from the account history?No, this is impossible. Your history cannot be changed or edited.What filters are available in the History section?
+The system offers a number of filters to keep track of user activity from the day an account has been created. By using filters, account owners can keep track of the following areas:- "User". This filter helps a user to view all actions related to changes in the user`s personal information, as well as exact login times and the IP-addresses used to login.- "Account". This filter enables a user to see all actions related to the creation of wallets within his/her account as well as any changes in account balances.- "Deposit". This filter enables a user to see all actions related to deposit applications including the ones denied and unprocessed by the system. - "Withdrawal". This filter enables a user to see all actions related to withdrawal applications, including the ones denied and unprocessed by the system.- "Mail". This filter enables a user to see all actions related to internal mail usage within the account.- "Security". This filter enables a user to see all actions related to changes in security settings, including notifications, PIN codes to verify the identity, etc.- "Exchange". This filter enables a user to see all actions related to exchange applications made within his/her accounts, including pending and completed ones.- "SMS". This filter enables a user to see all actions related to the use of SMS option in your account.- "Public". This filter enables a user to see all actions related to changes in the public information provided by his/her profile. - "Scheduled payment". This filter enables a user to see all actions related to changes in payment schedule including its creation, configuration, and submission times. 12. Settings
+
+
+
+The system automatically locks an account following a certain number of failed login attempts. Your account will be unlocked automatically after a few hours.Ive lost an access to my e-mail. What shall I do?Please change the email associated with your account by submitting a form here: https://perfectmoney.is/restore.html Please select “Change Email” from the drop down menu.Can I disable the IP authentication option? If yes, then how do I do it?This option can be disabled; however we strongly recommend that you should not do it. To switch it off, please go to "Settings" in the "Security" section and click on "Change Security Settings". Then click on "Disable" under the "Identity Check" option. The system will send you a PIN-code to e-mail which you provide during the registration to check your identity. The option will be disabled when the code is verified. How much does the Identity Check option cost?
+This option is free.
+It depends on your phone operating system. For Android devices you can download the Perfect Money app from the App section of the Play Market. For iOS-based phones, please go to the App Store and search for the Perfect Money app to install it.How do you I login using the app? Do I need to register again? Use the same login and password as you normally do while using you PC. You will have no difficulties logging into your account.What options are available in the Perfect Money app?You can deposit, withdraw and exchange.Is the app safe? Yes, the application is completely secure. When someone tries to log into the app, the system immediately notifies you by email or SMS, depending on your security settings. It is recommended to use all the security tools provided.Are there any limitations set for working with transfers through the app?No, there are no limitations on transfer amounts.

@@ -1,0 +1,122 @@
+13 Will there be an HTML6?
+14 Please explain W3C's Standards Creation Process
+
+
+
+What is HTML5?
+Question: What is HTML5?
+HTML5 contains powerful capabilities for Web-based applications with more powerful interaction, video support, graphics, more styling effects, and a full set of APIs. HTML5 adapts to any device, whether desktop, mobile, tablet, or television. HTML5 is an open platform developed under royalty free licensing terms.
+People use the term HTML5 in two ways:
+to refer to a set of technologies that together form the future Open Web Platform. These technologies include HTML5 specification, CSS3, SVG, MathML, Geolocation, XmlHttpRequest, Context 2D, Web Fonts (WOFF) and others. The boundary of this set of technologies is informal and changes over time.
+to refer to the HTML5 specification, which is, of course, also part of the Open Web Platform.
+Although it would be great if people used one term to refer to the specification and another term to refer to set of specifications, in practice people use the term both ways.
+Note: Throughout this FAQ, we use HTML5 to refer only to the HTML5 specification. We use Open Web Platform to refer to the larger set of technologies.
+
+
+
+Why is HTML5 so exciting?
+Question: HTML5 has been cited by many thought leaders as the future of the Web. Why is HTML5 generating this excitement?
+There is huge demand for open standards that allow the
+creation of rich internet applications. Watching videos, finding the
+nearest restaurant, accessing emails while being offline are just some of the powerful new capabilities enabled by the set of specifications in development at W3C.
+One aspect that interests W3C in particular is enabling people to combine different technologies. W3C works to ensure not just interoperable support in software of a single specification, but compatibility among specifications.
+Even though HTML5 is still a draft, browser vendors are deploying
+features and generating a lot of excitement in the IT industry. This
+experience in turn allows W3C to revise its drafts. In this way, the
+final standard can transparently inform implementers where they need
+to pay close attention to security and privacy issues.
+
+
+
+When can I use HTML5?
+People can already use parts of the platform that interoperate, but W3C's mission is global interoperable, to ensure that the web is available to all. Not all elements are fully implemented yet and some of them provide builtin fallback mechanisms, such as <video> or <input>. One can use HTML5 today, knowing the existing limitations and ensuring proper fallbacks.
+
+
+
+Which Web browsers support HTML5?
+Question: Which Web Browsers support HTML5?
+W3C encourages implementation and testing long before a specification becomes a standard to ensure that two people can read a specification independently and write interoperable software. Early adopters provide implementers and W3C with tremendously valuable feedback because they help identify where interoperability issues exist. For a more detailed understanding of what is currently supported, please see the HTML5 Test Suite Conformance Results (a work in progress).
+A number of people are tracking browser implementations (e.g., html5readiness). Note: W3C has not verified the accuracy of these reports.
+
+
+
+When will HTML5 be done?
+Question: When will HTML5 be finished? What is the status of HTML5?
+HTML5 is a work in progress. We expect to be feature complete by December 2012.
+W3C is developing a comprehensive test suite to achieve
+interoperability for the full specification by 2014, the target date for
+Recommendation. W3C's primary goal is to ensure that the HTML5 standard
+is of the highest quality and allows the creation of interoperable
+implementations. The timeline in the charter is based on implementation
+expectations and development of a test suite. The timeline is designed
+to help the industry plan for adoption. Ongoing active participation by
+browser vendors, other software developers, and the community in
+implementation and testing will help ensure the successful and timely
+roll out of the standard.
+
+
+
+What are HTML5 Security and Privacy Issues?
+Question: Do you think that the benefits of HTML5, such as its neutrality, rich graphics, no need plug-ins, outweigh the security risk it carries?
+Now entering its third decade, the Web has evolved from a Web of
+documents into a formidable platform for networked applications that
+let us share information and services over the Internet. In this
+highly connected environment, it is important that powerful Web
+applications be designed with sensitivity to user privacy and security needs. The risks associated with modern Web applications are familiar
+to the HTML5 community.
+HTML5 and related specifications are being developed in W3C's open
+standards process. This process allow expert review of features along
+with their security and privacy implications. Rich functionality that
+was previously available only through proprietary plugins is now
+documented in an open specification for all experts to review and
+improve. We're pleased to see the HTML5 specifications subject to
+rigorous public review, since that helps make the Web a more secure
+environment.
+Some security issues are not confined to HTML5.  W3C and IETF are
+working closely to specify technologies and protocol extensions to
+mitigate some issues (such as cross-site request forgery and cross-
+site scripting).
+
+
+
+What happens to XHTML?
+Question: What is the impact of HTML5 on XHTML (the XML serialization of HTML)?
+The HTML5 specification defines two syntaxes, an HTML syntax and an XHTML syntax.
+The HTML syntax is intended to be served using the text/html media type. The XHTML syntax is intended to be served using the application/xhtml+xml media type.
+The Polyglot Markup: HTML-Compatible XHTML Documents specification (a work in progress) describes documents that conform to both syntaxes and can therefore be served as application/xhtml+xml or text/html.
+
+
+
+Question:  Is there support for digital rights management (DRM) in HTML5 video?
+HTML5 doesn't provide direct support, nor any barrier, to using DRM in video. It currently expects this to be handled by the particular codec/implementation. There are implementations which allow for DRM in HTML5 video.
+
+
+
+Is dealing with DRM in scope for HTML5?
+Question: Is dealing with DRM in scope for HTML5?
+If enough stakeholders want to standardise some aspect of handling DRM in HTML5 itself as part of the inclusion of video and audio media, then it makes sense for W3C to help standardise an approach which meets the needs of the market. However like all W3C work, relevant stakeholders need to be and show they are committed to developing it rather than expecting it to happen on its own.
+
+
+
+Does HTML5 support adaptive/live HTTP streaming?
+Question: It seems that HTML5 only supports progressive download. Has W3C considered to support any advanced media delivery mechanism in HTML5,  e.g. HTTP adaptive streaming? Or has it been decided that this is rather an implementation issue (i.e. selection and implementation of advanced media delivery method are up to browser implementers/providers)? If true, then CPs and service providers may have to prepare different versions of contents and also implement multiple advanced media delivery mechanisms.
+HTML5 neither supports nor precludes adaptive/live HTTP streaming system. Some Web browsers, such as Safari, provide specific extensions for handling video with adaptive/live streaming while using the HTML5 video element. W3C has been working on media fragments which might be helpful to address adaptive/live HTTP streaming. There are also drafts circulating within the IETF.
+
+
+
+Does HTML5 provide for Royalty-Free video and audio codecs?
+Question: Since no video codec and container format have been specified yet, CPs and service providers have to prepare multiple versions of same video contents for browsers supporting different codecs and container formats with HTML5. Therefore, it would be nice to specify (mandatorily) supported codec(s) and container format(s). When do you estimate this can be done? Or is it possible that this can be done at all?
+The W3C HTML Working Group has not identified a Royalty-Free video codec or container format that would satisfy all parties. There are various requirements to consider, including the W3C Royalty-Free licensing commitments and various open source projects (Mozilla, Webkit). W3C is still highly interested in finding a solution in this space. At the moment, two video codecs seem to cover all major Web browsers.
+
+
+
+Will there be an HTML6?
+No work is currently happening on HTML6 but feature request that are not planned to be addressed in HTML5 are available at listed under HTML.next. We're encouraging the group to begin discussion of requirements for future versions of HTML after May 2011.
+Please explain W3C's Standards Creation Process
+
+
+
+Question: How does W3C turn draft documents into Web standards?
+A process summary is available as well as broader
+introduction to the W3C Process.
+Retrieved from "https://www.w3.org/html/wiki/index.php?title=FAQs&oldid=1791"

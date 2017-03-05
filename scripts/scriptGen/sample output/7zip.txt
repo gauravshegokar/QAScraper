@@ -1,0 +1,168 @@
+Can I use 7-Zip in a commercial organization?
+Yes, 7-Zip is free software. You can use it on any computer. You don't need to
+register or pay for 7-Zip.
+
+
+
+How can I set file associations to 7-Zip in Windows 7 and Windows Vista?
+You must run 7-Zip File Manager in administrator mode.
+Right-click the icon of 7-Zip File Manager, and then click Run as administrator.
+Then you can change file associations and some other options.
+
+
+
+Why 7z archives created by new version of 7-Zip can be larger than archives created by old version of 7-Zip?
+New versions of 7-Zip (starting from version 15.06) use another file sorting
+order by default for solid 7z archives.
+Old version of 7-Zip (before version 15.06) used file sorting "by type" ("by extension").
+New version of 7-Zip supports two sorting orders:
+sorting by name - default order.
+sorting by type, if 'qs' is specified in Parameters field in "Add to archive" window,
+(or -mqs switch for command line version).
+You can get big difference in compression ratio for different sorting methods,
+if dictionary size is smaller than total size of files.
+If there are similar files in different folders, the sorting "by type" can provide
+better compression ratio in some cases.
+Note that sorting "by type" has some drawbacks.
+For example, NTFS volumes use sorting order "by name", so if an archive uses
+another sorting, then the speed of some operations for files with unusual order
+can fall on HDD devices (HDDs have low speed for "seek" operations).
+You can increase compression ratio with the following methods:
+Increase dictionary size. It can help when 'qs' is not used.
+Specify 'qs' in Parameters field (or use -mqs switch for command line version).
+If you think that unusual file order is not problem for you,
+and if better compression ratio with small dictionary is more important for you,
+use 'qs' mode.
+
+
+
+Why can't 7-Zip open some ZIP archives?
+In 99% of these cases it means that the archive contains incorrect headers.
+Other ZIP programs can open some archives with incorrect headers, since these programs
+just ignore errors.
+If you have such archive, please don't call the 7-Zip developers about it.
+Instead try to find the program that was used to create the archive and inform the developers
+of that program that their software is not ZIP-compatible.
+There are also some ZIP archives that were encoded with methods unsupported by 7-Zip,
+for example, WAVPack (WinZip).
+
+
+
+Why can't 7-Zip open some RAR archives?
+7-Zip 9.20 supports RAR 2/3/4 formats only and doesn't support RAR5 archives.
+But latest versions of 7-Zip supports RAR5 archives.
+
+
+
+Why does drag-and-drop archive extraction from 7-Zip to Explorer use temp files?
+7-Zip doesn't know folder path of drop target.
+Only Windows Explorer knows exact drop target.
+And Windows Explorer needs files (drag source) as decompressed files on disk.
+So 7-Zip extracts files from archive to temp folder and then
+7-Zip notifies Windows Explorer about paths of these temp files.
+Then Windows  Explorer copies these files to drop target folder.
+To avoid temp file usage, you can use Extract command of 7-Zip or
+drag-and-drop from 7-Zip to 7-Zip.
+
+
+
+Why doesn't the command line version add files without extensions to an archive?
+You're probably using a *.* wildcard. 7-Zip doesn't use the operating system's wildcard mask parser,
+and consequently treats *.* as any file that has an extension.
+To process all files you must use the * wildcard instead or omit the wildcard altogether.
+
+
+
+Why doesn't -r switch work as expected?
+In most cases you don't need -r switch.
+7-Zip can compress subfolders even without -r switch.
+Example 1:
+7z.exe a c:\a.7z "C:\Program Files"
+compresses "C:\Program Files" completely, including all subfolders.
+Example 2:
+7z.exe a -r c:\a.7z "C:\Program Files"
+searches and compresses "Program Files" in all subfolders of C:\ (for example, in "C:\WINDOWS").
+7z a -r c:\a.zip c:\dir\*.txt
+compresses all *.txt files from folder c:\dir\ and all it's subfolders.
+
+
+
+How can I store full path of file in archive?
+7-Zip stores only relative paths of files (without drive letter prefix).
+You can change current folder to folder that is common for
+all files that you want to compress and then you can use relative paths:
+cd /D C:\dir1\
+7z.exe a c:\a.7z file1.txt dir2\file2.txt
+
+
+
+Why can't 7-Zip use big dictionary in 32-bit Windows?
+32-bit Windows allocates only 2 GB of virtual space per one application.
+Also that block of 2 GB can be fragmented (for example, by some DLL file),
+so 7-Zip can't allocate one big contiguous block of virtual space.
+There are no such limitations in 64-bit Windows.
+So you can use any dictionary in Windows x64, if you have required amount of physical RAM.
+
+
+
+How can I install 7-Zip in silent mode?
+For exe installer: Use the "/S" parameter to do a silent installation and the "/D=dir" parameter
+to specify the "output directory". These options are case-sensitive.
+For msi installer: Use the /q INSTALLDIR="C:\Program Files\7-Zip" parameters.
+
+
+
+How can I recover corrupted 7z archive?
+There are some possible cases when archive is corrupted:
+You can open archive and you can see the list of files, but when you press
+Extract or Test command, there are some errors: Data Error or CRC Error.
+When you open archive, you get message "Can not open file 'a.7z' as archive"
+It's possible to recover some data. Read about recovering procedure:
+Recover corrupted 7z archive
+Developer FAQ
+
+
+
+Why are there linking errors when I compile 7-Zip or LZMA SDK with Visual C++ 6.0?
+To compile sources you will need Visual C++ 6.0 or a later version.
+Some files also require a new Platform SDK from microsoft.com:
+http://www.microsoft.com/msdownload/platformsdk/sdkupdate/psdk-full.htm
+http://www.microsoft.com/msdownload/platformsdk/sdkupdate/
+If you are using MSVC, specify the SDK directories at the top of the "Include files" and
+"Library files" directory lists. These can be found under "Tools / Options / Directories".
+The latest Platform SDK is not compatible with MSVC6. So you must use
+Windows Server 2003 PSDK (February 2003) with MSVC6.
+
+
+
+Can I use the EXE or DLL files from 7-Zip in a Commercial Application?
+Yes, but you are required to specify in your documentation (1) that
+you used parts of the 7-Zip program, (2) that 7-Zip is licensed under the GNU LGPL license and
+(3) you must give a link to www.7-zip.org, where the source code can be found.
+
+
+
+How can I add support for 7z archives to my application?
+One way is to use the 7z.dll or 7za.dll (available from sf.net for download). The 7za.dll
+works via COM interfaces. It, however, doesn't use standard COM interfaces for
+creating objects. You can find a small example in "CPP\7zip\UI\Client7z" folder
+in the source code. A full example is
+7-Zip itself, since 7-Zip works via this dll also. There are other applications
+that use 7za.dll such as WinRAR, PowerArchiver and others.
+The other way is to call the command line version: 7za.exe.
+
+
+
+Can I use the source code of 7-Zip in a commercial application?
+Since 7-Zip is licensed under the GNU LGPL you must follow the rules of that license.
+In brief, it means that any LGPL'ed code must remain licensed under the LGPL. For
+instance, you can change the code from 7-Zip or write a wrapper for some code
+from 7-Zip and compile it into a DLL; but, the source code of that DLL (including
+your modifications / additions / wrapper) must be licensed under the LGPL or GPL.
+Any other code in your application can be licensed as you wish.
+This scheme allows users and developers to change LGPL'ed code and recompile
+that DLL. That is the idea of free software. Read more here:
+http://www.gnu.org/.
+You can also read about the LZMA SDK, which is available
+under a more liberal license.
+Copyright (C) 2016 Igor Pavlov. The site is hosted at Digital Ocean

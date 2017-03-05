@@ -1,0 +1,1072 @@
+What is Aadhaar?
+Aadhaar, which means "foundation" in many Indian languages, is the term for the unique identity number issued by the UIDAI.No resident can have a duplicate number since it is linked to their individual biometrics; thereby identifying fake and ghost identities which result in leakages today.Savings from eliminating duplicates and fakes through Aadhaar-based identification will further enable governments to expand benefits to other eligible residents.
+
+
+
+What are the features and benefits of Aadhaar?
+One Aadhaar: Aadhaar is a unique number, and no resident can have a duplicate number since it is linked to their individual biometrics; thereby identifying fake and ghost identities which result in leakages today. Savings from eliminating duplicates and fakes through Aadhaar-based identification will further enable governments to expand benefits to other eligible residents.Portability: Aadhaar is a universal number, and agencies and services can contact the central Unique Identification database from anywhere in the country to confirm a beneficiary's identity. Inclusion of those without any existing identity documents:A problem in reaching benefits to poor and marginalized residents is that they often lack the identification documents they need to receive State benefits; the "Introducer" system which has been approved for data verification for the UIDAI will enable such residents to establish an identity. Electronic benefit transfers: The UID-enabled-Bank-Account network will offer a secure and low cost platform to directly remit benefits to residents without the heavy costs associated today with benefit distribution; the leakages in the current system will also be stemmed as a result.Aadhaar-based authentication to confirm entitlement delivered to the beneficiary: The UIDAI will offer online authentication services for agencies who wish to validate a resident's identity; this service will enable confirmation of the entitlement actually reaching the intended beneficiary. Improved services through increased transparency: Clear accountability and transparent monitoring would significantly improve access and quality of entitlements to beneficiaries and the agency alike. Self-service puts residents in control:Using Aadhaar as an authentication mechanism, residents should be able to access up-to-date information about their entitlements, demand services and redress their grievances directly from their mobile phone, kiosks or other means. In the case of self-service on the resident's mobile, security is assured using two-factor authentication (i.e. by proving possession of the resident's registered Mobile Number and knowledge of the resident's Aadhaar PIN). These standards are compliant with the Reserve Bank of India's approved standards for Mobile Banking and Payments.
+
+
+
+Will getting Aadhaar be compulsory?
+Any person can choose to apply for Aadhaar. Similarly, agencies providing benefits and services may choose to use Aadhaar in their systems and may require that their beneficiaries or customers provide their Aadhaar for these services.
+
+
+
+What information is required to be provided by an individual to get Aadhaar?
+Demographic information required: Name  Date of Birth Gender  Address  Parent/Guardian details (required for children, adults may provide) Contact details phone and email (optional)  Biometric Information required: Photo 10 finger prints Iris The UIDAI set up the Demographic data standards and verification procedure committee under the Chairmanship of Shri N. Vittal to define the data fields to be collected by the UIDAI and the verification process to be followed. The Data Standards Committee submitted its report on December 9, 2009. The full report is available at documents/UID_DDSVP_Committee_Report_v1.0.pdf. UIDAI also set up the Biometrics standards committee under the Chairmanship of Dr B.K Gairola (Director General, National Informatics Centre) to define the standards and the nature of biometric data that is required to be captured. The report of the Biometrics standards committee was submitted on January 7, 2010 and is available at /documents/Biometrics_Standards_Committee_report.pdf
+
+
+
+How can a person's Date of Birth be validated?
+As per the DDSVP Committee report, a flag is maintained in Aadhaar database to indicate if Date of Birth (DoB) is verified, declared, or approximate. In case exact DoB is not known, the resident is asked to indicate the age only. Enrolment software has the provision to capture age & calculate the year of birth.
+
+
+
+Can the Registrar add / remove Introducers at a later stage?
+Yes, Registrars can add / remove / modify Introducers at a later stage. The area of operations of an Introducer can also be modified at a later stage. UIDAI encourages Registrars to review performance of Introducers on an on-going basis and make changes to the list as required.
+FAQ on About UIDAI
+Security in UIDAI system
+
+
+
+How does the UIDAI protect the individual and their information?
+Protection of the individual, and the safeguarding their information is inherent in the design of the UID project. From having a random number which does not reveal anything about the individual to other features listed below, the UID project keeps the interest of the resident at the core of its purpose and objectives.Collecting limited information: Data collected by the UIDAI is purely to issue Aadhaar, and confirm the identity of Aadhaar holders. The UIDAI is collecting basic data fields in order to be able to establish identity this includes Name, Date of Birth, Gender, Address, Parent/ Guardian's name essential for children but not for others, mobile number and email id is optional as well . The UIDAI is collecting biometric information to establish uniqueness therefore collecting photo, 10 finger prints and iris.No profiling and tracking information collected: The UIDAI policy bars it from collecting sensitive personal information such as religion, caste, community, class, ethnicity, income and health. The profiling of individuals is therefore not possible through the UID system, since the data collected is limited to that required for identification and identity confirmation. The UIDAI had in fact, dropped the place of birth data field part of the initial list of information it planned to collect based on feedback from CSOs that it could lead to profiling. The UIDAI also does not collect any transaction records of the individual. The records of an individual confirming their identity through Aadhaar will only reflect that such a confirmation happened. This limited information will be retained for a short period time in the interest of the resident, to resolve any disputes.Release of information - yes or no response:The UIDAI is barred from revealing personal information in Aadhaar database the only response permitted is yes or no to requests to verify an identity  The only exceptions are the order of a court, or the order of a joint secretary, in case of national security . This is a reasonable exception and is clear and precise. This approach is also in line with security norms followed in US and Europe on access to data in case of a security threat.Data protection and privacy: The UIDAI has the obligation to ensure the security and confidentiality of the data collected . The data will be collected on software provided by the UIDAI and encrypted to prevent leaks in transit. Trained and certified enrollers will collect the information, who will not have access to the data being collected. The UIDAI has a comprehensive security policy to ensure the safety and integrity of its data. It will publish more details on this, including the Information Security Plan and Policies for the CIDR and mechanisms for auditing the compliance of the UIDAI and its contracting agencies. In addition, there will be strict security and storage protocols in place. Penalties for any security violation will be severe, and include penalties for disclosing identity information . There will also be penal consequences for unauthorised access to CIDR including hacking , and penalties for tampering with data in the CIDR .Convergence and linking of UIDAI information to other databases: The UID database is not linked to any other databases, or to information held in other databases. Its only purpose will be to verify a person's identity at the point of receiving a service, and that too with the consent of Aadhaar holder. The UID database will be guarded both physically and electronically by a few select individuals with high clearance. It will not be available even for many members of the UID staff and will be secured with the best encryption, and in a highly secure data vault. All access details will be properly logged.
+FAQ on About UIDAI
+Grievance Redressal Mechanism
+
+
+
+Will there be a grievance redressal mechanism?
+Yes, there will be concern and issues that residents or UIDAI eco system partner may have in terms of enrolment, authentication and identity frauds etc. . The UIDAI has set up a Contact Centre that serves as a single point of contact for the organization. The existing channels of communications are : Voice (Helpline number: 1947) and E-mail (This email address is being protected from spambots. You need JavaScript enabled to view it.
+document.getElementById('cloakc1f3c584effe7c25dc7c7f0c2f7d9657').innerHTML = '';
+var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+var path = 'hr' + 'ef' + '=';
+var addyc1f3c584effe7c25dc7c7f0c2f7d9657 = 'h&#101;lp' + '&#64;';
+addyc1f3c584effe7c25dc7c7f0c2f7d9657 = addyc1f3c584effe7c25dc7c7f0c2f7d9657 + '&#117;&#105;d&#97;&#105;' + '&#46;' + 'g&#111;v' + '&#46;' + '&#105;n';
+var addy_textc1f3c584effe7c25dc7c7f0c2f7d9657 = 'h&#101;lp' + '&#64;' + '&#117;&#105;d&#97;&#105;' + '&#46;' + 'g&#111;v' + '&#46;' + '&#105;n';document.getElementById('cloakc1f3c584effe7c25dc7c7f0c2f7d9657').innerHTML += '<a ' + path + '\'' + prefix + ':' + addyc1f3c584effe7c25dc7c7f0c2f7d9657 + '\'>'+addy_textc1f3c584effe7c25dc7c7f0c2f7d9657+'<\/a>';
+).
+
+
+
+What if a Resident gets rejected by the UIDAI and is not issued Aadhaar?
+The reason for rejection along with steps to be taken post rejection will be communicated to the resident and the Registrar.
+
+
+
+What if a Resident misplaces his Aadhaar letter /forgets his Aadhaar?
+The resident can contact the Contact Centre (through phone / letter / email) with the enrolment number and make a request for sending a second letter communicating Aadhaar. This may be a paid service. In case Aadhaar has been used to avail a service or benefit, the resident can contact the agency that offers the same, to obtain Aadhaar.
+
+
+
+What if Aadhaar letter does not get delivered to a Resident?
+If resident does not get Aadhaar letter he/she should contact UIDAI contact centre with his/her Enrolment number or he/she may check Aadhaar status here
+
+
+
+What can the Resident do if there are spelling mistakes / other demographic error in his/her Aadhaar letter?
+During enrolment, even when the data is entered, the resident can see the data entry and is expected to point out errors at this stage. Prior to finalization and printing of the Enrolment Acknowledgment, one more opportunity is presented to make corrections. In the event that both opportunities are missed, the demographic correction may be carried out by visiting the enrolment centre within 48 hours of time of enrolment carrying the relevant documents and enrolment slip.
+FAQ on About UIDAI
+Protection of Individual Information in UIDAI System
+
+
+
+What are the privacy protections in place to protect the right to privacy of the resident?
+Protection of the individual and the safeguarding their information is inherent in the design of the UID project. From having a random number which does not reveal anything about the individual to other features listed below, the UID project keeps the interest of the resident at the core of its purpose and objectives.  Collecting limited information The UIDAI is collecting only basic data fields - Name, Date of Birth, Gender, Address, Parent/ Guardian’s (name essential for children but not for others) photo, 10 finger prints and iris scan.
+No profiling and tracking information collected The UIDAI policy bars it from collecting sensitive personal information such as religion, caste, community, class, ethnicity, income and health. The profiling of individuals is therefore not possible through the UID system.
+Release of information – yes or no response The UIDAI will not reveal personal information in the Aadhaar database – the only response will be a ‘yes’ or ‘no’ to requests to verify an identity
+Convergence and linking of UIDAI information to other databases The UID database is not linked to any other databases, or to information held in other databases. Its only purpose will be to verify a person’s identity at the point of receiving a service, and that too with the consent of the aadhaar number holder The UID database will be guarded both physically and electronically by a few select individuals with high clearance. The data will be secured with the best encryption, and in a highly secure data vault. All access details will be properly logged.
+
+
+
+What are the Data protection and privacy measures taken by UIDAI ?
+The UIDAI has the obligation to ensure the security and confidentiality of the data collected. The data will be collected on software provided by the UIDAI and encrypted to prevent leaks in transit. The UIDAI has a comprehensive security policy to ensure the safety and integrity of its data. There are security and storage protocols in place. UIDAI has published guidelines in this regard which is available on its website. Penalties for any security violation will be severe, and include penalties for disclosing identity information. There will also be penal consequences for unauthorised access to CIDR – including hacking, and penalties for tampering with data in the CIDR.
+
+
+
+What are the possible criminal penalties envisaged against the fraud or unauthorized access to data. ?
+Following are the possible criminal penalties in the Bill:
+Impersonation by providing false demographic or biometric information is an offence – imprisonment for 3 years and a of fine Rs. 10,000.
+Appropriating the identity of an Aadhaar number holder by changing or attempting to change the demographic and biometric information of an Aadhaar number holder is an offence - imprisonment for 3 years and a fine of Rs. 10,000.
+Pretending to be an agency authorized to collect Identity information of a resident is an offence – imprisonment for 3 years and a fine of Rs. 10,000 for a person, and Rs. 1 lakh for a company.
+Intentionally transmitting information collected during enrolment and authentication to an unauthorized person is an offence – imprisonment for 3 years and a fine of Rs. 10,000 for a person, and Rs. 1lakh for a company.
+Unauthorized access to the central identities data repository (CIDR) and hacking is an offence – imprisonment for 3 years and a fine of Rs. 1 crore.
+Tampering with the central identities data repository is an offence – imprisonment for 3 years and a fine of Rs. 10,000.
+Providing biometrics that is not one’s own is an offence – imprisonment for 3 years and of Rs. 10,000.
+FAQ on Enrolment & Update
+Use of Aadhaar
+
+
+
+What use can aadhaar be put to? What are the Aadhaar enabled applications? How a resident gets benefited through Aadhaar enabled applications?
+Aadhaar means foundation , therefore it is the base on which any delivery system can be built. Aadhaar can be used in any system which needs to establish the identity of a resident and/or provide secure access for the resident to services/benefits offered by the system. Aadhaar can be used in the delivery of the following programs: Food & Nutrition – Public Distribution System, Food Security, Mid Day Meals, Integrated Child Development Scheme.
+Employment – Mahatma Gandhi National Rural Employment Guarantee Scheme, Swarnajayanti Gram Swarozgar Yojana, Indira Awaaz Yojana, Prime Minister’s Employment Guarantee Program
+Education – Sarva Shikhsha Abhiyaan, Right to Education
+Inclusion & Social Security – Janani Suraksha Yojana, Development of Primitive Tribe Groups, Indira Gandhi National Old Age Pension Scheme
+Healthcare – Rashtriya Swasthya Bima Yojana, Janashri Bima Yojana, Aam Aadmi Bima Yojana
+Other miscellaneous purposes including Property Transactions, VoterID, PAN Card etc.
+
+
+
+How is Aadhaar different from any other identity issued by the government?
+Aadhaar is essentially a paperless online anytime-anywhere identity assigned to a resident to cover his/her entire lifetime. The verification of his identity is done online with the help of authentication devices which connect to UIDAI’s Central Identity Repository and return only a ‘yes’ or ‘no’ response to the basic query-“Is the person who he/she claims to be?” based on the data available with UIDAI. The Aadhaar authentication service is fully functional and in use in several service delivery schemes across the country. The Aadhaar Card or the e-Aadhaar (electronic copy of Aadhaar) are essentially given to residents to know their own Aadhaar, but are only the first step towards the actual use of the online id as explained in the preceding para.
+FAQ on About UIDAI
+Protection of the Individual in the UIDAI System
+
+
+
+How does the UIDAI protect the individual and their information?
+Protection of the individual, and the safeguarding their information is inherent in the design of the UID project. From having a random number which does not reveal anything about the individual to other features listed below, the UID project keeps the interest of the resident at the core of its purpose and objectives.  Collecting limited information Data collected by the UIDAI is purely to issue Aadhaar numbers, and confirm the identity of Aadhaar number holders. The UIDAI is collecting basic data fields in order to be able to establish identity– this includes Name, Date of Birth, Gender, Address, Parent/ Guardian’s name essential for children but not for others, mobile number and email id is optional as well . The UIDAI is collecting biometric information to establish uniqueness – therefore collecting photo, 10 finger prints and iris.
+No profiling and tracking information collected  The UIDAI policy bars it from collecting sensitive personal information such as religion, caste, community, class, ethnicity, income and health. The profiling of individuals is therefore not possible through the UID system, since the data collected is limited to that required for identification and identity confirmation. The UIDAI had in fact, dropped the ‘place of birth’ data field – part of the initial list of information it planned to collect – based on feedback from CSOs that it could lead to profiling. The UIDAI also does not collect any transaction records of the individual. The records of an individual confirming their identity through Aadhaar will only reflect that such a confirmation happened. This limited information will be retained for a short period time in the interest of the resident, to resolve any disputes.
+Release of information – yes or no response The UIDAI is barred from revealing personal information in the Aadhaar database – the only response permitted are a ‘yes’ or ‘no’ to requests to verify an identity . The only exceptions are the order of a court, or the order of a joint secretary, in case of national security . This is a reasonable exception and is clear and precise. This approach is also in line with security norms followed in US and Europe on access to data in case of a security threat.
+TData protection and privacyThe UIDAI has the obligation to ensure the security and confidentiality of the data collected . The data will be collected on software provided by the UIDAI and encrypted to prevent leaks in transit. Trained and certified enrollers will collect the information, who will not have access to the data being collected. The UIDAI has a comprehensive security policy to ensure the safety and integrity of its data. It will publish more details on this, including the Information Security Plan and Policies for the CIDR and mechanisms for auditing the compliance of the UIDAI and its contracting agencies. In addition, there will be strict security and storage protocols in place. Penalties for any security violation will be severe, and include penalties for disclosing identity information . There will also be penal consequences for unauthorised access to CIDR – including hacking , and penalties for tampering with data in the CIDR .
+Convergence and linking of UIDAI information to other databasesThe UID database is not linked to any other databases, or to information held in other databases. Its only purpose will be to verify a person’s identity at the point of receiving a service, and that too with the consent of the aadhaar number holder. The UID database will be guarded both physically and electronically by a few select individuals with high clearance. It will not be available even for many members of the UID staff and will be secured with the best encryption, and in a highly secure data vault. All access details will be properly logged.
+
+
+
+Who will have access to the UID database? How will the security of the database be ensured?
+Residents who have aadhaar numbers will be entitled to access their own information stored in the UID database.
+CIDR operations will be follow strict access protocols to limit access to the database.
+The database itself will be secured against hacking and other forms of cyberattacks.
+
+
+
+How will the grievances of the resident be addressed?
+The UIDAI will set up a Contact Centre to manage all queries and grievances and serve as a single point of contact for the organization. The details of the Contact Centre will be published on the website as and when enrolment begins.
+The users of this system are expected to be residents, registrars and enrolment agencies.
+Any resident seeking enrolment is given a printed acknowledgement form with an Enrolment Number, that enables the resident to make queries about her/his enrolment status through any communication channel of the contact centre.
+Each enrolment agency will be given a unique code that will also enable faster and pointed access to the Contact Centre that includes a technical helpdesk.
+
+
+
+Can a resident opt out of Aadhaar?
+The resident has the option in the first instance not to enroll for Aadhaar at all. Aadhaar is a service delivery tool, and not designed for any other purpose. Aadhaar being unique to every resident , is non-transferable. If the resident does not wish to use the Aadhaar, it will remain dormant, as the use is based on the physical presence and biometric authentication of the person. However, currently, there is no provision to opt out of the Aadhaar database, but it must be again said here that except for the resident, his Aadhaar cannot be used by any other person.
+
+
+
+Can the resident’s data be purged from Aadhaar database?
+As is the case with the other services availed from the government, there is no provision for purging the data of the resident from the database once he has obtained his Aadhaar. The data is also required as it is used for de-duplication of every new entrant in the database against all the existing records to establish the uniqueness of the resident. Only after this process is completed that the Aadhaar is assigned.
+FAQ on About UIDAI
+Use of the Information in the UIDAI Database
+
+
+
+How will the information in the database be used?
+The information in the UID database will be used only for the purpose of authentication.
+
+
+
+What is authentication?
+Authentication is the process through which the aadhaar number of a resident , along with other attributes (including biometrics) are submitted to the Central Identities Data Repository for its verification and such Repository verifies the correctness thereof on the basis of information or data or documents available with it The response from the CIDR to a authentication query will only be a positive or a negative response, the UIDAI shall not give out the demographic or biometric information of a resident in response to an authentication query.
+
+
+
+Who owns the data collected by the UIDAI?
+The data pertaining to residents is held by UIDAI as a trustee /custodian, and is not shared with any agency without the consent of the resident, either in writing or when electronically authenticated. The Aadhaar is activated only at the request of the Aadhaar holder. He/ She may choose to let it be dormant by not using it at all. As a trusted custodian, the residents’ data has always been handled in a responsible manner with state-of-the-art security systems in place in the UIDAI.
+
+
+
+Can one de-activate one’s Aadhaar?
+UIDAI’s update policy version 2.3 (available on the official website uidai.gov.in) has provisions for deactivation of Aadhaar, which are given below: a. If within 2 years of attaining age 5, the child's biometrics are not updated in Aadhaar database, his/her Aadhaar number will be deactivated (no authentication permissible). It will be reactivated once biometrics are updated in database. b. If within 2 years of attaining age 15, the child's biometrics are not updated in Aadhaar database, his/her Aadhaar number will be deactivated (no authentication permissible). It will be reactivated once biometrics are updated in database. c. If Resident has not biometrically authenticated in 5 years, his/her One Time Password (OTP) based authentication services will be deactivated. They will be re-activated once the resident biometrically authenticates.
+FAQ on Aadhaar in General
+Protection from Expanding Data Fields
+
+
+
+How will the UIDAI protect against functional creep?
+The full board of UIDAI may add additional data fields related to identity, and the law will contain a prescription against collecting any other information besides the information permitted, with specific prohibitions against collection of information regarding religion, race, ethnicity, caste and other similar matters and the facilitation of analysis of the data for anyone or to engage in profiling or any similar activity.
+FAQ on Enrolment & Update
+Enroling Children
+
+
+
+How will children be captured in the database?
+For children below 5 years no biometrics will be captured. Their UID be processed on the basis of demographic information and facial photograph linked with the UID of their parents. These children will need to be re-enrolled with biometrics of ten fingers, iris and facial photograph, when they turn 5. Their biometrics will be updated once they turn 15. Intimation to this effect will be mentioned in the original Aadhaar letter.
+FAQ on Enrolment & Update
+Enroling Differently-abled
+
+
+
+How will the biometric of the differently-abled and people with no finger prints or rugged hands e.g. beedi workers or people with no fingers be captured?
+The policy will take into consideration these exceptions and the biometric standards prescribed will ensure that these groups are not excluded. In the case of people without hands/ fingers only photo will be used for identity determination and there will be markers to determine uniqueness.
+FAQ on Enrolment & Update
+Inclusion
+
+
+
+Will an AADHAAR enabled bank account be opened with every issue of an AADHAAR number?
+AADHAAR enabled bank accounts will be opened for every resident, if he or she chooses to consent to the same. This consent will be requested from the resident at the time of enrolment itself. The accounts would be opened for everyone including children.
+
+
+
+How will an AADHAAR enabled bank account help a resident that already has a bank account?
+It is envisaged that disbursement of social security benefits like pensions, scholarships, MGNREGS wages etc. would be through Aadhaar enabled bank account. We are actively working with states/central ministries to designate Aadhaar enabled accounts for disbursal of all social security benefits. The individual would be able to access his/her AADHAAR enabled bank account through a low cost interoperable micro-ATM network which will have large geographical reach. Instant payments through biometric authentication and mobile payments will also be enabled in the future for such accounts.
+FAQ on Enrolment & Update
+Language & Transliteration
+
+
+
+How do I enter data in local language?
+A local language can be selected during the setup of the enrolment client. The list of available options is a subset of the Input Method Editors (IMEs) installed on the enrolment station. For instance, the operator can install the Google IME (or an IME available from a different source) for Hindi input. When the data entry is performed in English, the text is also transliterated through the IME, and placed on the screen. The operator can then correct this text, using the IME’s built in editing tools, including a virtual keyboard. Certain IMEs allow users to specify a set of macros, and other smart tools to allow easier data entry in the local language.
+
+
+
+What do you mean when you say that a particular language is supported?
+Supporting a local language implies providing support for: Data entry in local language Transliteration of English language data to local language Labels in local language in the software (on screen) Labels in local language in the print receipt Import of pre-enrolment data in local language (upcoming)
+
+
+
+What languages are supported?
+In the current release (1.2.1.5), we have support for Hindi Kannada Telugu Tamil Marathi Bengali In future releases, subject to availability of a local language IME, we expect to support additional Indian languages
+
+
+
+How do I make local language the primary source for data entry?
+At this time, the primary source for data entry is in English. However, as the technology matures, we expect to change the primary language to local language based on reverse transliteration. Since this is a dependency on technology that is not yet available, we cannot assure a date, however – we are targeting a release in Version 3.0.
+
+
+
+What are the common issues seen with Indian Language Input?
+The most common problem that UIDAI have seen is with installation of the IME, and it’s interactions with the language bar. Further, it is possible to configure the Windows language input to assume a local language keyboard. This is not the same as transliteration, but assumes a different keyboard is being used – and the results are very different. UIDAI have also had difficulty in truly transliterating English words into local language, as they are very different from the language model. This can be better handled by using advanced facilities in the IMEs (for ex. Schemes in Google IME) The language support must be configured on a per user basis, and that makes it harder to manage.
+
+
+
+How do I import pre-enrolment data in local language?
+At this time, the support has been provided for import of pre-enrolment data in English. During enrolment process, the data is converted from English to local language through the transliteration engine. The operator can correct this data in the presence of the resident. The software is planned to provide support for import of pre-enrolment data in English, local language or both in future versions. For pre-enrolment data imported in local language, it will not be over-ridden by the transliteration engine. However, a soft keypad / IME will be available for editing the data.
+
+
+
+What language will the database be maintained? In what language will authentication services be provided? In what language will communication between UIDAI and the resident take place?
+The database will be maintained in English. The communication between resident and UIDAI will be in English and the local language.
+Enrolment & Update
+Protection from Expanding Data Fields
+FAQ on Enrolment & Update
+Aadhaar Time Frame
+
+
+
+What is the anticipated time for receipt of Aadhaar number after the enrolment?
+The waiting time for Aadhaar may vary from 60-90 days after receipt of resident data packets in CIDR. However, it could take even longer in case enrolment is done through NPR exercise.
+After enrolment, quality checks are done by the enrolment centre supervisors, followed by correction process (where required) and data packet consolidation. Subsequently, the Enrolment Agency sends the data to UIDAI data centre. The data undergoes various stages of screening and validations in CIDR. This ensures that the source of data is authenticated besides ensuring that no duplicate exists. Sample Quality checks are done on demographic and biometric data collected from residents. Apart from that the Operator/Supervisor/Introducer/Enrolment Agency and Registrar information in each packet is also validated. Only after passing the data quality checks and other validations, the packet goes for de-duplication and Aadhaar gets generated.
+In case of any errors, the packet goes on hold. For example if the particulars of the Operator who enrolled the resident are found to be inconsistent with database or there is a mismatch observed in photo and age/gender (ex. a child's photo with age mentioned as 50 yrs), then the packet is held for further enquiry. Corrective actions are taken on such packets, wherever possible, else a rejection letter guiding resident to re-enroll is dispatched to the resident. India Post is entrusted with the responsibility of printing and delivery of Aadhaar letters. Depending on backlog for generation, location of delivery etc. India Post may ordinarily take 3-5 weeks to print and deliver Aadhaar letters to the residents.
+In the case of Aadhaar enrolments through NPR exercise, the method of verification is the RGI approved LRUR(Local Register of Usual Residents) verification process. The Aadhaar number will be issued only after completion of the LRUR process which could take much longer than the time prescribed above. Residents can verify the name of their Registrar at the enrolment centres or on the acknowledgement provided to them at the time of enrolment. In case it is Registrar General of India(RGI), please contact office of RGI for further details.
+FAQ on Enrolment & Update
+Updation in Aadhaar
+
+
+
+What fields can I update through Self Service Update Portal (SSUP)?
+Name, gender, DoB, address and mobile number can be updated using SSUP.
+
+
+
+Can I request to Update fields by sending request through Post?
+Yes, you can submit request for Name, gender, DoB, address and mobile number update through Post mode.
+
+
+
+Can I get the information in my Aadhaar letter corrected using Update process?
+Yes, Update modes can be used for corrections as well as changes in information.
+
+
+
+I have lost my mobile number/ do not possess the number that I enrolled with in Aadhaar. How should I submit my Update request?
+In case you have lost/do not possess anymore, the mobile, that you have declared at the time of enrolment, you will have to either visit the nearest Update Centre to personally update the information or send your Update request through Post.
+
+
+
+What are the valid documents for submission of Update request through Portal /Post?
+Depending on the field to be updated, attach self attested supporting documents as per the Valid Documents List. Name Correction/Update – Requires PoI listed in “Supported Proof of Identity(PoI) Documents Containing Name and Photo for Name Corrections/Update” Date of Birth Correction – Requires DoB listed in “Supported Proof of Date of Birth (DoB) Documents” Address Corrections/Change – Requires PoA listed in “Supported Proof of Address (PoA) Documents Containing Name and Address”
+
+
+
+Is it mandatory to provide Mobile number details when submitting Update Request through Post/online portal?
+Yes, it is mandatory to provide mobile number as it may be used for Verification by calling the Applicant. Status of application will be intimated to the resident by sending an sms on this mobile number. Applications without mobile number for update through post/online will be rejected.
+
+
+
+Is affidavit accepted as a PoI?
+No. it is not accepted. Refer list of valid documents for acceptable PoI/PoA.
+
+
+
+Is a certificate from local MP/MLA/local body official accepted as a proof document?
+Certificate of Address having photo issued by MP or MLA or Gazetted Officer or Tehsildar on letterhead is acceptable as a Proof of Address.
+
+
+
+Is it mandatory to provide C/o Details in Address?
+No, it is not mandatory to provide c/o details with address. C/o details in address is used for letter delivery purposes and is a part of address.
+
+
+
+Do I need to submit PoA even if I have to correct my C/O details only?
+Yes, you are required to submit supporting PoA even if you want to update/correct only C/o details. You also have to fill the complete address when updating/correcting your C/o details or any other part of the address. The address in PoA must match the address in PoA document submitted.
+My PoA does not mention C/o Details.
+It is ok if C/o details are not mentioned in your PoA document. Use any valid PoA document that has the same address as the address mentioned in your Update Request.
+
+
+
+Is there any standard form that I should use for sending update request through post?
+Yes, use the standard “Aadhaar Data Update/Correction Form” published on UIDAI website. “AADHAAR DATA UPDATE/CORRECTION FORM FOR REQUEST THROUGH POST” is clearly mentioned on top of the form.
+
+
+
+When sending request through Post, do I need to fill all fields even if I have to submit request for changes in only one particular field?
+Yes, you must fill the complete form irrespective of the field/s for update/correction. Providing mobile number is mandatory for Update/Change in any of the fields. However, providing email ID is optional. Moreover, the fields required to be updated should be clearly indicated in the form.
+
+
+
+Do I need to fill the form in English as well as Local language?
+Yes, both in case of SSUP as well as Update requests through Post, fill the form in English as well as Local Language. Use the same local language that was used at the time of your enrolment in Aadhaar and appears in your Aadhaar Letter.
+
+
+
+When I type Pin Code, it says Invalid Pin Code?
+The Pin Code you are providing does not exist in our Pin Code master. Please ensure that you are typing a correct and valid Pin code. If you are still unable to find the Pin Code, you may use the option of sending your update request through Post. Contact Center can also create a request for Pin Code addition/correction in the Pin Code portal. The user name and password have already been shared with the Contact Center.
+
+
+
+I am unable to locate required Village/Town/City/Post office (PO)/District/State in the given Pin Code?
+The required data does not exist in our Pin Code master. Please ensure that you are typing the correct Pin code. If you are still unable to find the required data, you may use the option of sending your update request through Post. Pin Code Update takes time, therefore, please try after 4weeks. Contact Center can also create a request for Pin Code addition/correction in the Pin Code portal. The user name and password have already been shared with the Contact Center.
+
+
+
+When I type in the English language field, local language data is not correctly transliterated. How should I correct it?
+If the local language transliteration is not correct, go to the local language field on right hand side and retype in English. You may tweak the spelling a little to get the right phonetics and thus correct the local language spelling. Press tab key. If more than one option in local language appears on the local language field for the word, select the one that is correct. The instructions for transliteration are provided on the page where data entry is done. In case you are still finding issues in transliteration, you may send the request through Post.
+
+
+
+Do I have to submit attested copies of documents? Who should attest my document copies?
+Self attestation of the supporting documents is allowed. Resident’s name must be clearly mentioned below the signatures when self attesting the documents. In case a child is below five years, parent/guardian can fill and sign in the form and document copies. In all other cases, the resident must sign in the form and document copies themselves.
+
+
+
+Where should I send my request through Post?
+Send the Form along with the supporting documents to UIDAI. Mark the envelope as “Aadhaar Update/Correction” on top. Seal the envelope properly. Depending on the local language in your Aadhaar data, send your request to one of the following UIDAI office addresses:
+
+
+
+Does submission of request guarantee Updation of information?
+Submission of information for update does not guarantee update of Aadhaar data. The information submitted is subject to verification and validation. Furnishing of incorrect information/suppression of information would lead to rejection of application and would attract penal provisions under the prevailing laws.
+
+
+
+How will I be informed of the Update request status?
+Aadhaar letter with updates will be delivered at the given address only in case of Update/Correction in Name, Address, Date of Birth and Gender. For Update of Mobile number/Email ID, the notification will be sent on the given mobile number/email ID.  You can also track your request on Update portal using your Update Request Number (14 digit URN).
+
+
+
+How many Update requests can I submit?
+Maximum permissible update request for each resident till March 2014 is limited to four. Repeated efforts to change/update the same field will attract investigations for establishing authenticity of the request.
+
+
+
+I want to get demographic data in my Aadhaar updated/corrected. What should I do?
+You can update Name, gender, DoB, address and mobile number either by submitting request Online or by sending your request through post. Visit www.uidai.gov.in and follow the link for “Update you Aadhaar Data”.
+FAQ on Enrolment & Update
+Registrar
+
+
+
+Who is a Registrar?
+"Registrar" is any entity authorized or recognized by the UID Authority for the purpose of enrolling the individuals for UID numbers. Registrars are typically departments or agencies of the State Government/Union territory, public sector undertakings and other agencies and organizations, who interact with residents in the normal course of implementation of some of their programs, activities or operations. Examples of such Registrars are Rural Development Department (for NREGS) or Civil Supplies and Consumer Affairs Department (for TPDS), insurance companies such as Life Insurance Corporation and Banks. Registrars will collect demographic & biometric data from residents directly or through Enrolment Agencies. Registrars have the flexibility to collect additional data, which will be referred to as ‘KYR+’ fields for the various applications they have in mind.  The UIDAI has developed standards, procedures and processes, guidelines and technology systems to execute the entire Aadhaar enrolment process which will be adhered to by the Registrars. Registrars can also leverage the Ecosystem that has been built by the UIDAI in order to support them in this process.
+
+
+
+How does the Registrar get started on UIDAI project?
+The UIDAI has also defined a detailed Registrar Onboarding Process and Guide in order to support Registrars across the stages of becoming Aadhaar Ready. A high level summary of it is in this document:  1. Setting Up Committees and Joint Working Groups Set up Apex/ Empowered Committee headed by CM and an Implementation Committee headed by Chief Secretary. It is recommended that UIDAI Regional Office and State UIDICs must coordinate with the State Registrars (SRs) and Non State Registrars (NSRs) in their States to increase accountability across stakeholders and facilitate the working of NSRs in tandem with SRs. Identify Nodal Department for Aadhaar; Identify Departments which will act as Registrars along with a nodal Officer. Other Departments which are not included as Registrars in the project at the time of enrolment, will have the option of ‘Aadhaar enabling’ their systems at a later date. The Nodal and the Registrar departments can be the same department or different departments.Ensure MoU is signed Identify Agency for Receiving financial assistance for enrolment: The UID Authority provides some financial support to its Registrars per successful enrolment into the UID system. To operationalise this arrangement, the Registrars will have to provide the details of the Registrar (name and account details) through which they would like to receive the amount.Setup Joint Working Group – headed by the Head of the Nodal/Registrar Dept. The other members should be Officers, who can lead the Technology, Process, IEC, Applications teams from the Registrar’s side. UIDAI will nominate appropriate representatives to assist the State Government/Registrars in carrying through the entire process. Bank representatives may be included where the Financial Inclusion (FI) solution is a part of enrolment. Ensure smooth functioning and active participation of the working group during UIDAI – Registrar alignment. Ensure deliverables / project plan activities as mentioned in the UIDAI Registrar Readiness Checklist (RRC) are executed. Update RRC along with UIDAI nodal officer and EA at each stage. Hand over the signed checklist to Regional Office/Nodal Officer.  2. Sensitization Workshops A series of sensitization workshops are held to provide an overview of Aadhaar, enrolment and IEC approach, roles and responsibilities at State/District/ Village levels, enrolment strategy and plans. This will be followed by a set of sub-group workshops and meetings with members of the process, technology, IEC and applications teams respectively to identify the key areas of integration and implement the same. Ensure that Registrar’s technology, process & IEC aspects are aligned with UIDAI. A “Go Live readiness Workshop” will be scheduled 2-3 weeks before scheduled ‘go-live’ date to take stock of the implementation status on items required to start enrolments. Registrar must advise UIDAI’s focal point on modalities for setting up the on-boarding workshop and should ensure that the required stakeholders and members of working group attend the workshop. Define the role of Civil Society Organizations (CSOs) in the enrolment process and develop a panel of CSOs at the local level who can help enrol marginalized communities. Social Inclusion is a mandatory requirement for registrars. Special enrolment drives should be initiated by registrars in consultation with ROs for the underprivileged, various vulnerable groups and disabled persons.
+
+
+
+What are the Responsibilities of the Registrar under the Aadhaar Project?
+A high level summary of various roles and responsibilities of Registrar are:.  1. Enrolment Planning As a part of the Enrolment Planning workshop, the Registrar is advised to finalize the targeted enrolment nos., locations to be covered and timelines for the same. This data can in turn be used to plan the no. of Enrolment Stations needed, locations for the same, devices needed, operators to be staffed etc. Registrars will also decide enrolment approach (phased, sweep etc). It is strongly recommended that the Registrar enrol all residents of the locality and not limit it to their beneficiaries/ customers. ‘Sweeping’ all residents will give Registrars the benefits of economies of scale and optimizing on the cost of enrolment per resident. Finalize plan to include marginalized/vulnerable communities & areas for CSO involvement. Special enrolment drives should be initiated by registrars in consultation with ROs for the underprivileged, various vulnerable groups and disabled persons. Identify area of interest for Aadhaar-enabled applications. Identify govt remittances which can be routed through Aadhaar-enabled Bank accounts. Registrars should link their UID enrolment activities to their core programs and citizen centric service delivery. Registrar will work with the UIDAI to identify Banks to partner with for Financial Inclusion solution. Define processes as required to implement the Financial Inclusion solution. At times, Registrar’s may have to hold special camps or call residents for re-enrolment like in case where EA machines get stolen or where Resident data packets are irrecoverable due to process/technology failure. Registrar must keep the EA apprised that such situations may arise and they have to be prepared for re-enrolment of residents in such cases. Registrar must keep the local authorities, Introducers, Verifiers and other stakeholders informed of enrolment schedule  In order to start enrolments, the Registrar has to complete the following activities, many of which can run in parallel and would have commenced post the Project Initiation Workshop: 2. Enrolment Agency Selection and On-boarding Identify Enrolment Agencies (EA) 1. Registrars may engage Enrolment Agencies for the purpose of enrolling resident into Aadhaar. Registrars will share the details of hired Enrolment Agencies with UIDAI. 2. Registrars are advised to engage only Empanelled Enrolment Agencies. If non-empanelled agencies are engaged, they must be subject to the same terms and conditions as the empanelled agencies. 3. New contracts should include a clause of continued empanelment mandatory for continuation of work. Model RFP/Q templates and the list of empanelled agencies have been published on UIDAI website. 4. No Sub Contracting – Subcontracting has serious impacts on the quality and security of data. Agreement with enrolment agencies should have conditions to discourage sub-contracting. However field level manpower such as enrolment operators and supervisors can be hired through third parties. EAs should be asked to provide details of the companies from which they are going to hire this manpower. Onboard EA - EA Project & Technology managers need to be identified and added in JWG. Initiation Workshop for EA needs to be held by Registrar and UIDAI to provide detailed enrolment process & implementation overview. Identify Enrolment Agency related requirements of EA training, device/resource capacity planning. Procure infrastructure and equipment including certified biometric devices as per standards defined by the UIDAI, through the designated enrolment agencies. It is recommended that the Registrar must insist on Enrolment agencies using only trained operators/supervisors. All Enrolment Operators need to be tested and certified; keeping in mind the significant impact they have in collecting good quality and accurate data from residents.  3. Enrolment Centre and Stations Enrolment Centers and their Location 1. Registrar will identify and co-ordinate for suitable locations where Enrolment Centers may be setup keeping in mind law and order, terrain, local weather conditions, security, power availability, approach/access to the area and lighting. Refer Resident Enrolment Process document for Centre selection guidelines. 2. Non-state registrars should work in coordination with ROs and state nodal departments. NSRs should also have enrolment centres only in and around their premises to ensure close supervision. Bank NSRs can also be allowed to enrol through special camps provided that they have cleared these enrolment plans with the State UIDIC &/or the State Nodal officer. 3. Registrars should plan for setting up permanent enrolment centres. Registrars need to maintain at least a skeletal enrolment network in their respective locations, after the ‘enrolment sweeps’ are completed to facilitate on-going enrolments and updation. Decide Number of Stations for Each Centre 1. The number of stations can be decided based on the target number of days for completion of enrolment in the particular area or the district and the expected number of enrolees in the area. Model RFP published on UIDAI website provides an excel sheet for facilitating calculation of number of stations. 2. Tables, lighting, backdrops, height of table, chairs, positioning of resident and operator, and issue of direct sunlight for photo capture, all these need to be considered for enrolment station setup. 3. Ensure Setup & registration of enrolment stations as Active production machines with UIDAI. The enrolment agencies may be asked to submit their machine deployment plans and their preparedness as per a prescribed checklist. ROs will assess the preparedness of the Registrars and EAs and may then allow the on-boarding of stations. 4. Registrar must Review the Enrolment Centre Setup checklist with Enrolment Agency and verify if all required activities are completed.  4. Define KYR+ fields  The AADHAAR Enrolment Client application captures the KYR (Know Your Resident) data. The registrars may require capturing some other registrar specific fields related to residents called as KYR+ data. For example, in case of PDS data, information such as APL (Above poverty line), BPL (Below poverty line), Family Details, etc. may be collected as part of KYR+ data. If any KYR+ fields are to be collected, define those fields and initiate technology integration with respect to data capture API and logistics. However, experience suggests that the number of fields proposed to be captured at the enrolment station must be kept at minimum as residents cannot be expected to bring multiple documents at the time of enrolment.  5. Pre-Enrolment Data  Registrar may want to complete the demographic data capture and verification ahead of the biometric capture. This step is called pre-enrolment. In case where Registrar has a good database, Registrars can share this with Enrolment Agencies to pre-populate the AADHAAR Enrolment Client. This data would reduce the effort and time of the enrolment operators during data capture process at the enrolment centres during resident’s presence. The details of the database need to be discussed and sent to UIDAI in advance in prescribed format and aligned to UIDAI requirements. However, pre-enrolling residents is not mandatory.  6. Check Pin Code Master Registrar must Review and get Pin code master data corrected and completed prior to start of enrolments in the region. Registrar should provide list of PIN codes to be corrected in PIN codes master to UIDAI using existing Pin Code correction process.  7. Review list of Approved documents UIDAI has defined a list of valid documents to be used during Aadhaar enrolment process as Proof of Identity (PoI), Proof of Address (PoA), Proof of Relationship (PoR) and Date of Birth (DoB). However, UIDAI and Registrars have the authority to amend and enlarge the list of PoI and PoA documents in some exceptional circumstances. Registrars may add any other required document not in the list, in consultation with UIDAI Regional Office. The Enrolment Agencies will then download the master for documents in the client stations, pertaining to the Registrar, for use during enrolment.  8. Send local language requirements Send local language requirements for contact centre, enrolment client (label/text, transliteration). Complete local language translation for labels, print receipts/letter in coordination UIDAI.  9. Biometric data need of registrar identified Registrars may analyse their requirement for resident data and capability to securely manage and store data. It is not necessary for Registrar to store resident’s biometric data. Registrars are, instead, encouraged to adopt online authentication offered by UIDAI – this will require no local/offline storage of biometric data in registrar applications. However, if the Registrar decides to store the biometric data, then Registrar will have to share a plan to retrieve, manage and store data with UIDAI, for UIDAI to start creating Registrar data packets.  10. Provide registrar public key for data encryption Registrars must provide their public key to the UIDAI for the purpose of encrypting the EID-UID mapping file that UIDAI will share with Registrars after Aadhaar generation. Encrypting using Registrar’s public key provides a layer of security and is prescribed by UIDAI for data transfer. Registrar must contact UIDAI for details on public/ private key requirements.  11. Decryption Utility Registrars must develop their own decryption utility for decrypting the EID-UID mapping file. Registrar should also successfully test file decryption.  12. Develop Registrar Technical requirements  Registrar will require technical personnel/system integrators for developing their technical requirements for Pre-enrolment data capture KYR+ application Document storage Registrar packet transfer/ management & usage Decryption utility First mile i.e. data transfer from Enrolment Centres to UIDAI and Registrar KYR+ data transfer, automating EID-UID mapping in KYR+ database Receiving EID-UID mapping file from CIDR. Registrar must be ready to receive and update Registrar DBs with EID-UID mapping Other activation and portal workflow related requirements 13. Other Technology side Requirements There are some requirements that the Registrar will need to do for integration with UIDAI database: Get set up as a Registrar in UIDAI database. Send requisite details in prescribed format to UIDAI. Receive Registrar code, login and password for technology portal and SFTP application Then Attach EAs on technology portal to establish Registrar – EA linkage. Update and activate Introducers list on technology portal Receive and download SFTP application Define Location Codes – Registrar can assign location codes to each of its schedule and this code can be used by Enrolment Agency in client machines when conducting enrolments in the particular region. The assignment of location codes will help in generating enrolment reports by location code which can be helpful for payment purposes. Registrar’s supervisors at Enrolment Centres will have to monitor the use of correct location codes by Enrolment Agency. A representative of the registrar performs the system configuration and registration once the software is installed. Normally the Registrar may ask the EA to perform the installation and configuration. In such a case, the configuration and Registration may be done in presence of Registrar’s representatives and/or Registrar must regularly check the registration details on the client like location code, Registrar and EA name etc. Work flow related requirements – At times Registrar may be asked to intervene and given a role in a process workflow for example in cases where resident data packets are on hold due to specific reasons. Registrar will have to complete the given responsibility in a defined time period in such cases. 14. Registrar software readiness and their integration to Aadhaar software Registrar must check Aadhaar Application Software is ready for deployment with pincode data corrected, registrar public key and local language support included. Test Registrar’s own software and their integration with Aadhaar software. 15. Information, Education & Communication Registrar will define an integrated IEC Plan & Material leveraging the content developed by the UIDAI. The UIDAI’s IEC guidelines list in detail the different kinds of stakeholders to engage (PRI members, introducers, CSOs, etc.) and the recommended messages and media to use for each of them. The IEC plan lists the activities to be triggered 45/30/15/ 7 days before commencing enrolments. Registrars must coordinate with UIDAI IEC team for details on their IEC responsibilities. 16. Identify and Deploy Introducers Registrars will need to identify Introducers who can help enroll beneficiaries who lack PoA/PoI documents. Registrar identifies introducers region wise and prepares list by District/State in which the Introducer is authorized to work. Registrars can also leverage CSOs to better reach marginalized residents, act as Introducers, and build awareness among them to mobilize enrolments from this group. Based on inputs from UIDAI, review and finalize list of Introducers and notify the same in a public manner. Introducers need to be enrolled in advance and have their Aadhaar numbers generated, registered and activated in Aadhaar database. Organize camps for enrolment of Introducers to ensure that all Introducers on the final list are enrolled into the program. Introducer workshop is held to appraise them about their roles & responsibilities Introducers are required to sign consent to being a Introducer which is stored by the Registrar. Introducer consent form format is provided by UIDAI. Put in place systems to ensure ongoing monitoring of the Introducer list occurs at regular intervals. Based on performance, make changes/additions to the list as required and share with UIDAI. Ensure that both UIDAI and the Registrar have most up-to-date list of Introducers at all times. Publicise the Introducer concept to make residents aware. Provide the resident information about acceptable Introducers. Publish list of Introducers and Verifiers at the enrolment centres along with their contact details. Detailed guidelines on Introducer selection, Introducers roles and liabilities are defined by UIDAI and published on UIDAI portal.  17. Identify and Deploy Verifiers  Registrar must appoint Verifiers for every centre. Firm up Verification process. Shortlist the Verifiers and Registrar’s supervisor. Schedule camps to educate verifiers. The Registrar must ensure physical presence of verifiers during the operational hours of the enrolment centre and may appoint more than one Verifier in a center, if and where required. The performance of Verifiers may be monitored by the Registrar. The list of all Verifiers must be notified, by designation, by the Registrar before commencement of the enrolments and the list should be shared with the Regional office concerned. They may be paid by the registrars out of the financial support provided by UIDAI to Registrars on successful Aadhaar generation. Roles and Responsibilities of Verifiers are defined by UIDAI.  18. Personnel for Grievance Redressal The registrar is expected to put in place a Team that would serve to quickly address any matters requiring resolution that may pertain to the Registrar, but may be conveyed to the UIDAI Contact Centre. The Time taken for resolutions is to be finalized jointly. Registrar should also identify an Officer to whom all relevant grievances may be forwarded and two senior officers for managing escalations of the same. 19. Print and Distribute Enrolment forms Enrolment form is designed by UIDAI for capturing Aadhaar enrolment data. Registrar can have a separate form for capturing KYR+ data. Registrar needs to get the enrolment forms printed in sufficient quantities. Registrar must ensure that the forms are available/ distributed free of cost at the enrolment centres. 20. Data Transfer Finalise, with EA, Resident Data packets transfer modalities. Data can be transferred to UIDAI using online SFTP mode or through hard disks/memory sticks sent through suitable courier service. Also define KYR+ and registrar data packet transfer mode and frequency. 21. For Document Management UIDAI mandates storage of Enrolment form, PoI, PoA, DoB, PoR, and consent. These documents carry important and confidential resident information. UIDAI urges to handle enrolment documents with care and protect it from damage and theft. Registrar must do the following: Identify whether the documents would be stored in hard copy/soft, scanned copy Setup a mechanism for collecting and securely storing all the documents submitted by residents during enrolment till the UIDAI appointed DMS service provider collects document from registrar offices and provide receipt of the same. Upon accumulation of specified batches of documents at one site, intimate UIDAI’s DMS service provider for pickup of documents, handover documents and obtain sign off. Detailed process and guidelines of Document management and Registrar’s role in same are published by UIDAI in Document Management Process. If Registrar wants to store any additional documents, they may develop their own process for storing and managing those documents.  22. Provide requisite data to Contact Centre  The UIDAI has set up a Contact Centre for concern and issues that residents or UIDAI eco system partner may have in terms of enrolment, authentication and identity frauds etc. This contact centre serves as a single point of contact for the organization. Certain information is required by the contact centre, from the Registrar, related to enrolment exercise in their area. Registrars must furnish such details to the Contact centre to help effective functioning of the centre.  23. Monitoring and Audits  Registrar is responsible for Field level execution, monitoring and audit. Audit enrolment centre readiness, EA processes and their effectiveness. It is recommended that Registrars setup a process to audit the performance of Enrolment Agencies and other partners they engage with. Registrar must conduct sample audits in the entire gamut of enrolment process and data quality, training, logistics, grievance resolution and updation processes for controllership purposes. Ensure IEC norms are being adhered to. Advise EAs to deploy IEC elements in a judicious and practical manner. Monitor the performance of Introducers and Verifiers. The Registrar may also undertake appropriate measures such as monitoring of payment to operators’ and supervisors’ bank accounts, regular audits of EAs and enrolment centres, etc. to prevent sub-contracting. Randomly Review Acknowledgement and Consent data against PoI, PoA documents to ensure that data entered in the software is correct for each resident. In case any error is found in the data entered, inform the EA Supervisor and/or resident to initiate data correction.  24. MIS  Registrar must develop their own MIS systems for execution, monitoring and control. Registrar may help provide UID with reports/insights in significant issues as and when required by UIDAI.  25. Data Protection and Security Guidelines for Registrars  Registrars have a fiduciary responsibility and have to exercise a duty of care to secure and protect all the data (demographic and biometric) collected from the resident. UIDAI prescribes broad measures for data protection and security to be adopted by Registrars. Registrars must refer and abide by the same.  26. Enforcement of UIDAI’s suspension/debarment/dis-empanelment decisions  UIDAI monitors the performance and data quality of Enrolment Agencies and their Operators and Supervisors on a continuous basis. UIDAI has formulated a suspension policy for non-compliant EAs and their Operators and Supervisors.  Registrar will be notified of the action where suspension/debarment/ dis-empanelment criteria are met. Registrars must get in touch with the UIDAI Regional Office and take immediate appropriate actions when intimated of such decisions.  27. Enforcement of UIDAI’s Returned Letters policy  A report on returned letters will be shared by UIDAI with Registrars. Registrars must Review and investigate the various reason codes for Returned Letters. Where possible and required, Registrars may contact the Residents and educate residents on how to get in touch with contact center for their Letters. Registrars may involve/take help from India Post in investigations.  28. Ensure UIDAI Exit Policy requirements are fulfilled  If and when Registrar decides to exit the Aadhaar enrolment programme, they must fulfil requirements and sign necessary documents to meet the requirements of UIDAI’s exit policy.
+FAQ on Enrolment & Update
+Enrolment Agency
+
+
+
+Who is an Enrolment Agency (EA)?
+Enrolment Agencies are entities hired by the Registrars for undertaking demographic and biometric data collection for UID enrolment. Enrolment Agencies must ensure continued empanelment by UIDAI in order to be engaged by Registrars. If non-empanelled agencies are engaged by Registrars, they are also subject to the same terms and conditions as the empanelled agencies.
+
+
+
+Are EAs allowed to sub-contract Enrolment Work?
+Sub-Contracting of Enrolment Work is not allowed for private/ commercial Organizations/PSUs /Govt. Companies /Autonomous bodies. However, field level manpower such as enrolment operators and supervisors can be hired through third parties. EAs must provide details of the companies from which they are going to hire this manpower. However, Government Organizations may choose to franchise enrolment work to CSCs/ Local Government bodies.
+
+
+
+What are the Preparatory Activities that an EA must do prior to starting enrolments?
+Preparatory Stage Activities of an EA EA must identify their Project & Technology managers who will be part of the Joint Working Group headed by the Head of the Nodal/Registrar Department. Initiation and On-boarding Workshop for EA must organised by Registrar and UIDAI will provide detailed enrolment process & implementation overview. EA must familiarize themselves with Enrolment process and policies including periodic amendments/updates. The scope of work of the Enrolling Agency (EA) includes the following activities: 1. Procure enrolment hardware, software including Biometric Devices as per UIDAI Specifications The enrolling agency should procure enrolment hardware, software including certified biometric devices (for fingerprint and iris capture), used for capture of biometric data at the enrolling station, which conform to UIDAI specifications. EA must procure only those Biometric Devices that are certified by UIDAI or its duly authorized agency. The EAs must also ensure continued technical support by the suppliers for the hardware.  2. Hire & Train Manpower for Enrolment  The Enrolling Agency shall hire manpower, Operators and Supervisors, to operate the enrolment station/centre as per the guidelines prescribed by UIDAI. The enrolling agency must have Technical personnel to provide technical support during enrolment at the enrolment centres. Technical personnel for attending power /system / biometric instrument related maintenance problems should be available on call in a centrally located place covering about six enrolment centres so that the downtime can be minimized. EA must make sure that the Operators and Supervisors are of age 18 years and above. The Operator should be minimum 10+2 pass and should be comfortable using computer. The Supervisor should be minimum 10+2 pass and preferably a Graduate and should have a good understanding and experience in using a computer. EA must ensure compliance to Labour laws and all statutory provisions in various Labour regulations that is PF, ESI, Industrial Disputes Act, Contract Labour Act and Minimum Wages Act etc. The personnel should be given mandatory induction training on the various activities and equipment and gadgets involved/used in the enrolment process and resident enrolment, transliteration skills in local language, to enable them to understand and adjust to the local situation. The mandatory induction training shall be compulsory before deployment of the personnel. The EA will inform concerned RO Regional Offices of UIDAI prior to training schedule and will also give a follow-up report. The enrolment agency shall ensure the availability of the requisite infrastructure for imparting training as per UIDAI guidelines The Operators and Supervisors should have obtained certificate from a testing and certifying agency authorized by UIDAI. Ensure correct certification as per specific roles. A certified Operator cannot work as a Supervisor. Payments to operators and supervisors should be made preferably to their bank accounts.  3. Enrol Operator/Supervisors and Register and Activate them at UIDAI  Operator /Supervisors must have their Aadhaar numbers generated and certification test passed for getting activated in accordance with UIDAI guidelines prior to commencing enrolments. Do not deploy them for enrolment without the fulfilment of these mandatory requirements. EA admin user must use unique user IDs for activating their Operator/ Supervisors. Do not use one password for multiple set of Operator IDs. Ensure all details entered are correct on UIDAI technology portal and certification agency’s portal and there is no mismatch. EA must ensure availability of manpower activated in accordance with Aadhaar guidelines prior to commencing enrolments. EAs will have to demonstrate that they have certified the active operators, requisite machines and hardware available to be deployed. EAs will have to declare enrolment station deployment plans i.e. when and where the centers will be established. EAs will also demonstrate that they have the requisite supervision infrastructure available. Based on this information, ROs will assess the preparedness of the Registrars and EAs and may then allow the on-boarding of stations. 4. Get established as an Enrolment Agency at UIDAI The EA must receive their EA code from UIDAI The EA must ask the Registrar to establish the link between them (Attach EA) at UIDAI Receive admin password for portal and auth code for client registration from UIDAI Obtain SFTP account setup and password 5. Ensure that Pin code data for planned enrolment locations is checked in Pin Master of Aadhaar software, and is correct and complete. Review and Report missing/incorrect Pin codes and use Pin code correction process for getting the Pin Numbers corrected.  6. Software Installation, Configuration and Registration The latest version of Aadhaar Enrolment software client needs to be installed, configured and registered with CIDR. The Enrolment Agency needs Auth User and Auth Code from UIDAI technology team to register its clients. The person performing the system configuration is typically a representative of the Registrar. Normally the Registrar may ask the EA to perform the installation and configuration. In such a case, the configuration and registration may be done in presence of Registrar’s representatives. Load and test Pre-enrolment data on enrolment centre laptops / desktops and ensure it is accessible / searchable. All latest Master Data such as Pin code, Operator credentials, list of documents etc. should be loaded on client Thorough testing of Aadhaar client working in integration with pre-enrolment data and KYR+ applications, along with local language support, pin code and master data availability Ensure all Registered stations are active at UIDAI Ensure Operator/Supervisor/Introducer (OSI) are on boarded on the enrolment stations  7. EA must ensure with Registrar that Aadhaar and KYR+ Enrolment Forms are printed, ready for distribution/distributed to residents. If enrolment forms are distributed and filled in advance, it will help speed up enrolment at the Centre. The enrolment forms can be used as a tool for crowd management by controlled distribution.  The print and paper quality of forms should be ensured as the forms will be stored as per Document Management System.  8. Setting up of Enrolment Centre(EC) and Enrolment Stations (ES) EA will assist Registrar in developing enrolment schedules. EA will work with the Registrar in identification of suitable enrolment centres at scheduled locations. Once EC are identified, EA must ensure readiness of the EC as per the latest Enrolment Centre Setup Checklist (Annexure 1). The Enrolment Centre Setup Checklist by UIDAI enlists the various requirements at Enrolment Centre and Station level and is to facilitate the EA in planning. Ensure adequate stationary like paper for printing and other logistics are available at centre Ensure adequate power and other backup arrangement at enrolment centre Deploy Hardware, Software for Enrolment. Working of all equipment and application at every station must be tested. EA must not undertake enrolment operations at locations without valid agreement with the Registrars. The Enrolment Agencies also need to fill the Enrolment Centre details at UIDAI portal. EA must adhere to Safety Procedures, Rules, Regulations, & Restrictions and shall comply with the provisions of all laws including safety and labour laws, rules, regulations and notifications issued there under from time to time. EA shall take all measures necessary or proper to protect the personnel and facilities and shall observe all reasonable safety rules and instructions. 9. Contact Centre information filled EA must fill the forms with information required by UIDAI Contact Centre and submit. This information pertains to EA contacts at EC, Enrolment Centre address and working hours etc. 10. Help Create Awareness Enrolment Agency needs to work with the Registrar in communication and generating resident awareness at grass root level. Prior to the commencement of the Enrolment operations the Enrolment Agency shall work closely with the local governing bodies, key introducers in publicizing the Aadhaar, its importance and schedule for Aadhaar registration in that location. EA must prominently display important information relating to consent and operator responsibilities inside the enrolment centres.  The role of the enrolment agency should be limited to publicising the content provided by the UIDAI/ Registrars. The EA should not add to / modify /delete the content provided by Registrar/ UIDAI.
+FAQ on Enrolment & Update
+Verifier
+
+
+
+Who is a Verifier?
+For Verification based on Documents, the verifier present at the Enrolment Centre will verify the documents. Registrars must appoint personnel for the verification of documents. The services of the retired government officials who are generally well acquainted with such verification procedures should be utilized by the Registrars in case they are unable to spare serving officials for document verification. Any serving /retired official both from Government (including Armed forces and CPMFs) and PSUs including Banks not below the rank of Group ‘C’/ class III employees may be allowed to be deployed as Verifiers. In the areas, like big cities and Metros, where registrar is unable to avail the services of such Retired/Serving government officials, services of an outsourced vendor can be availed of to provide verifiers with the approval from UIDAI Regional Office. The verifiers in an enrolment centre cannot be from the same vendor, hired as enrolment agency. Registrar needs to ensure that verifiers are appropriately trained before being put in the field. The Registrar may appoint more than one Verifier in a centre, if and where required. The list of all Verifiers must be notified, by designation, by the Registrar before commencement of the enrolments and the list should be shared with the Regional office concerned.
+
+
+
+What are the responsibilities of a Verifier?
+For enrolment, Resident will bring his/her original documents along with the photocopy of the documents and filled Enrolment Form. Verifier must verify Photocopy of Documents and Enrolment Form details against original documents. Verifier also checks that the names of the documents captured in the enrolment form are correct and same as the original documents produced by the resident. Verifier needs to be available in the enrolment center throughout the operating hours of the center. Registrars should ensure physical presence of verifiers during the enrolment. It is verifier’s responsibility to ensure that Enrolment form is filled completely and correctly as per UIDAI enrolment process. No mandatory field should be left blank and resident should be encouraged to fill optional fields like mobile number and email address. Verifier will sign and stamp the Enrolment Form after verification. If stamp is not available, the verifier can sign and put his/her Name. The resident will then go to the Enrolment Agency Operator for getting enrolled. However, if the resident is enrolled and has come for Correction for a particular demographic field, the resident need not enter all details in the Form. The resident must provide his/her original Enrolment Number, Date and Time (together known as EID), his/her Name and the field which needs correction. Verifier will only verify if it is one of the fields requiring verification of documents. Verifier will use the same UIDAI verification guidelines as used during resident enrolment. Where hard copy of documents is being stored, the photocopy of documents may also be verified with Verifiers signature/thumb print and stamp/Name, except in case where copies attested / certified by a public notary / gazetted officer are being submitted. The Verifier is physically present at the enrolment centre every day and, thus, can monitor the Enrolment Centre performance and provide immediate information to UIDAI and Registrar on process deviations and malpractices at the enrolment centre.
+
+
+
+What are the UIDAI Guidelines for Verification that the Verifier must keep in mind while verifying the Documents?
+Verification guidelines are listed below : 1. Make sure that the resident has original documents for verification. In instances where original documents are not available, copies attested / certified by a public notary / gazetted officer will be accepted.  2. The documents produced by the resident for Aadhaar enrolment must be in the list of approved documents. List of UIDAI approved Proof of Identity (PoI), Date of Birth (DoB) , Proof of Address (PoA) and Proof of Relationship (PoR) documents is available on http://www.uidai.gov.in/images/FrontPageUpdates/valid_documents_list.pdfUIDAI and Registrars shall have the authority to amend and enlarge the list of valid documents as and when necessary.  3. A specimen for letter of certification is attached in Annexure 1. This format is for certification issued by officials/ institutions (only those that are recognised in the UIDAI’s valid list of documents) for Proof of Identity and Address.  4. Verifier can refuse verification, if they suspect forged/altered documents. In cases where Verifier refuses verification of the documents produced, reasons should be recorded in brief by the Verifier on the Enrolment Form. In case the Verifier refuses verification with reasons or turns the resident back without recording any reasons, the resident can approach a designated authority/cell created by the Registrar at the Block level for redressal of grievances.  5. Verify Name, Date of Birth, Address, and Relationship Details against PoI, DoB, PoA, PoR, respectively.  6. Name : o PoI requires a document containing the resident’s name and photograph. Verify that document has both. o If any of the PoI document submitted does not contain the photograph of the resident, then it will not be accepted as a valid PoI. In order to be inclusive and free of harassment, documents with older photographs are acceptable. o Confirm the name in the document by asking the resident his/her name. This is to ensure that the resident is providing own documents. o The name of the person should be entered in full. It should not include salutations or titles like Mr., Miss, Mrs., Major, Retd. etc. o It is very important to write the person’s name very carefully and correctly. For example, the respondent may tell that his name is V. Vijayan whereas his full name may be VenkatramanVijayan and similarly R. K. Srivastava’s full name may actually be Ramesh Kumar Srivastava. Similarly, a female enrollee may tell her name as K. S. K. Durga while her full name may be Kalluri Surya Kanaka Durga. Ascertain from her/him the expansion of her/his initials and check the same in the documentary evidence produced. o In case of difference in the name declared and the one in document (PoI) is limited to spelling and/or sequence of first, middle and last name, the name as declared by the resident may be recorded. o If two documentary proofs produced by the enrollee have variation in the same name (i.e., with initials and full name), the enrollee’s full name should be recorded. o Sometimes the infants and children may not have been named yet. Try to ascertain the intended name for the child by explaining to the enrollee the importance of capturing the name of the individual for allotting UID. In case of non availability of supporting documents for PoI, the name should be recorded with the assistance of the Introducer. 7.Date Of Birth (DOB): o Date of birth of Resident must indicate day, month and year in the relevant field. o If the Resident provides documentary evidence of Date of Birth, then the Date of Birth is considered as “Verified”. When resident declares the DoB without any documentary evidence, then date of birth is considered as “Declared”. o When the resident is unable to give exact date of birth and only age is mentioned by the resident or approximated by the verifier then only age is recorded. The software will automatically calculate year of birth in such case.  o The Verifier should check the entry in the enrolment form and ensure that the resident has correctly indicated the date of birth as “verified”/”declared” or has filled his/her Age.  8. Residential Address:o Verify that the PoA contains the name and address. The Verifier should ensure that the name in the PoA document matches with the name in the PoI document. A difference in the name in PoI and PoA document is acceptable if the difference is only in spelling and/or sequence of first, middle and last name. o The “care of” person’s name, if any, is usually captured for children and old age people living with parents and children, respectively. If not available, one can leave this Address line blank. o Enhancement of address is allowed. The resident may be allowed to add minor fields such as House No., Lane No., Street Name, correcting typographic errors, minor changes/ corrections to pin code etc. to the address listed in the PoA as long as these additions/modifications do not alter the base address mentioned in the PoA document. If the changes requested are substantial and change the base address that is listed in the PoA, the resident will be required to produce an alternate PoA or enroll through an Introducer. 9. Relationship Details: o In the case of children below 5 years, “Name” and “EID/UID” of one of the parents or guardian is mandatory. Parent/Guardian must produce their Acknowledgement/UID letter when enrolling children (or they can be enrolled together). Parent/Guardian’s Name and EID/UID should be verified. o In the case of an adult, no verification will be done for the information on parent or spouse. They are recorded for internal purposes only.  10. Head of Family(HoF): o Verify that the PoR document establishes relation between the Head of Family and the family member. Only those family members can be enrolled based on the relationship document (PoR), whose names are recorded on relationship document.  o Head of Family must always accompany the family member when the family member is getting enrolled. o The verifier must also check the HoF details in the Enrolment Form in case of HoF based verification. HoF’s Name and EID/UID in form should be verified against the Acknowledgement/Aadhaar letter.  o Ensure that in case of HoF based enrolments, the relationship details are also of the HoF only.  11. Mobile Number, Email address:If the enrollee possesses and is willing to provide his/her Mobile Number and / or Email Address, these optional fields must be filled in. Verifier can inform the importance of these fields to the resident. UIDAI can get in touch with the resident using this information, if required, like in case of returned letters.
+FAQ on Enrolment & Update
+Introducer
+
+
+
+How are Residents without documents enrolled in Aadhaar?
+Key demographic data needs to be verified properly at the time of enrolment. Residents can bring any of the approved documents as Proof of Identity (PoI) and Proof of Address (PoA). If a resident is unable to provide documentary proof of identity or proof of address, they can be enrolled through a pre-designated “Introducer” who is identified and notified by the Registrar or Regional Offices. An Introducer is a person who is authorized by the Registrar to introduce a resident who does not possess any PoA/PoI documents. This introduction does not tantamount to giving a character certificate to resident.
+
+
+
+Who is an Introducer?
+Once the Registrar identifies introducers region-wise (District/State in which the Introducer is authorized to work), he will notify the Introducers. The Introducers must: 1. Attend the Aadhaar awareness workshop organized by the Registrar and UIDAI to acquaint them with the Aadhaar program and understand Introducer responsibilities and liabilities. 2. If the identified Introducer is ready to work as an Introducer, he/she will have to give a written consent (prescribed Performa attached as annexure) to being an Introducer for the purpose of enabling Aadhaar enrolments and to follow the guidelines and procedures laid down for the Introducers by the Unique Identification Authority of India (UIDAI) and the Registrar 3. Introducers need to be enrolled and must have received their Aadhaar numbers and signed the consent forms before they start introducing residents in the field. 4. They must ensure that the Registrar has registered and activated them as an Introducer at UIDAI. 5. Introducers must keep themselves informed on the Enrolment Schedules, Enrolment Centre locations and operational hours of the Enrolment Centers in their assigned territory. 6. They must ensure that their contact information is correctly displayed at the Enrolment Centre. In case of no display/incorrect information, ask the Enrolment Centre supervisor to display/correct the details. 7. Introducer must be easily accessible to the residents. 8. The Introducers must check the Resident’s Name and Address on the enrolment form for correctness and completeness. Introducer should also check his/her own details in the form and then provide his/her signature/thumbprint on the Enrolment Form space provided. 9. Introducers should make themselves available during the working hours of the EC for endorsing residents. In case, they are not available during the operational hours, they can visit the Enrolment Centre at the End of the Day and check the list of residents pending for their endorsement. 10. Introducer must carefully check the Name and Address details of the Resident and provide their Approval/Rejection. 11. Introducer has to provide their biometric on Aadhaar client to endorse a resident’s enrolment. 12. The Introducer also signs/provide thumbprint on the consent for enrolment where consent print requires the same. 13. Introducer confirms the identity and address of the resident they are introducing 14. Introducer must only introduce residents who do not have documentary proof of identity or address 15. Introducer is not obliged to introduce every person who approaches them 16. Introducer cannot charge fees for introducing residents. However, Registrars can prescribe an honorarium to them for this work.
+
+
+
+What are the Liabilities of an Introducer?
+Introducer’s liabilities: 1. Introducer must not collude with a person to impersonate another person (dead or alive) at the time of enrolment. 2. Introducer must not help an Aadhaar holder to deliberately take on the identity of another person by changing their demographic information or even collude to provide false biometric information. 3. Strict action will be taken against the Introducer for violation of guidelines.
+FAQ on Enrolment & Update
+Supervisor
+
+
+
+Who is a Supervisor and what are his/her qualifications?
+A Supervisor is employed by an Enrolment Agency to operate and manage enrolment centres. It is mandatory to have one Supervisor at each Enrolment Centre. To qualify for this role, the person should satisfy the following criteria: a. The person should be of age 18 years and above. b. The person shall be 10+2 pass and should preferably be a graduate c. The person should have a good understanding and experience of using a computer d. The person should preferably have prior experience of working in Aadhaar Enrolment program Before starting work as a Supervisor: a. The Supervisor should have been enrolled for Aadhaar and his/her Aadhaar number should have been generated. b. The Supervisor should have undergone training on the process of UID Enrolment and various equipment and devices used during Aadhaar enrolment. c. The Supervisor should have obtained certificate from a testing and certification agency appointed by UIDAI. d. For certification, Supervisor needs to register with UIDAI appointed certification agency for taking the test at a suitable time and test centre location. e. Supervisor must ensure that the Name and EID/UID provided during registration for test is same as that entered during Aadhaar Enrolment. f. The Supervisor should have been activated in accordance with UIDAI guidelines prior to commencing enrolments. The Enrolment Agency is required to have a unique ID for each, to activate them.
+
+
+
+What are the responsibilities of an EA’s Supervisor?
+At the Enrolment Centre, Supervisor’s role is to plan and deploy logistics and other requirements at the enrolment centre, setup the enrolment stations at the enrolment centre and supervise the operations at the centre. When performing his/her role as a Supervisor at an Aadhaar Enrolment Centre, the Supervisor ensures the following: 1. Site Readiness a. Enrolment Centre Setup Checklist is provided by UIDAI to facilitate the Enrolment Agency in setting up enrolment stations and centres. Supervisor must use the Enrolment Centre setup checklist to ensure that all requirements are met for the centre that he/she is responsible for. He/she must fill and sign the checklist at the beginning of each enrolment centre and/or once every week (whichever is earlier). This checklist needs to be maintained for later review/audit at every enrolment centre by Registrar/UIDAI and their nominated performance monitors/agency. b. Supervisor is responsible for setting up of the laptop/desktop with Aadhaar client installed and tested, attached with all devices and printer (or scanners when mandated) and ensure all equipment are in working condition to start Aadhaar Enrolments. c. Ensure that the latest Aadhaar Enrolment client software is installed. d. Ensure that the enrolment centre premises are neat and clean, hygienic, well maintained and safe from electric/fire hazards. e. Ensure that basic enrolment centre information as given below is displayed (in local language/English): - Name of Registrar and Contact Number - Name of EA & Contact Number - Working hours - Holidays - Help Line Number;1800 180 1947 - Do not leave the centre without your acknowledgement receipt. - Name, Code, and contact number of EA Supervisor at enrolment centres f. Supervisor will also make sure that the Aadhaar IEC material provided by the Registrar is properly displayed at the centre, as per UIDAI guidelines. g. Ensure that the behaviour of staff at the enrolment centre is courteous towards the residents. Take charge where operator is not able to handle dissatisfied resident and prevent unpleasant situations. h. Where uniforms are provided, make sure that staff wears uniform at enrolment centre so that if residents need help they can easily identify employees by their attire. i. Do not undertake enrolment operations at locations without valid agreement with the Registrars. 2. On Boarding self and others a. Supervisor must first get on boarded himself/herself by providing their own biometrics in the Aadhaar client software. On-board (Enrolled) User means user’s biometric details verification at UIDAI is successfully completed and stored in local database at the enrolment station. b. Supervisor must make sure that all the Operators and Introducers for the enrolment centre are also on-boarded at the stations for local authentication. 3. Managing Centre Operations a. Supervisor administers the enrolment process at his/her enrolment centre. He/she ensures adherence to the UIDAI enrolment processes and guidelines at the centre and good quality of data captured. b. Supervisor handles issues and concerns of operators and residents and manages escalations at the centre level. c. Supervisor also acts as an operator, when required, in exigencies. d. Supervisor is required to sign off every enrolment on Aadhaar client, where resident has a biometric exception. e. The EA Supervisor must ensure that every Operator is aware of and has a print copy of the critical points to be reviewed at the station during Resident’s review of enrolment data. f. Supervisor must make sure that the Operator diligently reviews the data captured with resident for every enrolment and making corrections when pointed out by the resident. g. It is important that the Supervisor ensures that acknowledgement and consent are being printed after every enrolment and the printer and printing stationary is available for the same. h. Supervisor can hold End of Day meeting at the centre for sharing learning of the day and issues faced. i. Supervisor must take stock of the centre at the end of the day and make arrangements for replacement of faulty devices, hardware and other logistics for smooth enrolments the next day. j. Check devices periodically for scratches, out of focus images, only partial images getting captured. In case any such problem is noticed, it should be reported to the Manager/HQ and a change of equipment should be requested. k. Ensure all devices and computers are shut down. Check power is off to avoid accidents. Ensure security arrangements for devices and other equipments. l. Specific End of Day Reports are available on the client, for selected time period, to facilitate EA Operations. Supervisor can make use of these reports in managing day to day operations at the centre. m. Supervisor must ensure that staff at the centre observes the highest standards of ethics during the execution of Aadhaar Enrolments programme. n. Supervisor is also responsible for maintaining the confidentiality and security of the documents, data collected during Aadhaar enrolments. 4. Backup, Sync and Export a. Supervisor ensures twice a day data backup of all enrolment data to external hard disk as per UIDAI guidelines. Record date and station number where backup done to ensure that all stations are backed up and none is missed. b. Supervisor also ensures that enrolment stations are synched at least once in every 10 days. c. Supervisor manages timely data export of enrolment data for uploading to UIDAI server. d. Supervisor can maintain a register for data exported. Record date, station number and packets exported at each station for reconciliation purpose. e. Supervisor must correlate consent for enrolments to number of packets exported. Both numbers should match. 5. End of Day Review a. Supervisor must Review all enrolments of the day, End of Day (EoD), to ensure that data entered in the Aadhaar client is correct for each resident. Supervisor may also deploy a fellow operator on-boarded on the machine for end of day review. However, the operator who did the enrolment cannot review his/her own packets. b. In case any error/logical mismatch is found in the data entered, inform the resident to come to the enrolment centre within correction time frame. Supervisor must sign off by giving his/her fingerprint after End of Day Review. c. Once correction is done to the resident's data, the Supervisor will again manually Approve/ Reject the Resident's packet put on Hold earlier for correction, with appropriate reason if rejected. 6. Document Management a. Supervisor also ensures safe handling and storage of enrolment documents as per UIDAI guidelines and transfer of the same to Registrar/UIDAI DMS agency (as per the instructions of the Registrar). b. Ensure one file/tray per station is maintained for documents storage c. Ensure dockets (set of documents for a resident) in the order of enrolment and create a manifest of all documents. d. Create document batch with manifest in soft copy and hardcopy along with exception list (if any). e. Store documents/boxes indoor in a safe and secure place protected from fire, water and sabotage. f. Keep the documents/boxes in a lockable place with proper ventilation till transfer/pickup g. Once critical volume of dockets is reached/at the designated frequency by the registrar, makes sure all the EID dockets are moved securely to offices designated by the Registrar. h. Transport documents from enrolment centre to designated office only in properly sealed boxes tagged with manifest and packing list i. Handle enrolment documents with care and protect it from damage and theft. j. Avoid de-stapling, re-stapling or folding or excessive stacking of documents, it is recommended to store documents in boxes. 7. Performance Monitoring a. The Supervisor cooperates with the UIDAI/Registrar’s monitors in performing monitoring and audit functions at the enrolment centre and answers their questions to the best of his/her knowledge. Supervisor details are recorded during performance monitoring and Supervisor also signs on the performance monitoring sheet along with the monitor. b. Supervisor ensures audit feedback, if any, is incorporated in process for continuous improvement of enrolment operations and data quality.
+FAQ on Enrolment & Update
+Operator
+
+
+
+Who is an Operator and what are his/her qualifications?
+An Operator is employed by an Enrolment Agency to execute enrolment at the enrolment stations. To qualify for this role, person should satisfy the following criteria: 1. The person should be of age 18 years and above. 2. The person shall be minimum 10+2 pass. 3. The person should have a basic understanding of operating a computer and should be comfortable with local language keyboard and transliteration. Before starting work as an Operator: 1. The Operator should have been enrolled for Aadhaar and his/her Aadhaar number should have been generated. 2. The Operator should have undergone training on the process of UID Enrolment and various equipment and devices used during Aadhaar enrolment. Organising this training is the responsibility of the EA. 3. The Operator should have obtained certificate from a testing and certifying agency authorized by UIDAI. 4. For certification, Operator needs to register with UIDAI appointed certification agency for taking test at a suitable time and test centre location 5. Operator must ensure that the Name and EID/UID provided during registration for test is same as that entered during Aadhaar Enrolment 6. The Operator should have been activated, in accordance with UIDAI guidelines, prior to commencing enrolments. The Enrolment Agency is required to have a unique Operator ID for each, to activate them.
+
+
+
+What are the Ten Commandments that an Operator must remember during Resident Enrolment?
+At the Enrolment Centre, Operator’s role is to capture Demographic and Biometric data of the resident getting enrolled. When performing his/her role as an Operator at an Aadhaar Enrolment Centre ensure the following “Ten Commandments”: 1. Operator must first get on-boarded by providing his/her own biometrics in the Aadhaar client software. On-board (Enrolled) User means user’s biometric details verification at UIDAI is successfully completed and stored in local database at the enrolment station. 2. Make sure to Login with your own Operator ID in Aadhaar client, for undertaking enrolments, and log off the application when going away from the seat so that no one else can use your login window for enrolments. 3. Every time on login, Operator must make sure that the date and time setting on the computer is current. 4. Make sure that the station layout is convenient for you as well as the Resident. The preferred layout is shown in the Resident Enrolment Process Document. Brief the enrolment process to resident before and during enrolment to put the resident at ease and facilitate data capture 5. When the resident comes for enrolment, first make sure from the photo on documents that they belong to the same resident whose enrolment is to be done. Confirm that the form and documents belong to the same resident who is getting enrolled. 6. Check that the resident’s enrolment form is verified and carries Verifier’s signature/thumb print and stamp/initials. The form must also carry Resident’s (Applicant’s) signature/thumbprint. 7. In case of Introducer/HoF based enrolment, the Introducer/HoF’s signature/thumbprint should be available in the form along with their details filled in the fields provided for Introducer and HoF, respectively. 8. Capture demographic and biometric data of the resident in the Aadhaar client software. The Operator must ensure to follow the sequence of data capture as per the screens provided on the software client. 9. Make sure that the resident’s screen is on all the time during the enrolment and ask the resident to cross check the data being entered and review demographic data with resident before signing off. 10. Print, sign and provide acknowledgement to the resident and take resident’s signature on consent at the end of enrolment.
+
+
+
+What are the UIDAI Guidelines for Demographic Data Capture?
+Demographic Data Capture Guidelines: a. Enter the demographic details of the resident from the verified enrolment form. b. Enter all the data in the Aadhaar software as provided in enrolment form. Even the non-mandatory fields like mobile number and email ID are important. UIDAI can get in touch with the resident using these details, if required, like in case of returned letters. Thus do not leave these fields blank where resident has provided this information. Similarly information sharing and banking consents should be carefully filled in the software client as per the enrolment form. c. If using Pre-enrolment data, the Operator will retrieve resident’s demographic details using pre-enrolment ID. Make sure that the data pulled using pre-enrolment ID belongs to the resident getting enrolled, by confirming against enrolment form details. Do not limit the check to Name only and quickly confirm other details also like gender, age etc to make sure. d. Check and correct the pre-enrolment data as per verified enrolment form details. There can be errors in spelling, transliteration and completeness of pre-enrolment data that need correction. e. Pay attention to Data Aesthetics during demographic data capture. Avoid improper use of spaces, punctuation marks, capital & small letters during data capture. f. Leave those non-mandatory fields blank where no data is provided by resident. Do not enter N/A, NA etc. in fields where Resident has not provided any data. g. Filling Father / Mother / Husband / Wife / Guardian field is not mandatory for residents above the age of 5 years in case the adult is not in a position or does not want to disclose. Then select checkbox “Not Given” in “Relationship to Resident”. h. In case of children below the age of 5 years one of the parents’ or guardian’s name shall be recorded and UID or Enrolment ID (either of the two numbers) shall be recorded. This is mandatory. i. It is not compulsory for only father’s name to be recorded against the ‘parent’s name.’ Mother’s name can alone be recorded for the ‘parent’s guardian’s’ name if so desired by the parent. j. Enrolment of the parent is mandatory prior to the child. If the child’s father /mother / guardian has not enrolled or does not possess UID at the time of enrolment, the enrolment of that child cannot be done. k. For Head of Family (HoF) based verification Name, EID/UID of HoF and Relationship Details of the family member to HoF are mandatory details to be entered. l. Once Demographic Data is entered, Operator will capture the Biometric data of the resident.
+
+
+
+What are the UIDAI Guidelines for Biometric Data Capture?
+Biometric Data Capture Guidelines: a. Check resident’s eyes and fingers for fitness (missing/amputated). If the resident has any deformities due to which it is not possible to take fingerprints/iris, these also have to be captured as a biometric exception. b. Check and indicate Biometric Exceptions in the software, only where applicable. Do not mark biometric exceptions where biometrics can be captured. It will be treated as ‘fraud’ and invite strictest penalty. c. In case of Biometric exception, always take the Exception photograph of the resident showing resident’s face and both hands, irrespective of the type of exception. d. The enrolee may not be in a position to keep herself / himself in correct posture for reaching biometric instruments or for photograph due to old age or sickness. In such cases the operator should arrange to take the biometric data by moving the equipment close to the enrolee. e. If the finger/iris of the resident has a temporary damage and it is not possible to capture the biometric, the Operator will record it in exceptions. The resident should later get his/her biometric updated. f. Capture Biometrics - Facial Image, IRIS and Fingerprints. 1. Guidelines for Facial Image Capture a. Enrollee Position: For capturing facial image, it is advisable for the operator to adjust the camera instead of the Enrollee to position herself/himself at the right distance or in the right posture. Frontal pose needs to be captured i.e. no head rotation or tilt. The resident should be instructed to be seated properly with their back upright and their face towards the camera. b. Focus: The capture device should use auto focus and auto-capture functions. The output image should not suffer from motion blur, over or under exposure, unnatural colored lighting, and distortion. c. Expression: Expression strongly affects the performance of automatic face recognition and also affects accurate visual inspection by humans. It is strongly recommended that the face should be captured with neutral (non-smiling) expression, teeth closed, and both eyes open and looking into the camera. d. Illumination: Poor illumination has a high impact on the performance of face recognition. Proper and equally distributed lighting mechanism should be used such that there are no shadows over the face, no shadows in eye sockets, and no hot spots. No light exactly above the enrollee should be used since it can cause shadows. Light should be diffused and placed in front of the enrollee so that there are no shadows under the eye. e. Eye Glasses: If the person normally wears glasses, it is recommended that the photograph be taken with glasses. However, the glasses should be clear and transparent. Dark glasses /tinted glasses should be taken off before taking the photograph. f. Accessories: Use of accessories that cover any region of the face is not permitted. For example, women in purdah would have to reveal the full face before the photograph is taken. Similarly women in Ghoonghat would have to clearly reveal the full face before the photograph can be captured. The head may remain covered but the full face contour should be visible. g. Further, accessories like turban/head gear are also allowed as religious/ traditional practices. h. However, accessories like eye patches are allowed due to medical reasons. This would also mean an exception needs to be recorded for Iris, because only one Iris can be captured. i. Operators need to be trained to obtain the best possible face images that satisfy requirements. Even if the quality flag is green but the Operator is able to judge that a better picture can be taken, then same should be attempted. However, it should be borne in mind that recapture should not become harassment for the resident. j. For children, it is acceptable that the child sits on parent’s laps, but it needs to be ensured that parent’s face is not captured along with child’s face. The background may get rejected due to non white screen in case of children but two faces should not get captured in one picture. k. Actionable feedback needs to be checked for captures that fail. Some of the actionable feedbacks in software are: - No face Found - Enrolee too far - Enrolee too close (eye distance in input image is greater than one third of image width) - Pose (Look Straight) - Insufficient lighting - Very low face confidence (faceness, object not identified as human face) - Non-uniform lighting (of face in output image) - Incorrect background (in output image) - Insufficient lighting (bad gray values in face area of output image) i. If any biometric exceptions have been specified on the demographic screen, these should be captured as photographs on the Photograph screen. m. Only facial image is captured for children below 5 years. Iris and fingerprint screens will not get activated for children below 5 years 2. Guidelines for Capturing Fingerprints a. The images of all the ten fingers are to be captured. The fingerprints must be captured in the sequence of slaps of four fingers of left hand, right hand followed by the two thumbs. b. The fingers have to be positioned correctly on the platen to enable capture. There should be no direct light shining on the platen. Use the Indicators on fingerprint devices for positioning of fingers. The fingers should be placed in right direction on the device. Please consult the manufacturer manual incase of any doubt or else consult the supervisor. c. Use a lint free cloth periodically to clean the platen of the finger print device for good finger print capture d. Check devices periodically for scratches, out of focus images, only partial images getting captured. In case any such problem is noticed, then report to your Supervisor/HQ and request for change of equipment. e. Fingerprints cut off, wet/smudged fingerprint; very light prints due to insufficient pressure will result in poor quality. The resident’s hands should be clean (no mud, oil etc.). Ask resident to wash hands with water and soap, if necessary. f. The fingers should not be excessively dry or wet. Moisten with a wet cloth or dry finger with a dry cloth g. The Enrollee should be requested to place all four fingers of the left hand/right hand/two thumbs to platen of the fingerprint scanner for the four-finger capture to ensure good contact and maximize the area of the captured fingerprints. Ensure that the fingers are placed flat and till the top joint of the finger is placed well on the scanner. The top of the fingers should be within the platen area and not outside the defined area. h. If automatic capture does not happen, the operator should force the capture when force capture tab is enabled in the enrolment software. i. The operator should check the actionable feedback when capture fails. Some actionable feedbacks provided by software are: - Number of fingers present does not match with expected number of fingers - Finger not positioned correctly - Too much Pressure (duty cycle) - Too little pressure - Central region missing - Excessive moisture (wetness) - Excessive dryness j. The operator should visually check the image for quality and for typical problems. In case there are problems go back to steps above to retry the capture. k. When image quality is pass or if maximum number of captures are exhausted , move on to the next step. i. Fingerprints are best captured in standing position m. In case of additional fingers, ignore the additional finger and capture the main five fingers. n. Make sure your own fingerprints do not get mixed with the resident’s fingerprints. Operators can carefully put small pressure on the resident’s fingers to capture the fingerprints but always make sure not to mix your own fingerprints. 3. Guidelines for Capturing Iris a. The operator and not the Enrollee will handle the capture device, generally. b. Children can be told that it is like taking photos/pictures so that they are not apprehensive. c. The Enrollee will be required to sit in a fixed position, like taking a portrait photograph. d. The software is able to measure the iris image quality. An initial image quality assessment would be done to provide feedback to the operator during the capture process. The software alerts the operator with actionable feedbacks, if the captured iris image is of insufficient quality. Some actionable feedbacks provided by software are: e. Occlusion(significant part of iris is not visible) - Iris not in focus - Gaze incorrect(resident looking away) - Pupil dilation f. The iris capture process is sensitive to ambient light. No direct or artificial light should directly reflect off Enrollee’s eyes. g. The device should be held steady. Incase device requires to be held by resident, the enrolment operator/supervisor may help the resident to hold the device steady. h. Table light used for facial image capture should be switched off during iris capture. Direct sunlight or any other bright light shining on resident’s eye will create reflections and result in poor quality image. i. Operator must instruct the resident to look straight into the camera, open eyes wide open (one easy way to do this is to ask the resident look angry or stare) and do not blink during iris capture. Resident has to be stationary. j. If resident is experiencing difficulty during Iris scan and recapture is required, then the operator may navigate to next screen to capture other details and then return to Iris capture. This will relax the resident from constant pressure to keep eyes wide open during iris capture. k. The Operator needs to be patient during capture and wait for the device response instead of scrolling, navigating back and forth on screen.
+
+
+
+How does the Operator Review Data with the Resident?
+The Operator must show the data entered to the resident on a monitor facing the resident and if required, read out the content to the enrollee, to ensure that all details captured are correct. During Review of the enrolment data with resident, Operator must read out critical fields to the resident before the Operator Finishes the Enrolment. a. The Operator must reconfirm the following fields: Spellings of Resident’s Name Correct Gender Correct Age/Date of Birth Address – Pin Code; Building; Village/ Town /City; District; State Relationship Details – Parent/Spouse/Guardian ; Relative Name Accuracy and Clarity of Photograph of the resident b. In case of any errors, Operator must correct recorded data and review again with the resident. If no corrections are required, resident will approve the data.
+
+
+
+What Does the Operator do after Capturing Demographic and Biometric Data of the Resident?
+a. The Operator will then provide own Fingerprint to sign-off the data captured for the resident. Make sure that the fingerprint given is good quality. Use the Indicators on fingerprint devices for positioning of fingers. The fingers should be placed in right direction on the device. b. Do not allow anyone else to sign for an enrolment that you have done. Do not sign for enrolments done by others. c. Operator will get the Supervisor to Sign Off in case enrollee has biometric exceptions d. In case the verification type is selected as Introducer/HOF, get the Introducer/HOF to sign off on the review screen. e. If the Introducer is not physically present at the time of enrolment select the check box "Attach later" so that the enrolment can be verified by the Introducer at the End of the Day. f. Operator can select the language in which the legal/declaration text on print receipt shall be printed on consent. g. Operator must ask the resident his/her preferred language in which the receipt must be printed. On selection of any of the declaration language option, the print receipt will be printed in the selected language i.e. English or any local language set on the configuration screen. h. Take Resident’s signature on consent and file the same along with resident’s other documents. The Resident’s consents are important as they are resident’s approval/disapproval, to the UIDAI, sharing his/ her information with agencies engaged in delivery of welfare services and opening/linking of Aadhaar enabled bank account. i. Sign and Provide Acknowledgement to resident. The acknowledgement is a written confirmation of the resident getting enrolled. It is important for the resident as it carries the enrolment number, date and time that the resident will need to quote when interacting with UIDAI and its Contact Center for information on his/her Aadhaar status. The enrolment number, date and time are also required if any correction in the resident’s data is required to be done using Correction process. Thus the operator must make sure that the acknowledgement and consent printed is clear and legible. j. While handing over the acknowledgement to the Resident, the Operator must inform below to the resident - The Enrolment Number printed on acknowledgement is not the Aadhaar number and that the Resident’s Aadhaar number will be communicated through a letter subsequently. This message is also printed in acknowledgement. - The resident must preserve his/her and the children’s Enrolment Acknowledgement Slip for future reference. - In case of introducer based enrolment, the introducer will have to properly sign off within the specified period and Resident’s Aadhaar is subject to endorsement by a valid Introducer. - There is a 96 hour period during which the resident’s data correction, so in case of any mistake they should avail this facility. - To know the Aadhaar Generation Status they can call the Call Centre or log on to e-Aadhaar portal/Aadhaar Portal/website. - Aadhaar number will be delivered by the local post office/or other designated agency in the address provided at the time of enrolment.
+
+
+
+What are the Document Management Guidelines of UIDAI?
+Maintaining Document Hard Copies a. Where hard copies of documents are being stored, the Operator will collect the following documents from the resident: - Filled and Verified Enrolment Form – for each enrolment - Copy of Proof of Identity (PoI)– for document based enrolment - Copy of Proof of Address (PoA) – for document based enrolment - Copy of Date of Birth (DoB) ; in case of Verified Date of Birth only - Copy of Proof of Relationship (PoR) in case of Head of Family (HoF) based enrolment - Consent – for each enrolment b. Ensure clarity and quality of submitted document copies. c. Ensure correct documents are collected against PoI, PoA, DoB&PoR d. Keep documents during enrolment in tray and do not fold them e. Upon completion of enrolment, immediately collate the set of documents and staple it at left hand corner. Ensure documents for a resident are tagged together along with enrolment form on top. Ensure all documents in one set belong to one resident. f. Store documents in proper box and avoid folding and excessive stacking g. Protect documents from direct sun light, inflammable material, dust and water. It is recommended to use plastic covers to store set of documents to protect against environmental hazard. h. Avoid writing on documents, this may create confusion for operators in later phases of the process i. Avoid tying up documents using rope or packing tapes directly, this will permanently damage documents, if tying up is unavoidable use PET Straps with edge protectors j. File documents in order of enrolment k. Handle enrolment documents with care and protect from damage and theft. i. Make sure to hand over the documents to your Supervisor/ other assigned authority at the end of the day Maintaining Scanned Documents (when scanning process is introduced) a. The Operator will scan Originals of each of the documents below depending on the type of enrolment: - Enrolment Form – For each Enrolment - PoI, PoA – For document based enrolments - DoB document – For Verified Date of Birth - PoR – For Head of Family Based Enrolments - Acknowledgement cum Consent – For each Enrolment after Operator and Resident’s signature b. In instances where Original documents are not available, copies attested / certified by a public notary / gazetted officer will be accepted. c. The documents are scanned in a sequence and all document scans are standard size (A4). d. Make sure that the desired portions (the data entered during Aadhaar enrolment) of the document are visible clearly in the scan and the document pages do not overlap. e. Each scanned page must be legible and without any marks due to dust and scratches. Remove the previous scan and re- scan a document where required. f. Once all document pages are scanned, the Operator can see and check the total no. of pages scanned and confirm that all pages are scanned. g. Return all the original documents and Enrolment Form to the resident. Also handover the acknowledgement cum Consent to the Resident.
+
+
+
+How does the Operator perform Correction in Resident’s Data?
+Correction Process a. For correction in any of the above data of a resident, the Operator must use Correction menu on software client. Resident data can be corrected within 96 hours of the resident’s enrolment and in the presence of the resident. b. The EA must restrict all corrections in a Residents data to only one time. c. The following requests for changes are included in the scope of the Correction Process: - All demographic fields i.e., Name, Address, Gender, Date of Birth / Age* - Information sharing consent - Relationship to resident - Mobile - Email Address - NPR Receipt Number - Relationship Details(Relation type, Name and EID/UID) - Introducer Name and UID d. If originally the resident was enrolled as a child below 5 years of age it is invalid to correct the resident age to above 5 years because for above 5 we require biometric data as well which would not have been captured during enrolment. e. The previous Enrolment ID of the resident needs to be entered for correction of resident’s old data. Check resident’s acknowledgement letter for taking Enrolment number, date and time of enrolment for correction. f. PoI, PoA and Parent/Guardian’s acknowledgement letter will also be required at the time of correction process depending on the type of correction. g. A change in Name would require either a verified Enrolment Form and PoI document or an Introducer’s Name and UID. A change in Address would require either a verified Enrolment Form and PoA document or an Introducer’s Name and UID. A change in verified DoB would require a verified Enrolment Form and DoB certificate. If the correction is in data for a child below 5 years of age, then parent details of relationship type, relative name and EID/UID of parent/guardian is also mandatory. h. Only the fields that need a correction are entered in the Correction menu of the software. Fields that are good in original enrolment are not to be retyped during Correction. i. The resident’s photo is also captured during correction process. j. The correction in data will be reviewed with the resident and any one of the biometrics of the resident (provided in drop down menu on client) will also be taken to confirm that the resident is OK with corrections. k. In case the resident is child below 5 years, the biometric of the parent/guardian whose details are entered in the relationship fields, will be taken. The Operator will sign off the enrolment and Supervisor, Introducer sign off will be required in biometric exceptions and Introducer based verification respectively. l. An acknowledgement and consent of correction will be printed at the end of correction process along with the Resident’s photo. The acknowledgement of correction will be signed by Operator and handed over to Resident. The consent will be signed by the resident and filed by the Operator along with the other documents of the resident.
+FAQ on About UIDAI
+Aadhaar Enrolment Process
+
+
+
+What is the process that will be followed to issue Aadhaar?
+A resident will have to go to an enrolling agency along with Proof of photo Identity/ Proof of address documents, fill up an application form(optional to Registrar) and provide the supporting documentation. If resident does not have any document to prove his identity he will require an Introducer to get him/herself enrolled. The registrar authorised person will verify the information with the documents produced The demographic data will be entered in software. Biometrics information of ten finger prints, both iris scan and facial photograph of the resident will also be captured The data will be sent to CIDR A de-duplication check comparing the Resident's biometric information to the records in the data base is done If the individual is not already in the database, Aadhaar will be issued and sent to the person at his/ her residence. The Aadhaar will also be sent to the Registrar for use in their service database. If the individual is already in the database, or in case of any other quality/data validation failure the application will be rejected and the person will be informed of the same. The detailed process of Aadhaar enrolment is available on the website under the RoB document
+
+
+
+How will UIDAI ensure that the quality of information collected by the enrolment agency and the process of collecting data is uniform across the country?
+UIDAI is taking several steps to ensure data quality and integrity, such as: The data collected will be in a standardized format on a software client provided by UIDAI which has built in quality controls. In addition, UIDAI has empanelled enrolling agencies through an open bidding process. Operators of enrolling agencies will have to be trained and certified by training agencies empanelled by the UIDAI. UIDAI will periodically audit the processes followed by Registrars and enrolling agencies for Aadhaar enrolment.
+
+
+
+How will the demographic information be verified?
+There are 3 distinct methods of verification which are acceptable for Aadhaar enrolment:  Based on supporting documents  Based on introducer system  Based on the National Population Register (NPR) process of public scrutiny
+
+
+
+What are the supporting documents that the UIDAI will accept as proof of identity and proof of address?
+UIDAI process accepts 18 PoI (Proof of Identity) and 33 PoA (Proof of Address) documents. Please click here for a nationally valid list of documents. Common proofs of identity and address are election photo ID card, Ration card, passport and driving license. Photo ID cards like PAN card and Govt ID cards are permissible for identity proof. Address proof documents also include water & electricity & telephone bills from the last three months. In case you do not have above common proofs, Certificate of Identify having photo issued by Gazetted Officer/Tehsildar on letterhead is also accepted as PoI. Certificate of Address having photo issued by MP or MLA /Gazetted Officer/Tehsildar on letterhead or by Village Panchayat head or its equivalent authority (for rural areas) is accepted as valid PoA. Even if someone in a family does not have individual valid documents, the resident can still enrol if his/her name exists in family entitlement document. In this case the Head of Family in entitlement document needs to be enrolled first with valid PoI & PoA document. The head of the household can then introduce other members in the family while they are enrolling. UIDAI accepts 8 document types as Proof of Relationship. Please click here for a nationally valid list of documents. Where there are no documents available, resident may also take the help of Introducers available at the enrolment centre. The Introducers are notified by the Registrar. For further details please contact office of the concerned Registrar.
+
+
+
+What is the introducer system and who can be an introducer?
+UIDAI recognises that some people particularly children, women, migrant workers, homeless, nomadic tribes, urban poor and others may not be able to produce documentary proof of identity and proof of address. In order to enable inclusion of these individuals for Aadhaar, the data standards committee recommended that the introducer system be created similar to the introducer framework followed by banks for opening bank accounts. The main objective of the introducer system is to enable inclusion of people into the UID system who are otherwise hard to reach and may not be able to provide proof of identity and address. In situations where a resident is unable to provide proof of identity or proof of address they can be introduced for Aadhaar by a pre designates "Introducer". An Introducer is a person who is authorized to introduce a resident who does not possess any PoA / PoI documents. The main objective of the introducer system is to enable enrolment of residents into Aadhaar, who are otherwise hard to reach and may not be part of any government database. Introducers are individuals (for example, Registrar's employees, elected members, members of local administration bodies, postmen, influencers such as teachers & doctors, Anganwadi / ASHA workers, representative of local NGO's etc.) identified by a Registrar and registered in UIDAI's CIDR as "Introducers". Introducer's are to be predominantly appointed by Registrars. In certain cases UIDAI may choose to appoint introducer's as well. It is the intent of the UIDAI to ensure that multiple Introducers are available for residents right down to the village level and in this regard will encourage Registrars to consider appointing government officials, school teachers, local NGO's, anganwadi workers and other reliable persons as Introducers.
+
+
+
+What is the verification process that will be followed by the enrolling agency before processing the documents for Aadhaar?
+A Demographic Data Fields Standards and Verification Procedure Committee under the chairmanship of Shri N.Vittal, the former Chief Vigilance Commissioner (CVC) has submitted its report with respect to the verification procedure. The document is available on the website in the Documents section.
+
+
+
+What is the Registrar's role in verification of documents during the enrolment?
+Since the enrolments for UIDAI is being done through Registrar's, it is responsibility of the Registrar to ensure that all PoA/PoI documents provided by the Residents are verified properly. The preferred mode of verification is through the Registrars employees but in exceptional circumstances the Registrar may assign the same as specific deliverable to EA that they engage. EA operator/supervisor will verify the document and sign/stamp the copy of document as proof of verification. The documents shall be properly tagged, indexed, and stored in a secure manner so as to protect the documents from unauthorised access and enable easy retrieval when required by UIDAI.
+
+
+
+What documents should the Registrar examine during verification procedure?
+The Registrar should verify PoI (Proof of Identity) and PoA (Proof of Address) documents. The Registrar will also verify DoB where resident provides documents supporting verified Date of Birth. In case of head of family based enrolments PoR (Proof of Relationship) documents will be verified. The photocopy will be verified against the originals and signed and stamped during the verification procedure. Please click here for a nationally valid list of documents.
+
+
+
+Whether the Ration card NEREGA Card etc can be accepted as Valid Proof of Identity/Address for the family members listed in the document in case they do not have separate PoI or PoA document?
+Yes. The family entitlement documents may be accepted as proof of Identity/Address for family enrolments as long as the head of the family whose photograph appears on the documents presents and verifies the identity and address of the family members and the Registrar authorized verifier countersigns the copy of the document as proof of acknowledgement.
+
+
+
+Whether UIDAI has defined process to be followed for Family enrolments?
+Yes. Head of the Family should invariably bring the original POI/POA for verification and only those family members can be enrolled based on the family entitlement document, whose names & other details are recorded on it. For family enrolments it is desirable that the family should come together for enrolment as far as possible. . In case all the members cannot make it on the same day then the head of family should invariably accompany the family member whenever he/she comes for the enrolment
+
+
+
+WWhat is the option if the address indicated on the PoA document appears to be inadequate for postal delivery? Can additional information from the residents be accepted?
+Yes. The resident may be allowed to add minor fields such as House No., Lane No., Street Name, correcting typographic errors, minor changes/ corrections to pin code etc. to the address listed in the PoA document as long as these additions/modifications do not alter the base address mentioned in the PoA document. If the changes requested are substantial and change the base address that is listed in the PoA, the resident will require to provide an alternate PoA or enroll through an Introducer.
+
+
+
+Where multiple address proofs are available for a resident (eg. present and native), which proof would UIDAI accept, and where will it send Aadhaar Letter?
+The UIDAI asks the resident to confirm the addresses ( from the multiple address proof) on which he wants to receive Aadhaar letter . Will the resident's name be validated against PoA/PoI, or can it be different? What if the resident has multiple PoA/PoI wherein each of the identifications he/she has a different name? In this case, which name has to be recorded in the Enrolment Center. In the document based enrolment, the Enrolment Agency should verify the proof of identity documents produced by the individual before recording the name. The name of the person in full should be entered in the field provided for this purpose. Ascertain from her/him the expansion of her/his initials and check the same in the documentary evidence produced before recording the name in full. In case of difference in the name declared and the one in document (PoI), the name as declared by the resident may be recorded by the Enrolment Agency provided the difference is only in spelling. If two documentary proofs produced by the enrollee have variation in the same name (i.e., with initials and full name), the enrollee's preferred name should be recorded. The last name can be written prior to first name, if resident so desires.
+
+
+
+Who are "Introducers"?
+An Introducer is a person who is authorized to introduce a resident who does not possess any PoA / PoI documents. The main objective of the introducer system is to enable enrolment of residents into Aadhaar, who are otherwise hard to reach and may not be part of any government database. Introducers are individuals (for example, Registrar's employees, elected members, members of local administration bodies, postmen, influencers such as teachers & doctors, Anganwadi / ASHA workers, representative of local NGO's etc.) identified by a Registrar and registered in UIDAI's CIDR as "Introducers".
+
+
+
+What is the verification process that will be followed by the enrolling agency before processing the documents for Aadhaar?
+A Demographic Data Fields Standards and Verification Procedure Committee under the chairmanship of Shri N.Vittal, the former Chief Vigilance Commissioner (CVC) has submitted its report with respect to the verification procedure. The document is available on the website in the Documents section.
+
+
+
+Can anyone with Aadhaar become an Introducer?
+No, an Introducer has to be authorized by the enrolling Registrar & registered in UIDAI's CIDR as an "Introducer".
+
+
+
+Who is eligible to become an Introducer?
+The eligibility criteria for an Introducer is as follows: Introducer should have Aadhaar prior to appointment; this needs to have been issued basis PoI/PoA verification (i.e., an Introducer can not have been enrolled through another Introducer) Introducer must be easily accessible to residents Introducer must be above the age of 18 years Introducer should not have been convicted for any offence (self-declaration for the same to be taken)
+
+
+
+Can NGOs also become Introducers?
+An NGO as an organization cannot become an Introducer. However, an official working for the NGO can become an Introducer. An Introducer needs to have his/her Aadhaar before he/she can become an Introducer. UIDAI will issue Aadhaar to individuals & not to organizations.
+
+
+
+What are the guidelines for appointing Introducers?
+Broad guidelines that can be used by registrars for creating a list of introducers within their domain are as follows: The list of approved Introducers should go down till the village level so that the process of registration is not hampered due to lack of introducers. Residents should have access to multiple Introducers so as to reduce dependence and potential constraints of having a single Introducer. The Registrars need not keep the list of approved Introducers limited to their own department/organization. Village teachers, anganwadi workers, ASHA workers, postmen and even representatives of local NGO's could be appointed as approved Introducers by Registrars. As an example, in NREGA, there are a number of NGOs involved in NREGA social audit, and the Registrars could nominate some of the representatives of these NGOs who work at the village level as the approved Introducers. Introducer list should include members from credible organizations which have traditionally been advocates of vulnerable communities to make sure goal of inclusion is truly achieved. For example, in the case of migrant workers, members from their employers (in large industries like construction, mining, etc) or representatives of NGOs who work specifically for their welfare could be recognized as Introducers.
+
+
+
+What are the liabilities & obligations of Introducers?
+Obligation of the Introducer: Introducer confirms the identity and address of the resident they are introducing. Introducer must only introduce residents who do not have documentary proof of identity or address. Introducer is not obliged to introduce every person who approaches them . Introducer cannot charge fees for introducing residents. Liability of the Introducer - The Introducer maybe criminally liable if: Introducer colludes with a person to impersonate another person (dead or alive) at the time of enrolment. Introducer helps Aadhaar holder to deliberately take on the identity of another person by changing their demographic information or colludes to provide false biometric information.
+
+
+
+Will Introducers be limited to an area or can they introduce people anywhere in the country?
+Introducers will be linked to a Registrar (one or many). Therefore, the Introducer can only introduce people with the Registrar's jurisdiction. In addition, a Registrar can further limit the operations of an Introducer by administrative boundaries (State district level .)
+
+
+
+Can I get Aadhaar if I do not have Ration Card/Election Card ?
+UIDAI process accepts 18 PoI (Proof of Identity) and 33 PoA (Proof of Address) documents. Please click here for a nationally valid list of documents. Common proofs of identity and address are election photo ID card, Ration card, passport and driving license. Photo ID cards like PAN card and Govt ID cards are permissible for identity proof. Address proof documents also include water & electricity & telephone bills from the last three months. In case you do not have above common proofs, Certificate of Identify having photo issued by Gazetted Officer/Tehsildar on letterhead is also accepted as PoI. Certificate of Address having photo issued by MP or MLA /Gazetted Officer/Tehsildar on letterhead or by Village Panchayat head or its equivalent authority (for rural areas) is accepted as valid PoA. Even if someone in a family does not have individual valid documents, the resident can still enrol if his/her name exists in family entitlement document. In this case the Head of Family in entitlement document needs to be enrolled first with valid PoI & PoA document. The head of the household can then introduce other members in the family while they are enrolling. UIDAI accepts 8 document types as Proof of Relationship. Please click here for a nationally valid list of documents. Where there are no documents available, resident may also take the help of Introducers available at the enrolment centre. The Introducers are notified by the Registrar. For further details please contact office of the concerned Registrar.
+FAQ on Enrolment & Update
+Testing & Certification
+
+
+
+Is training mandatory?
+Training is not mandatory; however it is recommended that the people desirous of working with the Enrolment Agencies (EA) as Operator /Supervisor and Operator Child Enrolment Lite Client undergo the Training Programme.
+
+
+
+Who will train the EA Operators/Supervisor & Operator CELC?
+Training for the Enrolment Staff is provided mainly by the Registrar & Enrolment Agency. The EAs can get their staff trained through their own trainers or by UIDAI Regional Offices on request. The staff can also self-train with the help of Training Material available on https://uidai.gov.in/testing-certification. Regional Offices (ROs) of UIDAI also deliver need based training through various programs like Classroom Training, Master Trainer’s Training/TOT and Orientation /Refresher program of EA staff. Mega Training Camps are also conducted by ROs to create large pool of Enrolment Staff as and when required.
+
+
+
+What are the different types of Training available in UIDAI?
+a) Master Trainer Training (TOT) is organized by Regional Offices for creation of Master Trainers who in turn train other EA Staff.
+b) Orientation/ Refresher Programs are anchored by ROs for EA Staff for quality enhancement and refreshing their knowledge from time to time.
+c) PRI/ULB and DLO Programs are organized by ROs for Verifier, Introducer, Member Panchayati Raj Institution and District Level officer on their role in Enrolment Ecosystem.
+d) Master Training is available for Officials performing Aadhaar seeding, Authentication and Financial Inclusion related activities. These training are organized by ROs with the help of Content Development Agency hired by UIDAI for this purpose.
+
+
+
+What is the duration of training?
+Duration of training will depend on requirement of Registrar/ EAs. EA may customize the material as per local needs and create additional content to make it Registrar specific, if required.
+
+
+
+What are the different categories of Training Material available?
+a) Training Material including multiple Modules, PPT and CBT required for certification of EA Staff - Operator/Supervisor and Operator CELC is available on https://uidai.gov.in/beta/enrolment-update/enrolment/testing-certification.html  b) Training Material including Handbook and Program Schedule is available for PRI/ULB and DLO program on https://uidai.gov.in/beta/enrolment-update/enrolment.html  c) Training Material including Learner Guide, PPT and CBT for Operator performing Aadhaar seeding, Authentication and Financial Inclusion related activities is available on https://uidai.gov.in/beta/authentication/seeding-authentication-fi.html
+
+
+
+Where can one access Training Material?
+It can be accessed on https://uidai.gov.in/beta/enrolment-update/enrolment/testing-certification.html . The training content is available in PDF, PPT and Computer based training (CBT) formats.
+
+
+
+Is testing mandatory for working as Enrolment Agency Operator/Supervisor or Operator CELC under UIDAI?
+Yes. Testing and Certification for Enrolment Operator/Supervisor and Operator CELC is mandatory. No enrolment can be performed without a valid certificate.
+
+
+
+Is there any basis qualification required for certification?
+To qualify for the role of Supervisor, the person should satisfy the following criteria: a. The person should be of age 18 years and above. b. The person shall be 10+2 pass and should preferably be a graduate c. The person should have a good understanding and experience of using a computer d. The person should preferably have prior experience of working in Aadhaar Enrolment program To qualify for the role of Operator, the person should satisfy the following criteria: a. The person should be of age 18 years and above. b. The person shall be minimum 10+2 pass. c. The person should have a basic understanding of operating a computer and should be comfortable with local language keyboard and transliteration To qualify for the role of Operator CELC, the person should satisfy the following criteria: a. The person should be of age 18 years and above. b. The person shall be minimum 10+2 pass. In case of Anganwadi/Asha Worker, the minimum qualification is 10th pass c. The person should have a basic understanding of operating a computer and should be comfortable with local language keyboard and transliteration
+
+
+
+Is Aadhaar Number mandatory for the Certification?
+Yes. To register for the certification exam the candidate should have a valid Aadhaar Number. Exam registration details should be exactly similar to information mentioned in candidate’s Aadhaar.
+
+
+
+Where is the question bank for Certification test available?
+Question bank in 13 regional languages containing 454 questions for Operator/Supervisor exam and 65 questions for Operator CELC is available on https://uidai.gov.in/beta/enrolment-update/enrolment/testing-certification.html
+
+
+
+What is the structure of the certification test?
+The duration of Test will be 1 hour 45 minutes with Text based Multiple Choice Questions only. There will be 75 Questions for Operator/Supervisor Certification and 50 Questions for Operator CELC Certification. The detailed module wise test structure in available on https://uidai.gov.in/beta/enrolment-update/enrolment/testing-certification.html
+
+
+
+Who will conduct the test?
+M/S NSEiT (http://uidai.nseitexams.com.) is the agency chosen by UIDAI for complete Testing and Certification.
+
+
+
+What are the fees for taking the Certification test?
+Rs. 365 per test and Rs. 200 per retest are applicable. The fee has to be deposited in cash at any SBI Bank branch across India.
+
+
+
+What is the validity of exam fee?
+As per UIDAI’s new Testing and Certification Policy "The candidates must schedule their test within 6 months of depositing the fee, failing which, their fee shall be forfeited and they shall not be allowed to appear for the test against that fee.
+
+
+
+Can the EA make bulk payment of the candidates’ test/retest fee?
+Yes. The EA should contact NSEiT Helpdesk about the Bulk payment for issuance of Alternate Challan numbers valid for a period of 6 months from date of payment.
+
+
+
+How can I Register for the test?
+The registration information is available on NSEiT portal: http://uidai.nseitexams.com
+
+
+
+Where should contact in case of any problem in Registration?
+You can contact NSEiT Helpdesk on Toll free No.: 022-42706500 or send email to:This email address is being protected from spambots. You need JavaScript enabled to view it.
+document.getElementById('cloak31948dbe8ba7d48c77c91c2758ecdc72').innerHTML = '';
+var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+var path = 'hr' + 'ef' + '=';
+var addy31948dbe8ba7d48c77c91c2758ecdc72 = '&#117;&#105;d&#97;&#105;_&#97;dm&#105;n' + '&#64;';
+addy31948dbe8ba7d48c77c91c2758ecdc72 = addy31948dbe8ba7d48c77c91c2758ecdc72 + 'ns&#101;&#105;t' + '&#46;' + 'c&#111;m';
+var addy_text31948dbe8ba7d48c77c91c2758ecdc72 = '&#117;&#105;d&#97;&#105;_&#97;dm&#105;n' + '&#64;' + 'ns&#101;&#105;t' + '&#46;' + 'c&#111;m';document.getElementById('cloak31948dbe8ba7d48c77c91c2758ecdc72').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy31948dbe8ba7d48c77c91c2758ecdc72 + '\'>'+addy_text31948dbe8ba7d48c77c91c2758ecdc72+'<\/a>';
+
+
+
+How will this test be conducted?
+It will an Internet based testing in proctored environment at the specified test centers.
+
+
+
+Where is the test center located?
+Test Centers are available across various states of India. Detailed information regarding the test centers is available on the portal http://uidai.nseitexams.com.
+
+
+
+How many times can I take the test?
+The candidate can take unlimited number of attempts before he passes the certification exam.
+
+
+
+In case I have to take a retest, would I have to pay the fee again?
+Yes. Every time the retest is taken, fee of Rs 200per Retest would be applicable.
+
+
+
+Will I have to take the retest in all the modules even If I pass a few modules in first attempt?
+Yes. Every time the candidate has to clear the complete exam including all the modules.
+
+
+
+Is there a need of recertification?
+No! UIDAI has mandated onetime certification for one role, e.g. Enrolment Operator /Supervisor or Operator CELC. Whereas, candidate certified for Operator role can take Supervisor role certification and Operator CELC can take certification exam for Enrolment Operator/Supervisor.
+
+
+
+Can Blacklisted Operator/Supervisor get recertified?
+No! Aadhaar numbers of all the Blacklisted Operators/Supervisors are blocked for recertification. Candidate cannot get recertified in any role until his blacklisting is removed.
+
+
+
+Who will issue the certificate? UIDAI or NSEiT?
+The Certificate will be given by NSEiT
+
+
+
+How can I familiarize myself with flow of the test flow?
+The test familiarization module is available on the website https://uidai.nseitexams.com
+
+
+
+Where should contact in case of any issues in Certificate activation?
+You can contact UIDAI Helpdesk on 080-23099400 or send email to This email address is being protected from spambots. You need JavaScript enabled to view it.
+document.getElementById('cloak96815eaa7b826d1623ccc4aafb765597').innerHTML = '';
+var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+var path = 'hr' + 'ef' + '=';
+var addy96815eaa7b826d1623ccc4aafb765597 = 't&#101;chs&#117;pp&#111;rt' + '&#64;';
+addy96815eaa7b826d1623ccc4aafb765597 = addy96815eaa7b826d1623ccc4aafb765597 + '&#117;&#105;d&#97;&#105;' + '&#46;' + 'n&#101;t' + '&#46;' + '&#105;n';
+var addy_text96815eaa7b826d1623ccc4aafb765597 = 't&#101;chs&#117;pp&#111;rt' + '&#64;' + '&#117;&#105;d&#97;&#105;' + '&#46;' + 'n&#101;t' + '&#46;' + '&#105;n';document.getElementById('cloak96815eaa7b826d1623ccc4aafb765597').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy96815eaa7b826d1623ccc4aafb765597 + '\'>'+addy_text96815eaa7b826d1623ccc4aafb765597+'<\/a>';
+
+
+
+Where should contact after certification in case of Freelancer?
+You can contact Aadhaar Enrolment Agencies or Regional Office of UIDAI near your location for getting engaged as Enrolment Staff with them.
+FAQ on Authentication
+Use Of information in UIDAI Database
+
+
+
+How will the information in the database be used?
+The information (demographic & biometrics) in the UID database will be used only for the purpose of authentication
+
+
+
+What is authentication?
+Authentication is the process through which the aadhaar number of a resident , along with other attributes (including biometrics) are submitted to the Central Identities Data Repository for its verification and such Repository verifies the correctness thereof on the basis of information or data or documents available with it The response from the CIDR to a authentication query will only be a positive or a negative response, the UIDAI shall not give out the demographic or biometric information of a resident in response to an authentication query.
+FAQ on Authentication
+For Residents
+
+
+
+What is Aadhaar authentication?
+Aadhaar authentication is the process wherein Aadhaar number, along with other attributes (demographic and/or biometrics and/or OTP) is submitted to UIDAI’s Central Identities Data Repository (CIDR) for verification; the CIDR verifies whether the data submitted matches the data available in CIDR and responds with a “yes/no”. No personal identity information is returned as part of the response.
+
+
+
+When do I need to authenticate?
+Various service providers, such as PDS, NREGA, banks, are expected to link Aadhaar authentication to their services. Residents would need to authenticate either at the time of subscribing to the service or at the time of availing service delivery, as required by the service providers. This would benefit the residents as no one else can avail the benefits meant for a particular resident.
+
+
+
+What are the benefits of Aadhaar authentication?
+The purpose of Authentication is to enable residents to prove their identity and for service providers to confirm that the residents are ‘who they claim they are’ in order to provide services and benefits.
+
+
+
+From where can I authenticate?
+Authentication requests will be initiated at the point of service delivery by agencies using Aadhaar authentication. Examples include FPS shops, NREGA centres, bank terminals, education institutions and so on. Some of these touch points may be “assisted” (an operator handles the device) or as a “self-service” (kiosks, mobile phones, Internet terminals, etc.).
+
+
+
+How can I authenticate?
+To authenticate, residents should provide their Aadhaar number & other authentication attributes as requested by the service provider (fingerprint, OTP, name, address, age/DOB etc – either singularly or in combination). The request can be initiated from either a hand held device, laptop/desktop or mobile phone & sent to UIDAI’s CIDR for authentication.
+
+
+
+Through Aadhaar authentication, can someone find out my personal information?
+No. CIDR only returns “Yes/No” after matching the data submitted along with the Aadhaar number.
+
+
+
+What all data can be authenticated / verified with UIDAI?
+UIDAI provides demographic data verification & biometric authentication. Demographic data that can be verified includes data captured as part of enrolment – name, address, gender, age/DOB, mobile number, email address. Biometric authentication can be done through fingerprints or iris. In addition, UIDAI also provides OTP based authentication.
+
+
+
+Is there a mechanism to notify the residents when an authentication occurs against their Aadhaar number?
+UIDAI has an sms and email based notification mechanism. Through this mechanism, every time CIDR receives an authentication request against an Aadhaar number, a notification will be sent to the registered mobile / email address. UIDAI will also provide a facility wherein residents can request the history of authentication requests for a specified period of time
+
+
+
+Can I choose whether or not to receive notification when someone authenticates me?
+For biometric & OTP authentication, notification will necessarily be sent to the registered mobile and email address. For demographic data verification, residents can choose whether or not to receive notifications.
+
+
+
+I received an authentication notification even though I did not authenticate myself. Whom do I approach?
+The authentication notification will contain the name of the service delivery agency through which authentication request was received. Residents are advised to approach the respective service delivery agency.
+
+
+
+What if my authentication request gets rejected even though I provide my biometrics/demographic details with my Aadhaar number?
+If biometric authentication fails, residents can retry multiple times with different fingers, appropriate pressure and cleaning the sensor / their fingers. If biometric authentication fails repeatedly over a period of time, resident may need to approach an Aadhaar updation centre and get biometrics updated with CIDR. Resident may also go for Best Finger Detection (BFD) which will guide on the next steps. If demographic authentication fails, request should be resent after entering correct data – as provided to UIDAI at the time of enrolment & as printed in resident’s Aadhaar letter.
+
+
+
+What is Best Finger Detection (BFD)?
+Success of biometric authentication is dependent on the quality of biometric captured in the authentication request and at the time of enrolment. The quality varies across different fingers of a resident, amount of pressure applied etc. To educate residents on their suitable fingers for biometric authentication, UIDAI has developed a protocol called BFD.
+BFD application requires a resident to provide biometric authentication through each of the ten fingers one-by-one. All ten fingerprints along with the Aadhaar number are sent to CIDR, which in turn returns a response indicating which fingers are best suited for Aadhaar biometric authentication. Based on the fingerprint quality analysis, the resident may also be advised to update their biometrics with CIDR. For further details, residents can contact UIDAI’s contact centre.
+
+
+
+Do I need to undergo BFD before every biometric authentication?
+No. BFD or resident on-boarding is expected to be a one-time exercise, preferably before a resident does first biometric authentication.
+
+
+
+Where can I get BFD done?
+Every AUA is expected to deploy BFD application on their devices, which would be an integral part of the authentication device / application.
+
+
+
+What if I authenticate with a finger other than the “best” finger identified by the BFD tool?
+BFD helps improve chances of successful authentication with minimal number of attempts. If a resident authenticates if a finger other than the “best” finger, the authentication packet will still be processed. If the authentication transaction succeeds, the required service would be delivered. If the authentication fails, resident may try with another finger.
+
+
+
+Will I be denied my entitlements (ration, NREGA job etc.) if my authentication request is rejected?
+UIDAI and the service providers availing Aadhaar authentication recognize the fact that Aadhaar authentication is subject to certain technological and biometric limitations such as false accepts, false rejects, network availability etc. To counter the same, the service providers will have alternate processes to identify/ authenticate their beneficiaries/ customers. Residents should not be denied entitlements due to technological or biometric limitations.
+
+
+
+How will I authenticate if my fingerprints are worn out / I have no fingers?
+Service providers are advised to deploy alternate authentication mechanisms including Aadhaar OTP to handle such issues.
+
+
+
+How do I request for OTP?
+OTP can be requested through service providers’ application requiring OTP authentication, mobile number registered with CIDR, Aadhaar portal or Aadhaar contact centre. OTP will always be delivered to registered mobile and/or email.
+
+
+
+I do not have mobile / email. How will OTP be delivered to me?
+In the context of Aadhaar, usage of OTP adds the factor of “possession of mobile/email address” as a way to strengthen the authentication. Hence OTP will not be available as an option for residents who have not registered their mobile number or email with Aadhaar system.
+FAQ on Authentication
+For AUAs & ASAs
+
+
+
+What are the expected benefits of Aadhaar authentication? How to use Aadhaar authentication as part of service delivery?
+Some of the expected benefits of Aadhaar authentication are: • Establishing identity for purposes such as adding new beneficiaries, confirming genuine beneficiary before service delivery, attendance management, financial transactions etc. • Enabling demand-driven, portable service delivery by providing anywhere anytime real-time authentication • Access to relevant MIS and empowerment of beneficiary • Improving efficiency & transparency in service delivery by enabling tracking of end-to-end service delivery process, improving accountability and vigilance etc. • Access control to restricted areas such as airports, hotels, high security buildings etc.
+Aadhaar authentication may be used at various points in service delivery when there is a need to authenticate / identify / audit / hold accountable beneficiaries, officials or other members of service delivery / monitoring / audit chain. Illustrative details on how Aadhaar authentication may be integrated in various service delivery programs such as PDS, NREGA, JSY, SSA etc are available in various working papers and presentations developed by UIDAI.
+
+
+
+What all data can be authenticated / verified with UIDAI?
+Aadhaar authentication supports demographic data verification & biometric authentication. Demographic data that can be verified includes data captured as part of enrolment – name, address, gender, age/DOB, mobile number, email address. Biometric authentication can be done through fingerprints or iris. In addition, UIDAI also supports OTP based authentication.
+
+
+
+How can Aadhaar authentication be used for cleaning up database(s)?
+Aadhaar fundamentally provide two values – uniqueness and online authentication. Uniqueness attribute can be used to eliminate ghosts & duplicates, if any, from databases. Online authentication for demographic data such as name, address, age/DoB, mobile number and email address can be used for keeping database up to date and clean.
+
+
+
+How can an AUA use Aadhaar authentication services to seed Aadhaar in their database?
+An AUA can request Aadhaar holders to provide their Aadhaar numbers, for seeding in the database, before service delivery. An AUA can further verify the correctness of the Aadhaar numbers, so provided, through demographic and/or biometric authentication of the Aadhaar holders.
+
+
+
+Is resident involvement mandatory for every Aadhaar authentication?
+Resident involvement is not necessary but his informed consent is mandatory for demographic authentication, wherein an AUA can verify demographic attributes such as name, age/DOB, address, gender, mobile number, email address available in AUAs’ database. However, for biometric and OTP authentication, resident involvement is necessary for every authentication transaction
+
+
+
+Do the names/addresses of beneficiaries/ customers in AUA database need to be spelled same as that in CIDR for verification?
+Not necessary. Aadhaar authentication supports exact match and partial match. Partial match implies that based on a threshold that an AUA sets, name “Ram Kumar” can be authenticated as “R Kumar” OR “Ram K”. For partial match, at least spelling of one word should match exactly. Similarly, for address, the verification can be either entire address verification or partial at state, district, pin code, village / town/city, locality, house number level.
+
+
+
+What all authentication factors is UIDAI supporting?
+Besides demographic data verification, UIDAI offers following factors of authentication for cases where it is required to prove “who you say you are”: • Who you are (inherence factor) – biometrics • What you have (possession of mobile) – OTP
+
+
+
+Can an AUA use one authentication factor from UIDAI & another one from itself?
+Yes. UIDAI advocates federated authentication system wherein, the AUAs are encouraged to use Aadhaar Authentication in conjunction with the AUA’s existing authentication system. Aadhaar authentication will supplement & work in conjunction with existing authentication systems to strengthen the overall authentication rather than replace existing authentication systems
+
+
+
+Can Aadhaar authentication be combined with ATM/card based authentication? If yes, how?
+Yes. An AUA is free to combine multiple authentication factors for strengthening the authentication services / fulfil other service/business/regulatory needs.
+
+
+
+How many fingers should be used for authentication?
+One or more fingers can be used for an authentication transaction.
+
+
+
+How can an entity become an AUA ?
+Key steps to be followed: - Entity are classified in three categories (i) Govt. (ii) Regulated (iii) Private & other - An entity required to submit the relevant documents as per the category along with the AUA & KUA Application form - Engage with ASA and submit Letter of Engagement - Submit Technical declaration and set-up complete IT Infrastructure - Contract signs between UIDAI & AUA - Complete end-to-end test transactions - Share transaction logs and Audit Compliance report to Technical Team for validation - UIDAI validate the transactions & Compliance report - Go-Live
+
+
+
+Is it necessary for an agency seeking to utilize Aadhaar authentication for its service delivery to have direct agreement with UIDAI?
+Aadhaar authentication ecosystem has provision wherein any agency seeking to use Aadhaar authentication of its customers/associates etc for service delivery can engage with an existing AUA. Such agencies which enter into agreements with AUA are defined as Sub-AUA. Any agency wanting to become an AUA needs to have an agreement with UIDAI directly.
+
+
+
+What is the extent of process & technology re-engineering required for using Aadhaar authentication?
+To reap maximum benefits from Aadhaar authentication, AUAs may re-engineer some of their processes and technology. AUAs could use Aadhaar authentication to not only verify their beneficiaries / customers but also improve efficiencies in their entire supply chain. Adoption of Aadhaar authentication may also provide an opportunity to various service delivery agencies to review and improve their service delivery model. At the minimum, AUAs would need to identify points in their service delivery where Aadhaar authentication may be integrated and then ensure the technology and processes are integrated for doing the same. The details of technology re-engineering required are available on technical FAQs, API & other technical documents present on UIDAI’s website http://uidai.gov.in/.
+
+
+
+Can someone help me with the process & technology re-engineering?
+UIDAI has empanelled certain consulting and software development companies who may be roped in for the required support. AUAs are also free to either use in-house skill set or carry out their own tendering and procurement process for hiring services of entities that may help with technology re-engineering.
+
+
+
+Will UIDAI provide the client application required for doing authentication?
+UIDAI provides API documents and reference implementations. AUAs need to develop client application based on their requirements related to service delivery, authentication interface, probable devices etc.
+
+
+
+Are there any specific application components that need to be included in authentication client application?
+Besides the authentication application, which is based on AUA’s business needs and UIDAI’s authentication API, the authentication devices should have following applications: • Best Finger Detection (BFD) application • Mobile Update API • Exception handling provisions
+
+
+
+What is resident On-boarding process?
+One of the known limitations of biometric technology is false rejections. To minimize the same and provide residents an opportunity to understand their biometrics better before doing authentication, UIDAI proposes a resident On-boarding process. This will also help manage resident expectations and provide guidance to AUAs for exception handling requirements, if any.
+To minimize the same and provide residents an opportunity to understand their biometrics better before doing authentication, UIDAI proposes a resident on-boarding process to be implemented by AUAs. As part of this process, when resident approaches an AUA for biometric authentication for the first time, BFD is carried out and resident is advised of this best finger(s) for authenticating. If required, a resident may also be advised to approach an Aadhaar updation centre to update his/her biometrics.
+
+
+
+When should BFD be done? How will an operator know when to initiate BFD application?
+BFD or resident on-boarding is expected to be a one-time exercise, preferably before a resident does first biometric authentication. BFD application should be integrated with the overall service delivery application and should be initiated based on a certain API error code returned by CIDR.
+
+
+
+Does an AUA need to set up dedicated centres for BFD / Resident on-boarding?
+No, BFD / resident on-boarding may be carried out through the standard service delivery authentication devices that an AUA deploys. BFD is done through a single fingerprint scanner. Other details of BFD are available in the BFD API document.
+
+
+
+What is OTP application?
+If an AUA opts for Aadhaar-based OTP authentication, the AUA should build a module for initiating OTP request and integrate the same with its service delivery application. The API for developing OTP request application is available on UIDAI’s website.
+
+
+
+What are exception handling provisions and why are they required?
+The device application should have provisions to service genuine residents who may be falsely rejected during biometric authentication. Also, there should be measures to continue service delivery in case of other technological limitations such as network non-availability, device breakdown etc. There should be no denial of service to residents due to technology limitations. The exception handling mechanisms should be backed up by features to log and track requests handled through exception handling mechanism to prevent any fraud attempts.
+
+
+
+What kind of devices need to be used?
+An AUA can choose a suitable device form & factor depending on its deployment environment and other service delivery / business need. For biometric authentication, AUA would need to adhere to sensor and extractor SDK specifications provided by UIDAI. These sensors and extractors can be integrated with device form and factor suitable to AUA.
+
+
+
+Would UIDAI be certifying devices? If yes, how?
+Certification is required only for the sensor and extractor combinations required for biometric authentication. Overall devices will not be certified. The certification will be done by a STQC. The certification process would be similar to that of enrolment biometric devices. The details are on http://www.stqc.gov.in/.
+
+
+
+Does each device need to be registered with UIDAI / CIDR?
+As part of public devices and currently published authentication specification, registering each device is not required. In the future, as specifications change, this may be required. UIDAI will publish updated specifications and processes.
+
+
+
+Is there any certification mechanism for the authentication device operators?
+Not as of now. Training & certification of operators/devices depends on AUAs business model and rules. Based on those, AUAs may choose to train and certify operators and other partners in their network. In case an AUA opts for biometric authentication, some key areas that should be part of operators’ training include: • Usage of biometric devices and Do’s / Don’ts for capturing good quality biometrics • Usage of BFD, process for on-boarding residents and guiding residents for next steps • Exception handling processes and ensuring no denial of service to residents due to technology limitations • Fraud monitoring & fraud reporting mechanisms • Basic troubleshooting steps and contact details of AUA’s device/application support team
+
+
+
+Do the operators need to get registered with UIDAI / CIDR?
+Not as of now. AUAs are expected to manage all partners and users within their network for conducting transactions. UIDAI offers just authentication and how it is used within the business transaction is based on the AUA application and rules.
+
+
+
+How can devices be connected to servers for authentication? Any leased line required?
+Remote devices should be able to send authentication request to AUA servers over various types of networks – mobile network, PSTN, broadband. UIDAI mandates a leased line only between ASA and CIDR.
+
+
+
+What is the expected turnaround time for authentication response?
+Under normal circumstances (depending on the choice of network by the AUA), the expected turnaround time is about 1 second to 10 seconds.
+
+
+
+How to carry out authentication if network connection is down?
+For cases where connectivity is intermittent or connectivity is a little distance away, UIDAI has a solution called “buffered” authentication wherein authentication request may be “buffered” (or queued) on the device until a pre-specified period of time and then sent to CIDR for authentication when connectivity is restored / available.
+
+
+
+What is buffered authentication?
+Buffered authentication is a type of online authentication where requests are queued up at the device for a short time (currently up to 24 hours) and sent to CIDR when connectivity is restored. Buffered authentication may be used in situations where connectivity is intermittent or connectivity is a little distance away.
+
+
+
+Who are the ASAs that an AUA can approach for carrying out Aadhaar authentication?
+ASAs are entities with secured lease line connectivity with UIDAI CIDR. There are distinct advantages of having ASA such as better manageability, more security, and provision for AUA to focus on service delivery rather than establishing lease line connectivity etc. The list of approved ASAs will be available online. An AUA can choose to engage with any of the approved ASAs. An AUA may become its own ASA as well by establishing leased line and completing rest of the process-technology integration.
+
+
+
+Can ASAs charge money for enabling Aadhaar authentication?
+Yes, ASAs can charge for the services they offer to AUAs. By enabling several ASAs and also allowing AUAs to connect directly, UIDAI will ensure choice and healthy competition.
+
+
+
+How can an entity become an ASA?
+The qualification criteria for becoming an ASA are published on UIDAI’s website. Any entity fulfilling the criteria and interested in becoming an ASA needs to do the following: - Submit the documents as per the category along with the ASA Application form - Submit Technical declaration and set-up complete infrastructure - Contract signs between UIDAI & ASA - Set-up connectivity with both the Data Center i.e. HDC & MDC - Complete end-to-end test transactions  - Share transaction logs and Audit Compliance report to Technical Team for validation - UIDAI validate the transactions & Compliance report - Go-Live
+
+
+
+Who all can connect to “Public authentication URL” offered by UIDAI?
+This is provided only for testing purposes. This is not expected to be used for production. The URL is http://authportal.uidai.gov.in/
+
+
+
+What kind of contracts, obligations do AUAs/ASAs need to sign/understand?
+Both AUAs and ASAs need to sign contracts with UIDAI. The contract between AUA and ASA is the discretion of signing parties. UIDAI has a set of proposed guidelines that may be included in the contract between an ASA and an AUA. However, the contract (and commercial terms, if any) between an ASA and an AUA is at the sole discretion of the signing parties and UIDAI does not have any responsibilities regarding same. Similarly, if an ASA provides any value added services to an AUA over and above Aadhaar authentication, UIDAI will not be party to any such services.
+FAQ on Enrolment & Update
+Inclusion
+
+
+
+How will the UIDAI ensure that the poor and marginalized are covered and that there is no identity divide created as a result of this process?
+Inability to prove identity is one of the biggest barriers preventing the poor from accessing benefits and subsidies. The UIDAI is committed to an inclusive enrolments where children, differently abled persons, the poor and marginalised can also secure a unique ID. The extensive network of Registrars that have large network among the poor and rural communities such as (National Rural Employment Guarantee) NREGA Scheme ,RSBY etc will help bring large number of poor and underprivileged into UID system.  In addition, the UIDAI is also working with outreach groups to access hard to reach communities like tribal, the differently-abled, urban poor, workers in the unorganised sector.  UIDAI has also created a system of ‘Introducer’ to enable enrolment of residents into Aadhaar, who are not be part of any government database or who don’t have valid document to prove their identity. The Registrars identify people from various walks of life such as elected members, members of local administration bodies, postmen, influencers such as teachers & doctors, Anganwadi / ASHA workers, representative of local NGO’s etc. and register them in CIDR as “Introducer”.
+
+
+
+How will the biometric of the Differently-abled and people with no finger prints or rugged hands e.g. beedi workers or people with no fingers be captured?
+There is a well defined process for handling exceptions in aadhaar enrolments. The biometric standards prescribed by the UIDAI takes care of that the people without hands/ fingers/ eyes etc so that no one can be deprived of the Aadhaar.
+
+
+
+How will children be captured in the database?
+For Children below 5 years of age, Aadhaar will be issue based on their parents/ guardian’s Aadhaar. These children will need to re-enrol and have biometrics captured at age 5 and 15 – the UIDAI will send a reminder letter for the same. For children above 5 years biometrics will be captured during enrolment. They will need to re-enrol at the age of 15 years – the UIDAI will send a reminder letter.
+FAQ on Authentication
+Financial Inclusion
+
+
+
+Is training mandatory?
+Training is not mandatory, however it is recommended that the people desirous of working with the Enrolment Agencies (EA) as operator , supervisor and tech support undergo the training programme (as mentioned in the Training Design structure) .
+
+
+
+What are the plans for developing the training ecosystem in UIDAI?
+UIDAI has empanelled 15 training agencies. These training agencies are being invited for Masters Trainers workshop to be trained by UIDAI.
+The faculty members of empanelled Training Agencies- are being trained in Master Trainers(MT) Programme. UIDAI is organizing Master trainer programmes (MT) for the purpose of developing Master trainers, who in turn can replicate training. Nominations for the MT programmes are being organized from the empanelled training institutes before each programme.The list of faculty members trained in MT programmes is available on the website
+The Enrolment agencies (EAs) may get their staff trained through the empanelled training agencies
